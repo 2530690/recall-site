@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 10997,
+  "RecallNumber": "26791",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves The Blue Cactus Company Reclining Chair 2500 mAh battery packs with model number RWX-RBP02.  The battery packs are black with the brand logo and brand name of \"The Blue Cactus Company\" imprinted on the front. The recalled battery packs can be identified by the model number RWX-RBP02 printed on the rear of the product and were designed to be used with various brands of reclining chairs. \n\nNote: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+  "URL": "https://cpsc.gov/Recalls/2026/The-Blue-Cactus-Company-Reclining-Chair-Battery-Packs-Recalled-Due-to-Fire-and-Burn-Hazards-Sold-on-Amazon",
+  "Title": "The Blue Cactus Company Reclining Chair Battery Packs Recalled Due to Fire and Burn Hazards; Sold on Amazon",
+  "ConsumerContact": "The Blue Cactus Company by email at recall@thebluecactuscompany.com or online at https://www.thebluecactuscompany.com/ and click on \"Important Recall Information\" to learn more.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "The Blue Cactus Company 2500 mAh Battery Packs for Reclining Chairs",
+    "Description": "",
+    "Model": "",
+    "Type": "Adapter/Power Supply/Charger/Battery",
+    "CategoryID": "1808",
+    "NumberOfUnits": "About 51,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BlueCactus1.jpg",
+    "Caption": "Front View of Recalled The Blue Cactus Company Battery Pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BlueCactus2.jpg",
+    "Caption": "Rear View of Recalled The Blue Cactus Company Battery Pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BlueCactus3.png",
+    "Caption": "Rear View of Recalled The Blue Cactus Company Battery Pack"
+   }
+  ],
+  "Injuries": [],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from May 2023 through July 2026 for about $105.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Go North Rocket 28 AB, of Sweden",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The lithium-ion battery in the recalled battery packs can overheat, posing fire and burn hazards to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled battery packs immediately and contact The Blue Cactus Company for a replacement battery pack."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": {
+  "summary": "The Blue Cactus Company has recalled approximately 51,000 reclining chair 2500 mAh battery packs with model number RWX-RBP02. The lithium-ion batteries inside can overheat, posing fire and burn risks to users.",
+  "next_steps": "Stop using the recalled battery packs right away. Get in touch with The Blue Cactus Company to receive a replacement battery pack.",
+  "model": "gemini-3.8-flash"
+ }
+}

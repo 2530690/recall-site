@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Primark has recalled approximately 2,100 of its 101 Dalmatians faux leather children's coin purses. The pouches contain elevated levels of phthalates, chemicals that can cause harmful developmental and hormonal effects if young children ingest or are exposed to them.",
+  "next_steps": "Stop using the coin purse immediately and store it out of reach of children. Bring the item back to any Primark store location to get a full refund in your original payment method.",
+  "model": "gemini-3.8-flash"
+ }
 }

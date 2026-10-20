@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 10994,
+  "RecallNumber": "26793",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves WinxMatrs-branded mattresses. The black mattresses are 10 inches thick and were sold in a twin size. They were sold compressed in a box. The size and the brand are printed on the mattress’ sewn-in labels.",
+  "URL": "https://cpsc.gov/Recalls/2026/Xinan-Home-Recalls-WinxMatrs-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
+  "Title": "Xinan Home Recalls WinxMatrs Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability",
+  "ConsumerContact": "Xinan Home by email at WinxMatrsMattressRecall@outlook.com.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "WinxMatrs Mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "Mattresses, Not Otherwise Specified",
+    "CategoryID": "1182",
+    "NumberOfUnits": "About 792"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Xinan1.png",
+    "Caption": "Recalled WinxMatrs Mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Xinan2.png",
+    "Caption": "\"WinxMatrs\" is printed on a sewn-in label on the side of the recalled mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Xinan3.png",
+    "Caption": "The size is printed on the sewn-in label of the recalled WinxMatrs mattress"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from August 2025 through November 2025 for about $120.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Huizhou Xiqijun Trading Co., Ltd, dba Xinan Home, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled mattresses immediately and contact Xinan Home for a full refund. Consumers will be asked to destroy the mattress by writing in permanent marker “RECALLED,” on the top surface of the mattress and on the mattress label and send photos of the marked mattress and of the label showing Xinan Home to WinxMatrsMattressRecall@outlook.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

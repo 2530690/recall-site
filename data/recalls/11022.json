@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "3M Company has recalled Scotch™ thermal laminators with model number TL1302Z because the devices can overheat and create a fire hazard. There have been dozens of incidents reported involving the machines smoking, melting, or catching fire. Fortunately, no injuries have been reported.",
+  "next_steps": "Immediately stop using and unplug the laminator, then visit https://www.scotchbrand.com/3M/en_US/scotch-brand/tl1302Z-laminator-recall/ to fill out the registration form for a full refund check. You will need to upload a photo proving the unplugged machine's power cord has been cut. Once confirmed, discard the disabled laminator following your local and state electronic recycling rules.",
+  "model": "gemini-3.8-flash"
+ }
 }

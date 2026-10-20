@@ -80,5 +80,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "DR Power Equipment has recalled its Pilot and Premier walk-behind trimmer mowers because they pose fire and burn hazards. Yard debris and grass can collect inside the machines and catch fire. This issue puts users at risk of serious burns, severe injury, or death.",
+  "next_steps": "Stop using the affected trimmer mowers immediately and contact DR Power Equipment to receive a free repair kit. If you have concerns about putting the kit on yourself, reach out to the company to set up a free repair with an authorized dealer.",
+  "model": "gemini-3.8-flash"
+ }
 }

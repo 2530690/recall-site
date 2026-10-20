@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Loving Thyself Rocks has recalled about 600 crystal glass cups that feature loose crystal stone chips sealed between two layers of glass. The glass inside the cups can break while being used, creating serious risks of cuts and swallowing broken fragments.",
+  "next_steps": "Stop using the recalled cups immediately and sign up at http://www.lovingthyselfrocks.com/recall to receive a full refund to your original payment method. You must complete an online form, upload a photo of your cup with the word \"RECALL\" written on the front in permanent black marker, and confirm that you will safely dispose of the item following the company's online instructions.",
+  "model": "gemini-3.8-flash"
+ }
 }

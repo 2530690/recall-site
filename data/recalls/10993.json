@@ -1,0 +1,76 @@
+{
+ "record": {
+  "RecallID": 10993,
+  "RecallNumber": "26796",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves Emerspring Mattresses. The mattresses are 12 inches thick and  sold in queen size. They have a white top and white sides with a green trim. They were sold compressed in a box. “Prototype ID: EMERS-12” and the manufacture date “6/2025” are printed on a sewn-in white label located on one side of the mattress.",
+  "URL": "https://cpsc.gov/Recalls/2026/Style-Homeware-Recalls-Emerspring-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
+  "Title": "Style Homeware Recalls Emerspring Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability",
+  "ConsumerContact": "Style Homeware email at EmerspringMattressRecall@outlook.com.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "Emerspring Mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "Mattresses, Not Otherwise Specified",
+    "CategoryID": "1182",
+    "NumberOfUnits": "About 263"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Emerspring1.png",
+    "Caption": "Recalled Emerspring Mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Emerspring2.png",
+    "Caption": "\"Prototype ID: \" and the manufacture date \"6/2025\" are printed on a sewn-in white label located on one side of the mattress"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from January 2026 through May 2026 for $226.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Style Homeware, Inc., of Monrovia, California",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Indonesia"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled mattresses immediately and contact Style Homeware to receive a free fitted cover to put over their mattress, which will bring the mattress into compliance with mandatory flammability standards."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

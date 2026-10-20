@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "The Conqueror has recalled around 476 Avengers Infinity Gauntlet medals because their strong magnets can break loose. If a child swallows these detached magnets, they can link together inside the digestive system and cause severe blockages, internal tears, blood poisoning, or fatal injuries.",
+  "next_steps": "Immediately stop using the medal and reach out to The Conqueror to choose between a full refund or a replacement. Owners need to cut off the ribbon, write \"RECALLED\" on both parts with a permanent marker, throw them in the trash, and send a photograph of the discarded items to support@theconqueror.events.",
+  "model": "gemini-3.8-flash"
+ }
 }

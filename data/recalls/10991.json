@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 10991,
+  "RecallNumber": "26788",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves Kesyup-branded Mattresses. They are 12 inches thick and were sold in twin, full, queen and king sizes. They have a white top and blue sides with blue trim. The mattresses were sold in compressed boxes. “Prototype ID: PU-US” is printed on a sewn-in white label on one side of the mattress.",
+  "URL": "https://cpsc.gov/Recalls/2026/ZCK01-Recalls-Kesyup-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
+  "Title": "ZCK01 Recalls Kesyup Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability",
+  "ConsumerContact": "ZCK01 by email at keysup123@163.com",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "Kesyup-branded Mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "Mattresses, Not Otherwise Specified",
+    "CategoryID": "1182",
+    "NumberOfUnits": "About 48,405"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture1_180.png",
+    "Caption": "Recalled Kesyup Mattress"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Picture2_146.png",
+    "Caption": "\"Prototype ID: \" is printed on a sewn-in white label on one side of the recalled Kesyup mattress"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None Reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "S-Q Business (HK) Limited, dba ZCK01, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from December 2024 through April 2026 for between $100 and $200.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled mattresses immediately and contact ZCK01 for a full refund. Consumers will be asked to destroy the mattress by writing in permanent marker “Recalled,” their name and the date on mattress’ top surface, and to email a photo of the destroyed mattress to keysup123@163.com. Consumers should then dispose of the recalled product in accordance with local and/or state disposal procedures."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": {
+  "summary": "ZCK01 has recalled approximately 48,405 Kesyup-branded mattresses because they fail to meet mandatory federal flammability standards. This defect poses a fire hazard that could lead to severe injuries or death.",
+  "next_steps": "Owners should stop sleeping on the mattresses right away and reach out to ZCK01 for a complete refund. To qualify, use a permanent marker to write \"Recalled,\" your name, and the date across the top of the mattress, email a photo of the marked bed to keysup123@163.com, and then discard it following your local or state disposal rules.",
+  "model": "gemini-3.8-flash"
+ }
+}

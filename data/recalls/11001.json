@@ -1,0 +1,85 @@
+{
+ "record": {
+  "RecallID": 11001,
+  "RecallNumber": "26798",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves the portable sleep machine, which features various sounds, adjustable volume, a built-in nightlight, and includes a USB charging cable. “Love to Dream” is imprinted on the sleep machine and on the brown handle. Only machines with model number LTD-SM23 and date code 7W15TN are included in this recall. Both can be found on the side of the sleep machine or on the back of the box.",
+  "URL": "https://cpsc.gov/Recalls/2026/Love-To-Dream-Recalls-Portable-Sleep-Machines-Due-to-Risk-of-Injury-from-Fire-and-Burn-Hazards",
+  "Title": "Love To Dream Recalls Portable Sleep Machines Due to Risk of Injury from Fire and Burn Hazards",
+  "ConsumerContact": "Love To Dream toll-free at 833-753-3710 from 9 a.m. to 5 p.m. CT Monday through Friday, email at recall@lovetodream.com or online at https://lovetodream.com/recall or visit http://lovetodream.com and click on “Product Safety Recall” under the Help and Support column at the bottom of the page for more information.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "Portable Sleep Machines with Night Light model number LTD-SM23 and date code 7W15TN",
+    "Description": "",
+    "Model": "",
+    "Type": "Night-lights",
+    "CategoryID": "792",
+    "NumberOfUnits": "About 4,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Love1.png",
+    "Caption": "Recalled Portable Sleep Machine (Model Number LTD-SM23 and date code 7W15TN)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Love2.png",
+    "Caption": "Model: LTD-SM23 and \"Date Code: 7W15TN\" are printed on the side of the Recalled Portable Sleep Machine"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Love3.png",
+    "Caption": "Recalled Portable Sleep Machine Packaging"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nTarget and Nordstrom stores nationwide and online at lovetodream.com, Amazon.com, Walmartmarketplace.com, babylist.com and poshmommy.com from February 2025 through September 2026 for about $60.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Love To Dream, Inc., of Wilmington, Delaware",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The lithium-ion battery in the recalled portable sleep machines can overheat if the charger is not compatible with the unit, posing a risk of injury from fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled sleep machines immediately and register at https://lovetodream.com/recall to receive a full refund. Consumers should have the model number and date code, which can be found on the side of the unit, when they register. If your unit is included in the recall, the refunds will be reimbursed by an electronic payment method or store credit. Consumers will be asked to write “RECALL” on the front of the sleep machine in permanent black marker and attest to disposal of the recalled sleep machine following local and state regulations.  \n\nNote: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": {
+  "summary": "Love To Dream has recalled its Portable Sleep Machines with Night Light bearing model number LTD-SM23 and date code 7W15TN. The device's lithium-ion battery can overheat when connected to an incompatible charger. This defect creates a safety hazard that could lead to burns or fire.",
+  "next_steps": "Immediately stop using the device and register at https://lovetodream.com/recall with your unit's model number and date code to receive a full refund through store credit or an electronic payment. You will need to mark \"RECALL\" across the front of the machine with a black permanent marker and certify that you will discard it following local and state hazardous waste guidelines.",
+  "model": "gemini-3.8-flash"
+ }
+}

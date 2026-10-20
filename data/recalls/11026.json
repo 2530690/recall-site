@@ -81,5 +81,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "HatsanUSA has recalled all Blitz and Blitz 777 pellet air rifles because they can discharge unexpectedly. If the bolt is let go before the rifle is fully cocked, it may fire on its own. This defect creates a projectile hazard that can cause severe injury or death.",
+  "next_steps": "Owners should immediately cease using the rifles, confirm they are unloaded, and reach out to HatsanUSA. The company will provide a free trigger assembly replacement kit by mail with setup instructions, or send a prepaid shipping package so owners can return the rifle for professional inspection and part replacement.",
+  "model": "gemini-3.8-flash"
+ }
 }

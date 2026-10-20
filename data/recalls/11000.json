@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11000,
+  "RecallNumber": "26792",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves NEWDERY power banks with model number ZHX-PB22. The power banks are black with yellow cables. The brand name “NEWDERY” is engraved on the front and the model number “ZHX-PB22” is printed on the back.",
+  "URL": "https://cpsc.gov/Recalls/2026/NEWDERY-Power-Banks-Recalled-Due-to-Fire-and-Burn-Hazards-Risk-of-Serious-Injury-Sold-on-Amazon",
+  "Title": "NEWDERY Power Banks Recalled Due to Fire and Burn Hazards; Risk of Serious Injury; Sold on Amazon",
+  "ConsumerContact": "NEWDERY toll-free at 888-256-6673 from 11 a.m. to 7 p.m. ET Monday through Friday, email at support@newdery.com or online at https://www.newdery.com/pages/newdery-power-bank-recalls or go to www.newdery.com and click on “Recall” at the top of the page for more information.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "NEWDERY power banks",
+    "Description": "",
+    "Model": "",
+    "Type": "Adapter/Power Supply/Charger/Battery",
+    "CategoryID": "1808",
+    "NumberOfUnits": "About 21,380"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/NEWDERY1.png",
+    "Caption": "Recalled NEWDERY power bank (front)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/NEWDERY2.png",
+    "Caption": "Recalled NEWDERY power bank (back)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "NEWDERY has received nine reports of the recalled power banks exploding and igniting, including one report of a serious fire resulting in $2 million in property damage and one report of a burn injury."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from October 2023 to November 2024 for between $27 and $50.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Shenzhen Xinkewangda Electronics Co., Ltd., d/b/a NEWDERY, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The lithium-ion battery in the power banks can explode or ignite, posing fire and burn hazards to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled power banks immediately and contact NEWDERY for instructions on how to receive a full refund. To receive a refund, consumers will be required to submit a photo of their recalled power bank showing the model number, serial number and the word “recalled” and the consumer’s last name written on the power bank in permanent marker. Consumers will also be required to confirm disposal of the power bank in accordance with applicable laws and regulations before receiving a refund. \n\nNote: Do not throw this lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": {
+  "summary": "NEWDERY has recalled about 21,380 power banks with model number ZHX-PB22. The internal lithium-ion battery can ignite or explode, creating serious fire and burn hazards.",
+  "next_steps": "Stop using the power bank immediately and contact NEWDERY to receive instructions for a full refund. To qualify, you must provide a photo of the device showing its model and serial numbers along with your last name and the word 'recalled' written on it in permanent marker. You will also have to confirm that you disposed of the unit in line with local laws instead of placing it into regular trash or standard recycling bins.",
+  "model": "gemini-3.8-flash"
+ }
+}
