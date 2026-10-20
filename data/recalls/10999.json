@@ -1,0 +1,85 @@
+{
+ "record": {
+  "RecallID": 10999,
+  "RecallNumber": "26799",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "These recalled products are packaged in a large clear plastic bag. A white label on the clear plastic bag has, in black font, one of the following identifiers: 6502 (for the light-up tie), HD-10 (for the light-up headbands) or L-508 (for the light-up glasses). Each of the items are packaged in individual clear plastic in the larger bag. A white label on the individual clear plastic bag has black lettering that reads: “MADE IN CHINA, Importer: ABC TRADING, INC.”",
+  "URL": "https://cpsc.gov/Recalls/2026/ABC-Trading-Recalls-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "ABC Trading Recalls Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "ABC Trading toll-free at 323-581-3688 from 9:30 a.m. to 6 p.m. PT Monday through Friday, email at recallabc@gmail.com or online at https://www.abctradinginc.com/recall-2 or www.abctradinginc.com and click “Recall Information” at the top of the page for more information.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "Light-Up Glasses, Crown Headbands, Sparkle Headbands and Ties",
+    "Description": "",
+    "Model": "",
+    "Type": "Other Toys",
+    "CategoryID": "1441",
+    "NumberOfUnits": "About 43,674 units"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/ABC1.png",
+    "Caption": "Recalled ABC Trading Light-Up Crown Headbands"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/ABC2.png",
+    "Caption": "Recalled ABC Trading Light-Up Sparkle Headbands"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/ABC3.png",
+    "Caption": "Recalled ABC Trading Light-Up Glasses"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/ABC4.png",
+    "Caption": "Recalled ABC Trading Light-Up Ties"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nABC Trading stores in Los Angeles, California and other specialty stores nationwide and online at abctradinginc.com from September 2016 through May 2026 for about $1.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "ABC Trading Inc., of Vernon, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled children’s toys violate the mandatory standard for toys because they contain button cell batteries and the compartments that hold the batteries can be easily accessed by children, posing a deadly ingestion hazard to children. When button cell and coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled light-up toys immediately and contact ABC Trading for a refund. Consumers will be asked to email recallabc@gmail.com a photograph showing the product being disposed of in the trash. \n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

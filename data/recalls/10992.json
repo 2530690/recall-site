@@ -1,0 +1,76 @@
+{
+ "record": {
+  "RecallID": 10992,
+  "RecallNumber": "26789",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves 5Color-branded bicycle helmet and pads sets. The sets consist of a pink helmet, knee and elbow pads. Only the size small helmets are included in this recall. The helmets are size small (S), fitting a head circumference of about 18 to 22 inches, and have black padding, black straps, a black and a black fit-adjusting knob at the back. “2026/03/20” are included in this recall. “Model No.: YD-001,” “Lot/Ref: YD-260320” and “Date 2026/03/20” are printed on a label on the inside of the helmet and on the product packaging.",
+  "URL": "https://cpsc.gov/Recalls/2026/5Color-Recalls-Childrens-Bicycle-Helmet-and-Pads-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+  "Title": "5Color Recalls Children’s Bicycle Helmet and Pads Sets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
+  "ConsumerContact": "5Color toll free at 833-382-6461 from 9 a.m. to 2 p.m. CT Monday through Friday or email at FiveColorCS@163.com.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "5Color Children’s Bike Helmet and Pads Sets",
+    "Description": "",
+    "Model": "",
+    "Type": "Helmets & Helmet Accessories",
+    "CategoryID": "1995",
+    "NumberOfUnits": "About 324"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/5Color1.jpg",
+    "Caption": "Recalled 5Color Helmet and Pads Set"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/5Color2.jpg",
+    "Caption": "\"Model No.: YD-001,\" \"Lot/Ref: YD-260320\" and \"Date 2026/03/20\" are printed on a label inside of the Recalled 5Color helmet and on the set's packaging"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com in May 2026 for between $25 and $26.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Hengqin Guangwei Consulting Co., Ltd., dba. 5Color, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The helmets in the recalled sets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, retention system, positional stability, labeling and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the helmets immediately and contact 5Color for a full refund of the set. Consumers will be asked to destroy the recalled helmet by cutting the straps and email a photo of the destroyed helmet to FiveColorCS@163.com. Consumers should then dispose of the recalled helmet. Consumers may keep the protection pads."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

@@ -1,0 +1,73 @@
+{
+ "record": {
+  "RecallID": 11010,
+  "RecallNumber": "27013",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves Portable Camping Showers with a bucket and immersion heater. The shower system consists of a black rechargeable electric shower pump, a black shower head with gold trim, a black hose, a black 5-gallon collapsible bucket, a 1500-watt metal immersion water heater, and mounting and storage accessories. The ZAREI logo appears on the side of the 5-gallon collapsible bucket. \"ZAREI\" is printed in white under the display of the shower pump. The immersion heater has distinctive heart-shaped openings in its metal housing and a black plastic endcap.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Golden-Resale-Recalls-Portable-Camping-Showers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
+  "Title": "Golden Resale Recalls Portable Camping Showers Due to Risk of Serious Injury or Death from Fire Hazard",
+  "ConsumerContact": "Golden Resale toll-free at 855-927-3440 from 8 a.m. to 5 p.m. Monday through Friday, and Saturday and Sunday from 8 a.m. to 12 p.m. PT or email at golden.resale0624@gmail.com. ",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "Portable Camping Showers with bucket and immersion heater",
+    "Description": "",
+    "Model": "",
+    "Type": "Shower Items",
+    "CategoryID": "2123",
+    "NumberOfUnits": "About 400"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/golden1.png",
+    "Caption": "Recalled Portable Camping Shower with bucket and 1500W Heater (entire system)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com and Walmart.com from February 2026 through August 2026 for about $60.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Golden Resale LLC, of Mesa, Arizona",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled camping showers' immersion heaters can quickly ignite when they are partially or completely out of water, posing a risk of serious injury or death from a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the Portable Camping Showers immediately and contact Golden Resale toll-free at 855-927-2440 for a full refund. The refund process will be initiated through Amazon or Walmart's return systems. If consumers decide to continue with the full refund process, they will be sent a free pre-paid package to return the recalled camping showers to Golden Resale. Once the return is processed, the customers will receive the refund in the same form of payment as they used for their original purchase."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

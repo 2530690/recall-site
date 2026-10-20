@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 10995,
+  "RecallNumber": "26797",
+  "RecallDate": "2026-09-24T00:00:00",
+  "Description": "This recall involves smart glasses with model number AIR3 and are used for AI translation, AI-assisted productivity and media streaming. The recalled products are black with “AIR3” and “INMO” printed on a label on the right temple of the product.",
+  "URL": "https://cpsc.gov/Recalls/2026/INMO-International-Technology-Limited-Recalls-INMO-Air3-Smart-Glasses-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard",
+  "Title": "INMO International Technology Limited Recalls INMO Air3 Smart Glasses Due to Risk of Serious Injury or Death from Burn Hazard",
+  "ConsumerContact": "INMO International toll free at 888-212-9620 between 9 a.m. and 5 p.m. ET Monday through Friday, email at support.usa@inmoxr.com or online at https://inmoxr.com/pages/recall and click on “Product Recalls” at the top of the page for more information.",
+  "LastPublishDate": "2026-09-24T00:00:00",
+  "Products": [
+   {
+    "Name": "INMO AIR3 Smart Glasses",
+    "Description": "",
+    "Model": "",
+    "Type": "Eyeglasses",
+    "CategoryID": "110",
+    "NumberOfUnits": "About 1,643 (In addition, about 120 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/inmo-air3-smart-glasses-recalled-due-burn-hazard"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/INMOAir3%20-1.jpg",
+    "Caption": "Recalled INMO Air3 Smart Glasses"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/INMOAir3-2.png",
+    "Caption": "Label Located on the Inner Side of the Right Leg with Product \"INMO AIR3\""
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 10 reports of the AIR3 glasses overheating including reports of a burning sensation to the face and the left side of the ear."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com, Inmoxr.com, Kickstarter.com from December 2025 to August 2026 for between $900 and $1300.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "INMO International Technology Limited, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The left temple of the recalled smart glasses can overheat during extended use, posing a risk of serious injury or death due to burn hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled INMO Air3 Smart Glasses immediately and contact INMO for a free repair. The firm will assist users in updating the system to version V3.16 online."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

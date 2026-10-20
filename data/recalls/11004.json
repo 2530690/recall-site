@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11004,
+  "RecallNumber": "27005",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves the LandTale-branded adult portable bed rails. The bed rails have a white frame with black foam rubber grips and measure about 18 inches wide by 42 inches high. \"LandTale\" and SKU \"EBR001\" are printed on the instruction manual and the product packaging.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/YunHeng-Recalls-LandTale-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
+  "Title": "YunHeng Recalls LandTale Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails",
+  "ConsumerContact": "YunHeng by email at LandtaleBedRailsRecall@outlook.com ",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "LandTale Adult Portable Bed Rails",
+    "Description": "",
+    "Model": "",
+    "Type": "Adult Bed Rails",
+    "CategoryID": "1791",
+    "NumberOfUnits": "About 730"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/YunHeng1.jpg",
+    "Caption": "Recalled LandTale bed rail"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/YunHeng2.png",
+    "Caption": "\"LandTale\" and SKU \"EBR001\" are printed on the product packaging and instructions manual of the recalled LandTale bed rail"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from February 2026 to June 2026 for about $43.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Landtale Group Limited, dba YunHeng LLC, of China",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. In addition, the bed rails do not bear the required hazard warning labels.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled adult portable bed rails immediately and contact YunHeng for a full refund. Consumers will be asked to destroy the bed rail by cutting off the handle's foam grip, disassembling the product and writing in permanent marker \"RECALLED\" on the upper and lower rails, and send a photo of the marked bed rails, showing the sender's name written on paper, to LandtaleBedRailsRecall@outlook.com. Consumers should then dispose of the destroyed product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

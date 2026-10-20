@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11005,
+  "RecallNumber": "27007",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves the Cupcakes and Cashmere Brand Three-Light Floor Lamps, model 7927-OZ and model 7927-OZ1. The lamps measure about 63-inches tall and have three six-inch diameter glass globe lampshades. The lamps are sold in multicolor and cream variants. Lamps with model number 7927-OZ (associated with HomeGoods style numbers 190734 and 211918) are gold with multi-colored lampshades. Lamps with model number 7927-OZ1 (associated with HomeGoods style numbers 192249, 208605, and 213058) are gold with cream lampshades. The model number is located on a sticker on the underside of the base of the lamp. The HomeGoods style numbers are located on the original price hangtag.",
+  "URL": "https://cpsc.gov/Recalls/2027/Designs-Direct-Recalls-Cupcakes-and-Cashmere-Brand-Three-Light-Floor-Lamps-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+  "Title": "Designs Direct Recalls Cupcakes and Cashmere Brand Three-Light Floor Lamps, Due to Risk of Serious Injury from Fire and Burn Hazards",
+  "ConsumerContact": "Designs Direct toll-free at 888-425-9692 between 9 a.m. and 5 p.m. ET, Monday through Friday, or by email at recall@designsdirectllc.com, or online at https://www.designsdirectllc.com/recalls/ or https://www.designsdirectllc.com and click on \"Recalls\" at the top of the page for more information.",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "Designs Direct Cupcakes and Cashmere Brand Three-Light Floor Lamps",
+    "Description": "",
+    "Model": "",
+    "Type": "Floor Lamps or Table Lamps, Electric (Excl Halogen)",
+    "CategoryID": "276",
+    "NumberOfUnits": "About 4,200"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/DesignsDirect1.jpg",
+    "Caption": "Recalled 7927-OZ Floor Lamp (HomeGoods style numbers 190734 and 211918)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/DesignsDirect2.jpg",
+    "Caption": "Recalled 7927-OZ1 Floor Lamp (HomeGoods style numbers 192249, 208605, and 213058)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 11 reports of incidents, including two shock and burn injuries."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nHomeGoods retail stores from June 2025 through July 2026 for between $79 and $89.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Designs Direct LLC, d/b/a Designs Direct Creative Group, of Covington, Kentucky",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Cambodia"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "When plugged in or switched on, the lamp cord or internal wiring can smoke, melt, spark, overheat or ignite, posing a risk of serious injury from fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled lamp immediately, turn it off, and unplug it. Consumers will be asked to cut the cord and provide a photograph of the destroyed lamp, following the instructions at https://www.designsdirectllc.com/recalls/. Designs Direct will issue a full refund to consumers within 15 days of receipt of the photo proof of destruction."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

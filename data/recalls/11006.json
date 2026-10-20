@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11006,
+  "RecallNumber": "27008",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves GBYMIUY stick figure toy sets. The magnetic toys were sold in packs of 30 multi-colored transparent and opaque human-shaped figures. Each figure measures about 2.91 inches tall by 2.3 inches wide. The toys contain magnets in the hand and foot locations. \"GBYMIUY\" and number \"X004TVHD2Z\" are printed on the product packaging.",
+  "URL": "https://cpsc.gov/Recalls/2027/GBYMIUY-Recalls-Magnetic-Stick-Figure-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "GBYMIUY Recalls Magnetic Stick Figure Toy Sets Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "GBYMIUY by email at zhangfa0426@outlook.com.",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "GBYMIUY Magnetic Stick Figure Toy Sets",
+    "Description": "",
+    "Model": "",
+    "Type": "Toy Figures",
+    "CategoryID": "2192",
+    "NumberOfUnits": "About 10,750"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/GBYM1.png",
+    "Caption": "Recalled GBYMIUY magnetic stick figure toys"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/GBYM2.png",
+    "Caption": "Recalled GBYMIUY magnetic stick figure"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/GBYM3.png",
+    "Caption": "\"GBYMIUY \"and \"X004TVHD2Z\" are printed on the stick figure toy package"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from April 2026 through July 2026 for about $20.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Ningbo Jiboyou Trading Co., Ltd. dba GBYMIUY, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The magnetic stick figure toy sets violate the mandatory standard for toys because they can liberate loose high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should take the stick figures away from children immediately, stop using them and contact GBYMIUY for a full refund. Consumers will be asked to throw away the stick figure toys and send a photo of the disposed toys to zhangfa0426@outlook.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11003,
+  "RecallNumber": "27009",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard.  \"Gobi Heat\" is printed on the top of the hand warmers and on the product packaging, and model number \"UT3053\" on the underside.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Gobi-Heat-Recalls-Rechargeable-Hand-Warmers-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+  "Title": "Gobi Heat Recalls Rechargeable Hand Warmers Due to Risk of Serious Injury from Fire and Burn Hazards",
+  "ConsumerContact": "Gobi Heat at 888-462-4743 from 9 a.m. to 5 p.m. ET Monday through Friday, email at recall@gobiheat.com or online at https://gobiheat.com/pages/handwarmer-recall or www.gobiheat.com and click on \"RECALL INFORMATION\" at the top of the page for more information.",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "Gobi Heat Rechargeable Hand Warmers",
+    "Description": "",
+    "Model": "",
+    "Type": "Electric Blankets/Warmers",
+    "CategoryID": "1923",
+    "NumberOfUnits": "About 5,500 (In addition, about 47 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/gobi-heat-rechargeable-hand-warmer-pair-recalled-due-fire-and-burn-hazards"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Gobi1.png",
+    "Caption": "Recalled Gobi Heat rechargeable hand warmers"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Gobi2.png",
+    "Caption": "Model number \"UT3053\" is printed on the underside of the recalled Gobi Heat rechargeable hand warmer"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nGobiHeat.com from October 2024 through August 2026 for between $20 and $40.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Dragon Gear Inc., dba Gobi Heat, of Severance, Colorado",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The lithium-ion battery and electrical components in the recalled hand warmers can overheat and ignite, posing a risk of serious injury from fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker \"Recalled\" on the product and send a photo, showing the marked hand warmer and the product's model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11011,
+  "RecallNumber": "27006",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves Mochi Malrang Mystery Dumpling Toys. The mystery dumpling toys are a translucent red color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. The phrases \"SOFT and SQUISHY\" and \"MOCHI MALRANG\" are visible on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
+  "URL": "https://cpsc.gov/Recalls/2027/LLK-Trading-Recalls-Mochi-Malrang-Mystery-Dumpling-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "LLK Trading Recalls Mochi Malrang Mystery Dumpling Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "LLK Trading by email at llktradinginc@gmail.com.",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "Mochi Malrang Mystery Dumpling Toys",
+    "Description": "",
+    "Model": "",
+    "Type": "Squeeze or Squeaker Toys",
+    "CategoryID": "831",
+    "NumberOfUnits": "About 480"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/LLK1.png",
+    "Caption": "Recalled Mochi Malrang Mystery Dumpling Toy packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/LLK2.png",
+    "Caption": "Recalled Mochi Malrang Mystery Dumpling Toy and tan plastic container"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nEasy Wholesale in San Jose, California in July 2026 for about $10.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "LLK Trading Inc., of Vernon, California",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The mystery dumpling toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child's body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the mystery dumpling toys immediately and contact LLK Trading for a full refund. Consumers will be asked to write \"RECALLED\" in permanent marker on the squeezy dumpling and its tan plastic container, throw them away, and email a photo of the items in the trash to llktradinginc@gmail.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

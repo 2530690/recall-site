@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11012,
+  "RecallNumber": "27012",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "The recalled electric balloon pump is a high-pressure pump that has two operation modes, continuous and touch-on. It is made of plastic and comes in pink with a blue handle and features two nozzles. The pump's model number, 406198, is printed on the silver rating label located on the bottom of the product and on the packaging.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Dollar-Tree-Stores-Recalls-Electric-Balloon-Pumps-Due-to-Burn-Hazard",
+  "Title": "Dollar Tree Stores Recalls Electric Balloon Pumps Due to Burn Hazard",
+  "ConsumerContact": "Dollar Tree Stores, Inc at 877-530-8733 between 7 a.m. and 11 p.m. ET Monday through Sunday, email at ddirect@dollartree.com or on-line at https://www.dollartree.com/product-recalls or https://www.dollartree.com and click on \"Recall Information\" at the bottom of the page.",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "Electric Balloon Pumps",
+    "Description": "",
+    "Model": "",
+    "Type": "Powered Pumps",
+    "CategoryID": "1469",
+    "NumberOfUnits": "About 360,500"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/dollartree1.png",
+    "Caption": "Recalled electric balloon pump (in packaging)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/dollartree2.png",
+    "Caption": "Recalled electric balloon pump"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/dollartree3.png",
+    "Caption": "Silver rating label on bottom of the product showing model number (406198)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm received three reports of overheating, including one report of flames inside the unit and one report of the unit exploding.  No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nDollar Tree stores nationwide and online at dollartree.com, and doordash.com between August 2025 and July 2026 for about $17.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Dollar Tree Stores, Inc. (\"Dollar Tree\") of Chesapeake, Virginia",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled electric balloon pumps can overheat, posing a burn hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled electric balloon pumps immediately and return it to any Dollar Tree store to receive a full refund. Consumers who purchased the electric balloon pump online should contact the firm to receive a pre-paid shipping label to return the recalled product to receive a full refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

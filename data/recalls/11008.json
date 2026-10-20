@@ -1,0 +1,86 @@
+{
+ "record": {
+  "RecallID": 11008,
+  "RecallNumber": "27014",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves Agrish-branded adult portable bed rails, models AG-12011, 12014 and 12016, for use on adult beds. The model numbers are printed in the owner's manual and labeled on the bed rail's metal post. The recalled bed rails have white tubing with rounded gray foam rubber handle grips. Each model has multiple batch numbers and manufacture dates listed on the unit and the instruction manual. Recalled Bed Rails: Model Numbers Size 12014 About 11 inches wide and 39 inches in height AG-12011 12016 About 37 inches wide and 45 inches in height",
+  "URL": "https://cpsc.gov/Recalls/2027/Agrish-Reannounces-and-Expands-Recall-of-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Additional-Units-Added",
+  "Title": "Agrish Reannounces and Expands Recall of Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; Additional Units Added",
+  "ConsumerContact": "Agrish Direct at email at agrish.us@outlook.com, or online at http://www.agrish.online/recall or www.agrish.online and click \"More\" then \"Recall\" at the top of the page for more information.",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "Agrish Adult Portable Bed Rails, models 12014, AG-12011 and 12016",
+    "Description": "",
+    "Model": "",
+    "Type": "Adult Bed Rails",
+    "CategoryID": "1791",
+    "NumberOfUnits": "About 35,083 units (About 5,000 of these bed rails were previously recalled in January 2026)"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Agrish1.jpg",
+    "Caption": "Recalled Agrish Adult Portable Bed Rail Model Number 12014"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Agrish2.jpg",
+    "Caption": "Recalled Agrish Adult Portable Bed Rail Model Number AG-12011"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Agrish3.gif",
+    "Caption": "Recalled Agrish Adult Portable Bed Rail Model Number 12016"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received one report of a consumer fall involving an Agrish adult bed rail with model number AG-12011."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Zhongshan Lebo Medical Co., Ltd., of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from April 2025 through May 2026 for between $50 and $80.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Shenzhen Yunshangqinyang E-commerce Ltd., dba Agrish Direct, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. The bed rails do not meet structural stability or retention strap requirements, posing a fall hazard. Additionally, the bed rails' push pins and push pin holes are incorrectly sized, posing a laceration hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled adult portable bed rails and contact Agrish Direct for a full refund. Consumers will be asked to go to http://www.agrish.online/recall to register for the recall and receive instructions on how to dispose of the recalled bed rail."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}
