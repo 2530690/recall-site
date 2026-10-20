@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11025,
+  "RecallNumber": "27029",
+  "RecallDate": "2026-10-15T00:00:00",
+  "Description": "This recall involves Xalirium-branded adult portable bed rails. They have a white frame with black foam rubber grips and a black fabric pouch. The bed rails measure about 17.15 inches high, 4.33 inches wide and 1.99 inches long. \"Xalirium\" is printed on the label of the product packaging. Only bed rails without vertical bars inside the opening are included in this recall.",
+  "URL": "https://cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
+  "Title": "usOpal Recalls Xalirium Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails",
+  "ConsumerContact": "usOpal by email at xaliriumofficial@outlook.com",
+  "LastPublishDate": "2026-10-15T00:00:00",
+  "Products": [
+   {
+    "Name": "Xalirium Adult Portable Bed Rails",
+    "Description": "",
+    "Model": "",
+    "Type": "Adult Bed Rails",
+    "CategoryID": "1791",
+    "NumberOfUnits": "About 200"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/usOpal1.png",
+    "Caption": "Recalled Xalirium Adult Portable Bed Rails"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/usOpal2.png",
+    "Caption": "Xalirium is printed on the label of the recalled adult portable bed rail"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from February 2026 through August 2026 for about $60.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Opal Vista Ltd., dba usOpal, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. The bed rails do not meet structural stability or retention strap requirements, posing a fall hazard. In addition, the bed rails do not bear the required hazard warning labels.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled adult portable bed rails immediately and contact usOpal for a full refund. Consumers will be asked to cut the black storage bag and straps and to cut the foam padding on the bed rails, write \"RECALLED\" on the upper and lower bed rails, and send a photo of the marked rails to xaliriumofficial@outlook.com. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

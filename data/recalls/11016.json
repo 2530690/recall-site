@@ -1,0 +1,78 @@
+{
+ "record": {
+  "RecallID": 11016,
+  "RecallNumber": "27020",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves Romorgniz six-drawer dressers. The wooden dressers were sold in white and black, measure about 27.6 inches wide, 15.6 inches long, 43.2 inches tall and weigh 73.3 pounds.  \n\n",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Romorgniz-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+  "Title": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+  "ConsumerContact": "Romorgniz via email at Romorgnizrecall@outlook.com, online at https://www.romorgniz.store/recall.html or https://www.romorgniz.store/  and click \"Recall\" at the top of the page for more information.",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "Romorgniz Six-Drawer Dressers",
+    "Description": "",
+    "Model": "",
+    "Type": "Desks, Dressers, Chests, Bureaus, or Buffets",
+    "CategoryID": "237",
+    "NumberOfUnits": "About 12,078"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Romorgniz1.png",
+    "Caption": "Recalled Romorgniz Six-drawer Dresser"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Zhangzhou Jinhao Sen Smart Home Co., Ltd., of China",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from May 2025 through August 2026 for between $100 and $170.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Baituo Innovation Technology Co. Ltd., dba Romorgniz, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the  STURDY Act.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Romorgniz for a full refund. Consumers will be asked to write in permanent marker \"RECALLED\" on the top, front and sides of the dresser, remove all drawers and send photos of the marked and disassembled dresser to Romorgnizrecall@outlook.com. Consumers should then dispose of the product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

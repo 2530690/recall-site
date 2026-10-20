@@ -1,0 +1,94 @@
+{
+ "record": {
+  "RecallID": 11020,
+  "RecallNumber": "27017",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves adult multi-terrain gravel bicycles Van Rysel GRVL AF Sword Brown CN FR (model number 8911304), Van Rysel GRVL AF Apex Beige CN FR (model number 8911305), Van Rysel GRVL AF Sword Pink CN FR (model number 8911308), and Van Rysel GRVL AF GRX Black (model number 8929130). The recalled models were sold in sizes x-small, small, medium, large and x-large. The bicycles are designed for off-road gravel riding, road cycling, commuting and bikepacking. Each bicycle can be identified by the model name and Van Rysel Product ID located on the barcode sticker on the frame near the bottom bracket. Only Van Rysel bicycles with the following Product IDs/ SKUs are included in this recall. Product ID Model Name REI SKU REI Product Name 5476620 USA GRVL AF GRX Black CN FR 2464430001 GRVL AF 2 GRX, GRAPHITE BLACK 5476621 USA GRVL AF GRX Black CN FR 2464430002 GRVL AF 2 GRX, GRAPHITE BLACK 5476622 USA GRVL AF GRX Black CN FR 2464430003 GRVL AF 2 GRX, GRAPHITE BLACK 5476623 USA GRVL AF GRX Black CN FR 2464430004 5476624 USA GRVL AF GRX Black CN FR 2464430005 GRVL AF 2 GRX, GRAPHITE BLACK 5327224 USA GRVL AF Apex Beige CN FR 2464440001 GRVL AF 2 Apex, CREAM BEIGE 5327225 USA GRVL AF Apex Beige CN FR 2464440002 GRVL AF 2 Apex, CREAM BEIGE 5327226 USA GRVL AF Apex Beige CN FR 2464440003 GRVL AF 2 Apex, CREAM BEIGE 5327227 USA GRVL AF Apex Beige CN FR 2464440004 GRVL AF 2 Apex, CREAM BEIGE 5327228 USA GRVL AF Apex Beige CN FR 2464440005 GRVL AF 2 Apex, CREAM BEIGE 5327239 USA GRVL AF Sword Pink CN FR 2464450001 GRVL AF 2 Sword, GRANITE PINK 5327240 USA GRVL AF Sword Pink CN FR 2464450002 GRVL AF 2 Sword, GRANITE PINK 5327241 USA GRVL AF Sword Pink CN FR 2464450003 GRVL AF 2 Sword, GRANITE PINK 5327242 USA GRVL AF Sword Pink CN FR 2464450004 GRVL AF 2 Sword, GRANITE PINK 5327243 USA GRVL AF Sword Pink CN FR 2464450005 GRVL AF 2 Sword, GRANITE PINK 5327219 USA GRVL AF Sword Brown CN FR 2464450006 GRVL AF 2 Sword, CORIANDER BROWN 5327220 USA GRVL AF Sword Brown CN FR 2464450007 GRVL AF 2 Sword, CORIANDER BROWN 5327221 USA GRVL AF Sword Brown CN FR 2464450008 GRVL AF 2 Sword, CORIANDER BROWN 5327222 USA GRVL AF Sword Brown CN FR 2464450009 GRVL AF 2 Sword, CORIANDER BROWN 5327223 USA GRVL AF Sword Brown CN FR 2464450010 GRVL AF 2 Sword, CORIANDER BROWN",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+  "Title": "Decathlon America Recalls Van Rysel GRVL AF Bicycles Due to Risk of Serious Injury or Death from Crash Hazard",
+  "ConsumerContact": "Decathlon America at 415-408-5494 from 9 a.m. to 5 p.m. PT Monday through Friday, email at support.america@decathlon.com or online at https://www.decathlon.com/pages/product-safety-recalls or https://www.decathlon.com/ and click \"Recalls\" in the footer at the bottom of the page.",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "Van Rysel GRVL AF Bicycles",
+    "Description": "",
+    "Model": "",
+    "Type": "Bicycles or Accessories",
+    "CategoryID": "1332",
+    "NumberOfUnits": "About 1,150"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Decathlon1.png",
+    "Caption": "Recalled USA Van Rysel GRVL AF Sword Brown CN FR (model number 8911304)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Decathlon2.png",
+    "Caption": "Recalled USA Van Rysel GRVL AF Apex Beige CN FR (model number 8911305)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Decathlon3.png",
+    "Caption": "Recalled USA Van Rysel GRVL AF Sword Pink CN FR (model number 8911308)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Decathlon4.png",
+    "Caption": "Recalled USA Van Rysel GRVL AF GRX Black (model number 8929130)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Decathlon5.png",
+    "Caption": "Barcode Sticker with model name and Van Rysel Product ID located on the frame near the bottom bracket"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nREI Co-op stores nationwide and online at REI.com from March 2025 through August 2026 for between $1,400 and $2,300.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Decathlon America LLC, of San Francisco, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [
+   {
+    "Name": "Recreational Equipment, Inc. (REI), of Sumner, Washington",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled bicycles' front lock nut can loosen during use, causing the front wheel to dislodge or loosen over time, posing a crash hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled bicycles immediately and take them to the nearest Recreational Equipment (REI Co-op) location for a free inspection and repair service of the front fork assembly. Anyone unable to visit an REI Co-op location can contact Decathlon Customer Service directly for assistance. Recalled models can be identified by the Van Rysel Product ID on the top right of the product label under the frame, beginning with the number 5."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

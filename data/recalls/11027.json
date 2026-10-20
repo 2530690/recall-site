@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11027,
+  "RecallNumber": "27028",
+  "RecallDate": "2026-10-15T00:00:00",
+  "Description": "This recall involves the Primark 101 Dalmatians Faux Leather Coin Purse, Model No. 2595301. The coin purse is black and has a picture of a dalmatian and \"101 Dalmatians\" printed on the front. The model number is located on the product tag attached to the zip puller.",
+  "URL": "https://cpsc.gov/Recalls/2027/Primark-Recalls-101-Dalmatians-Faux-Leather-Childrens-Coin-Purses-Due-to-Phthalate-Levels-and-Risk-of-Ingestion",
+  "Title": "Primark Recalls 101 Dalmatians Faux Leather Children’s Coin Purses Due to Phthalate Levels and Risk of Ingestion",
+  "ConsumerContact": "Primark at 617-946-3236 from 8 a.m. to 5 p.m. ET Monday through Friday, or online at www.primark.com/recall or at www.primark.com and click on \"Recalls\" at the bottom of the page for more information.",
+  "LastPublishDate": "2026-10-15T00:00:00",
+  "Products": [
+   {
+    "Name": "101 Dalmatians Faux Leather Coin Purses",
+    "Description": "",
+    "Model": "",
+    "Type": "Purses",
+    "CategoryID": "2084",
+    "NumberOfUnits": "About 2,100"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Primark1.gif",
+    "Caption": "Recalled 101 Dalmatians Faux Leather Coin Purse (Model No. 2595301)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Primark2.gif",
+    "Caption": "Model Number location on product tag attached to zip puller"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nPrimark stores located in the Northeast and in Florida, Maryland and Illinois from March 2026 through June 2026 for about $9.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Primark US Corp., of Boston, Massachusetts",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The coin purses contain higher phthalate concentration levels. Phthalates can be harmful if young children are exposed to sufficient amounts, including through ingestion, and certain phthalates have been associated with adverse health effects, particularly effects on development and the hormone system.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the coin purses immediately, keep them away from children and return them to a Primark store for a full refund in the original form of payment."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

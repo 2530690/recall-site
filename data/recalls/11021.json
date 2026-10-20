@@ -1,0 +1,89 @@
+{
+ "record": {
+  "RecallID": 11021,
+  "RecallNumber": "27015",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves Giant Bicycle-branded black-and-white LED-light bike lock keys that were included as part of a pre-keyed SureLock bicycle lock set that includes a bike lock and two-or-four keys without an LED-light (depending on the model). Only LED-light bike lock keys manufactured after March 2023 are included in this recall. The list of affected serial numbers is included in the table below. Serial numbers are located on the underside of the bike lock, as shown in the last picture above. Name Serial number From To SURELOCK PROTECTOR 1 DT 00000 2303 00000 2607 SURELOCK PROTECTOR 1 STD 00001 2303 00001 2607 SURELOCK PROTECTOR 1 LS 00002 2303 00002 2607 SURELOCK FLEX KEY COIL 15 00010 2303 00010 2607 SURELOCK FLEX KEY COIL 12 00011 2303 00011 2607 SURELOCK FLEX KEY 15 00013 2303 00013 2607 SURELOCK FLEX KEY 12 00014 2303 00014 2607 GIANT SURELOCK FLEX KEY COIL 12 00065 2303 00065 2607 GIANT SURELOCK FLEX KEY COIL 15 00066 2303 00066 2607",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+  "Title": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
+  "ConsumerContact": "Giant Bicycle at 866 458-2555 from 8 a.m. to 5 p.m. PT Monday through Friday, email at Recall@GiantBicycle.com, or online at https://www.giant-bicycles.com/us/recall-information or https://www.giant-bicycles.com/ and click \"Recall Information\" at the bottom of the page for more information.",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "LED-light bike lock keys",
+    "Description": "",
+    "Model": "",
+    "Type": "Locks (Combination/Key)",
+    "CategoryID": "2032",
+    "NumberOfUnits": "About 3,630 (In addition, 1,395 in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/giant-surelock-bicycle-locks-led-key-recalled-due-ingestion-hazard"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/giant2.jpg",
+    "Caption": "Recalled LED-Light Key"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/giant3.png",
+    "Caption": "Recalled LED-Light Key with Accessible Button-Cell Battery"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/giant4.png",
+    "Caption": "Recalled LED-Light Key with Accessible Button-Cell Battery"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/inline-images/image_74.png",
+    "Caption": "Location of serial number on the underside of the bike lock"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nGiant Bicycle authorized stores nationwide and online at https://www.giant-bicycles.com/us from March 2023 through August 2026 for between $25 and $65.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Giant Bicycle, Inc., of Newbury Park, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard.  Additionally, the packaging and product do not have the warnings required under Reese's Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns, and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled LED-light key that was included with certain SureLock Bicycle Lock sets immediately and contact Giant Bicycle for a $5 refund. Consumers will be asked to bring the LED key to an authorized Giant retailer to participate in the recall and receive the refund. When returning the LED-light key to a retailer, consumers will be required to bring either the complete bicycle lock purchase or a picture of the serial number on the bicycle lock in order to verify the serial number is in the scope of the recall. Consumers may continue to use the bicycle lock and non-LED-light keys included with the SureLock Bicycle Lock sets. Note: Button and Coin cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

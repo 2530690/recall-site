@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11022,
+  "RecallNumber": "27024",
+  "RecallDate": "2026-10-15T00:00:00",
+  "Description": "This recall involves the Scotch™ thermal laminator, model number TL1302Z.  The laminator is light gray/white with gray accents and the word \"Scotch\" is printed in gray on the front. The laminating slot is approximately 13 inches wide, and the machine has a carrying handle on the right side of the machine when viewing from the front. The model number TL1302Z is located on the sticker on the bottom of the laminator and can also be found on the product packaging.",
+  "URL": "https://cpsc.gov/Recalls/2027/3M-Company-Recalls-ScotchTM-Thermal-Laminators-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
+  "Title": "3M Company Recalls Scotch™ Thermal Laminators Due to Risk of Serious Injury or Death from Fire Hazard",
+  "ConsumerContact": "3M Company toll-free at 800-772-4337 from 8 a.m. to 4:30 p.m. CT Monday through Friday, online at https://www.scotchbrand.com/3M/en_US/scotch-brand/tl1302Z-laminator-recall/ or www.scotchbrand.com and click on \"Recall Information\" at the top of the page for more information.",
+  "LastPublishDate": "2026-10-15T00:00:00",
+  "Products": [
+   {
+    "Name": "Scotch™ Thermal Laminators",
+    "Description": "",
+    "Model": "",
+    "Type": "Business and Office Machines",
+    "CategoryID": "178",
+    "NumberOfUnits": "About 53,634"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3M1.png",
+    "Caption": "Recalled Scotch™ Thermal Laminator model number TL1302Z"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/3M2.png",
+    "Caption": "Recalled Scotch™ Thermal Laminator package"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 63 reports of the laminators smoking, melting and overheating, including five reports of the laminators catching fire and one report of minor property damage. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from June 2024 through September 2026 for between $44 and $56.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "3M Company, of St. Paul, Minnesota",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled thermal laminators can overheat, posing a fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using and unplug the recalled thermal laminators immediately and contact 3M Company to receive a full refund. Consumers will be asked to fill out the online recall registration form at https://www.scotchbrand.com/3M/en_US/scotch-brand/tl1302Z-laminator-recall/, confirm that their laminator is included in the recall and upload a photograph of the laminator with the unplugged power cord cut. The refund, in the form of a check, will be mailed to the consumer upon receipt of the completed form and confirmation that the laminator's power cord has been cut. Consumers should dispose of the recalled laminator in accordance with local and state laws governing electronics recycling."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

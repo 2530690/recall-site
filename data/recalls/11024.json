@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11024,
+  "RecallNumber": "27027",
+  "RecallDate": "2026-10-15T00:00:00",
+  "Description": "This recall involves Papablic bedside sleepers, model PAPA03001AI. These convertible sleepers function as both a bassinet and a play yard and have a gray exterior with an interior printed in a stars‑and‑moon pattern. The products have \"Papablic\" stitched in white on the front gray fabric panel. Model \"PAPA03001AI\" is printed on a label sewn to the interior fabric of the bassinet underneath the mattress pad.",
+  "URL": "https://cpsc.gov/Recalls/2027/Papablic-of-USA-Recalls-Convertible-Bedside-Sleepers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Suffocation-and-Fall-Hazards-Violate-Mandatory-Standard-for-Play-Yards",
+  "Title": "Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards",
+  "ConsumerContact": "Papablic by email at support@papablic.com, or online at https://papablic.com/pages/black-and-gray-bassinet-with-play-yard-extension-recall or https://papablic.com and click on \"Recall Information\" at the bottom of the page.",
+  "LastPublishDate": "2026-10-15T00:00:00",
+  "Products": [
+   {
+    "Name": "Papablic Bedside Sleepers with Play Yard Extensions",
+    "Description": "",
+    "Model": "",
+    "Type": "Playpens/Play yards",
+    "CategoryID": "2073",
+    "NumberOfUnits": "About 248"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Papablic1.png",
+    "Caption": "Recalled Papablic Convertible Bedside Sleeper"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Papablic2.jpg",
+    "Caption": "Recalled Papablic Convertible Bedside Sleeper in Play Yard Mode"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com and papablic.com from April 2025 through July 2026 for about $190.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Papablic, Inc., doing business as Papablic, of USA, of Chicago, Illinois",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The bedside sleepers with play yard extensions violate the mandatory safety standard for play yards because the mattress can become displaced, causing a baby to become entrapped between the sleeping pad and bottom posing a deadly suffocation hazard. In addition, the latching and locking mechanism can fail, causing the product to collapse, posing a risk of serious injury or deadly entrapment and fall hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the convertible bedside sleeper immediately and contact Papablic for a refund. Consumers will be asked to disassemble the product, cut the mattress and fabric components in half and email photos of the destroyed components to support@papablic.com. Upon receipt of proof of destruction, Papablic will issue a full refund and consumers should dispose of the product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

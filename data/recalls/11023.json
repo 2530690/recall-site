@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11023,
+  "RecallNumber": "27026",
+  "RecallDate": "2026-10-15T00:00:00",
+  "Description": "This recall affects Crystal Glass Cups containing loose crystal stone chips between two layers of glass. The cups are intended for both decorative use and drinking. Each cup measures approximately 3.5 by 3 inches. The crystal stone chips are sold in various options: amethyst, black obsidian, rose quartz, smoke quartz, fire and clear quartz, moss agate, hematite, black tourmaline, black tourmaline in quartz, charoite, blue apatite, morganite, larimar, red jasper, malachite, garnet, kunzite, fluorite, peridot, aquamarine, watermelon tourmaline, carnelian, lapis lazuli, tigers eye and labradorite.",
+  "URL": "https://cpsc.gov/Recalls/2027/Loving-Thyself-Rocks-Recalls-Crystal-Glass-Cups-Due-to-Risk-of-Serious-Injury-from-Ingestion-and-Laceration-Hazards",
+  "Title": "Loving Thyself Rocks Recalls Crystal Glass Cups Due to Risk of Serious Injury from Ingestion and Laceration Hazards",
+  "ConsumerContact": "Loving Thyself Rocks LLC by email at lovingthyselfrocks@gmail.com or online at https://lovingthyselfrocks.com/recall or click on https://lovingthyselfrocks.com and go to \"Safety Recall\" at the bottom of the page for more information.",
+  "LastPublishDate": "2026-10-15T00:00:00",
+  "Products": [
+   {
+    "Name": "Crystal Glass Cups with Loose Crystal Chips",
+    "Description": "",
+    "Model": "",
+    "Type": "Drinking Glass, Non-glass, Inc. Plastic, Paper, Pottery",
+    "CategoryID": "1057",
+    "NumberOfUnits": "About 600"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Loving1.png",
+    "Caption": "Recalled Crystal Glass Cups with Loose Crystal Chips (Blue Apatite and Amethyst)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Loving2.jpg",
+    "Caption": "Recalled Crystal Glass Cups with Loose Crystal Chips"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Loving3.png",
+    "Caption": "Recalled Crystal Glass Cups with Loose Crystal Chips"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm received one reported incident of broken glass inside the cup while drinking. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nLoving Thyself store and on-line at https://www.instagram.com/lovingthyselfrocksandfossils/?hl=en and https://www.instagram.com/lovingthyselfrocks/?hl=en and Etsy.com from April 2026 through September 2026 for between $20 and $50.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Loving Thyself Rocks LLC, of Winter Park, Florida",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "Glass can break inside the recalled cups while in use, posing a risk of serious injury from ingestion and laceration hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled crystal cup immediately and register at http://www.lovingthyselfrocks.com/recall to receive a full refund in the form of original payment. Consumer will be asked to fill out an online form and submit a photograph with the word \"RECALL\" written on the front of the crystal cup in permanent black marker. Consumers will be asked to attest to proper disposal of the recalled cup following the instructions on the firm's website."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

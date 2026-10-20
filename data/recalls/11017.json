@@ -1,0 +1,87 @@
+{
+ "record": {
+  "RecallID": 11017,
+  "RecallNumber": "27021",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves the Takibi propane inserts and lava rocks, fireplace accessories that allows Snow Peak's Pack & Carry Fireplace L (ST-032) and XL (ST-034) to operate on propane fuel instead of wood or charcoal. The propane insert includes a detachable hose with a gas flow regulator that controls the intensity of the flame with the twist of a knob. The product also includes lava rocks. Model number ST-332-US can be found on the product packaging and in the user manual.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Snow-Peak-Recalls-Propane-Fireplace-Inserts-and-Lava-Rocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-and-Fire-Hazards",
+  "Title": "Snow Peak Recalls Propane Fireplace Inserts and Lava Rocks Due to Risk of Serious Injury or Death from Burn and Fire Hazards",
+  "ConsumerContact": "Snow Peak USA toll-free at 888-424-4916 from 8:30 a.m. to 5 p.m. PT Monday through Friday, email at info@snowpeak.com or online at https://www.snowpeak.com/pages/takibi-propane-insert-recall and https://www.snowpeak.com/ and click \"Recalls\" in the footer at the bottom of the page for more information.",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "Snow Peak Takibi Fireplace Propane Inserts and Lava Rocks",
+    "Description": "",
+    "Model": "",
+    "Type": "Gas-burning Fireplaces, Factory Built",
+    "CategoryID": "358",
+    "NumberOfUnits": "About 100"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/SnowPeak1.png",
+    "Caption": "Recalled Takibi Propane Insert (model ST-332-US) with reddish brown lava rocks inside the Snow Peak's Pack & Carry Fireplace"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/SnowPeak2.png",
+    "Caption": "Snow Peak's Pack & Carry Fireplace and the Recalled Propane Insert (without the lava rocks)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/SnowPeak3.png",
+    "Caption": "Snow Peak's Pack & Carry Fireplace (not recalled)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received one report of lava rocks exploding with one report of minor property damage. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nSnowpeak.com from July 2026 through July 2026 for about $350.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Snow Peak USA, Inc., of Portland, Oregon",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   },
+   {
+    "Country": "Taiwan"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The fireplace's lava rocks can ignite and explode when heated in the propane insert, posing a risk of serious injury or death from burn and fire hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the propane insert and lava rocks fireplace accessories immediately and contact Snow Peak for a full refund. Consumers will be provided with a prepaid shipping label to return the propane insert and lava rocks. For replacement lava rocks only, the consumer can keep the propane inserts, and the firm will ship replacement lava rocks to the consumer. Do not use inserts until replacement lava rocks are received. Consumers should dispose of the recalled lava rocks in accordance with any local and state ordinances."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   },
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}

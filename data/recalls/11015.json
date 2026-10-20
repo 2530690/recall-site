@@ -1,0 +1,73 @@
+{
+ "record": {
+  "RecallID": 11015,
+  "RecallNumber": "27019",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves PACEARTH U-type swing seats. The swing seats were sold in various colors including green, blue, pink, red and turquoise. The chain is coated in yellow plastic. Metal carabiners or quick links and yellow webbing straps were included with the swing seats to attach the swing to outdoor swing sets or tree branches. The swing seats were sold as a single unit or a pack of two.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Pacearth-Direct-Recalls-PACEARTH-Swing-Seats-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+  "Title": "Pacearth Direct Recalls PACEARTH Swing Seats Due to Risk of Serious Injury from Fall Hazard",
+  "ConsumerContact": "Pacearth Direct by email at recall@pacearth.com ",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "PACEARTH Swing Seats",
+    "Description": "",
+    "Model": "",
+    "Type": "Swing Sets",
+    "CategoryID": "2160",
+    "NumberOfUnits": "About 110,550"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Pacearth1.png",
+    "Caption": "PACEARTH Swing Seat"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Pacearth Direct has received at least 30 reports of falls, resulting in at least nine injuries, including fractures, head injuries and bruising."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from May 2017 through June 2026 for between $27 and $57.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Pacearth Direct, of City of Industry, California",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The seats, metal carabiners or quick links, or webbing straps of the recalled swing seats can break during use, posing a risk of serious injury due to fall hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled swing seats immediately and contact Pacearth Direct for a full refund. Consumers will be asked to write \"RECALLED\" on the swing seat with permanent marker, take a photo of it, including the PACEARTH logo and email to recall@pacearth.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

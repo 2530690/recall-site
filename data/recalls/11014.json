@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11014,
+  "RecallNumber": "27018",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves ONTHEWEI-branded baby bath seats. They are sold in gray, pink, blue and mist green and have detachable restraint arms and suction cups on the underside. \"Model No: MY002\" and \"Date of manufacturer: 2026/1/10\" are printed on a label on the back of the bath seat.",
+  "URL": "https://cpsc.gov/Recalls/2027/ONTHEWEI-Recalls-Baby-Bath-Seats-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-Violate-Mandatory-Standard-for-Infant-Bath-Seats",
+  "Title": "ONTHEWEI Recalls Baby Bath Seats Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats",
+  "ConsumerContact": "ONTHEWEI by email at onthewei@outlook.com",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "ONTHEWEI Baby Bath Seats",
+    "Description": "",
+    "Model": "",
+    "Type": "Baby Bathtub Seats or Rings (Not Toys)",
+    "CategoryID": "807",
+    "NumberOfUnits": "About 2,140"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/ONTHEWEI1.png",
+    "Caption": "Recalled ONTHEWEI Baby Bath Seats"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/ONTHEWEI2.jpg",
+    "Caption": "\"Model No: MY002\" and \"Date of manufacturer: 2026/1/10\" are printed on a label on the back of the recalled ONTHEWEI bath seat"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com in April 2026 for between $40 and $50.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Hubei Youhong Trading Co., Ltd., dba ONTHEWEI, of China",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled bath seats violate the mandatory standard for infant bath seats because they are unstable and can tip over while in use, posing a risk of serious injury or death due to drowning.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled bath seats immediately and contact ONTHEWEI for a full refund. Consumers will be asked to destroy the bath seat by writing in permanent marker \"RECALLED\" on the front of the bath seat, disassembling it by removing the back rest and arm restraints and cutting the three suction cups on the seat's underside and send a photo of the destroyed bath seat showing the marked product to onthewei@outlook.com. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

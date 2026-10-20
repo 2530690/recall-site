@@ -1,0 +1,84 @@
+{
+ "record": {
+  "RecallID": 11018,
+  "RecallNumber": "27016",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves DR Power Equipment Pilot and Premier walk-behind trimmer mowers. The trimmer mowers are orange and black and have the DR Power logo on the top of the motor and on the top of the frame above the cutter head. The trimmer mowers are labeled \"Premier\" or \"Pro\" on the side of the frame. The model numbers are printed on a label located on the side of the product's frame. Recalled model numbers and product description, which include all serial numbers, are listed below. Model Number Product Description Serial Number Range T4X1076DMN DR TRIMMER PILOT 7.6 FPT DR MS All T4X1076DMNR DR TRIMMER PILOT 7.6 FPT DR MS RECON All T4X1076DMNSD DR TRIMMER PILOT 7.6 FPT DR MS SD All T4X1176DMN DR TRIMMER PILOT 7.6 FPT DR MS All T4X1176DMN-1 DR TRIMMER PILOT 7.6 FPT DR MS All T4X1176DMNR DR TRIMMER PILOT 7.6 FPT DR MS RECON All TR43076DMN DR TRIMMER PREMIER 7.6 FPT DR MS All TR43076DMNR DR TRIMMER PREMIER 7.6 FPT DR MS RECON All",
+  "URL": "https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+  "Title": "DR Power Equipment Recalls Pilot and Premier Trimmer Mowers Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+  "ConsumerContact": "DR Power Equipment toll-free at 800-854-3194 from 8:30 a.m. to 5 p.m. ET Monday through Friday, email at recall@drpower.com or online at http://drpower.com/recalls or www.drpower.com and click \"Product Recalls\" at the bottom of the page for more information.",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "DR Power Equipment Pilot and Premier Trimmer Mowers",
+    "Description": "",
+    "Model": "",
+    "Type": "Lawn Mowers, Not Specified",
+    "CategoryID": "907",
+    "NumberOfUnits": "About 42,860 (In addition, about 340 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/dr-power-pilot-and-premier-trimmers-recalled-due-fire-and-burn-hazards"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/DR1.png",
+    "Caption": "Recalled DR Power Pilot Trimmer Mower - model T4X1076DMN"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/DR2.png",
+    "Caption": "Recalled DR Power Premier Trimmer Mower - model TR43076DMN"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 19 reports of incidents involving the trimmer mowers catching fire, including two reports of minor injuries such as blisters on hands and feet."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nAce, TSC, Bomgaars, other home improvement, hardware and independent power equipment stores nationwide and online at drpower.com from November 2022 through July 2026 for between $380 to $550.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Generac Power Systems Inc., of Waukesha, Wisconsin",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United State"
+   },
+   {
+    "Country": "Vietnam"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "Grass and debris can accumulate in the trimmer mowers and ignite, posing a risk of serious injury or death from fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled trimmer mowers immediately and contact DR Power Equipment for a free repair kit. If consumers have concerns about installing the repair kit, contact DR Power Equipment to schedule a free repair installation from an authorized dealer."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

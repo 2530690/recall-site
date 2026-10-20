@@ -1,0 +1,89 @@
+{
+ "record": {
+  "RecallID": 11013,
+  "RecallNumber": "27003",
+  "RecallDate": "2026-10-01T00:00:00",
+  "Description": "This recall involves squishy dumpling and crazy squib ball toys. The squishy dumplings, model 3655, come in multiple translucent colors, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. \"SQUISHY DUMPLING\" is printed on the front of the removable package labeling. There are no markings on the product, other than the cartoon face. The crazy squib balls, model 3984, come in multiple translucent colors, containing glitter and water beads. The toys come individually wrapped in a white netting. \"CRAZY SQUIB BALL\" and \"Squeeze it! Throw it!\" are printed on the front of the package labeling.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/ABC-Trading-Recalls-Squishy-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "ABC Trading Recalls Squishy Toys Due to Risk of Serious Injury or Death from Water Bead Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "Email ABC Trading at recallabc@gmail.com ",
+  "LastPublishDate": "2026-10-01T00:00:00",
+  "Products": [
+   {
+    "Name": "Squishy Dumpling Toys, Crazy Squib Ball Toys",
+    "Description": "",
+    "Model": "",
+    "Type": "Squeeze or Squeaker Toys",
+    "CategoryID": "831",
+    "NumberOfUnits": "About 37,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/abc1.png",
+    "Caption": "Squishy Dumpling Packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/abc2.png",
+    "Caption": "Recalled Squishy Dumpling and tan container"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/abc3.png",
+    "Caption": "Recalled Crazy Squib Ball Packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/abc4.png",
+    "Caption": "Recalled Crazy Squib Ball"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/abc5.png",
+    "Caption": "Recalled Crazy Squib Ball"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nABC Trading stores in Los Angeles, California and other stores nationwide from April 2026 through June 2026 for between 41 cents and $1.25.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "ABC Trading Inc., of Vernon, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The squishy toys violate the mandatory safety standard for toys because the water beads inside the toys expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child's body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the squishy toys immediately and contact ABC Trading for a full refund. Consumers will be asked to write \"RECALLED\" in permanent marker on the squishy toys, throw the toy away and email a photo of the disposed toy to recallabc@gmail.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

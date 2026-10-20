@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11019,
+  "RecallNumber": "27022",
+  "RecallDate": "2026-10-08T00:00:00",
+  "Description": "This recall involves the Avengers Infinity Gauntlet medal. The medal is gold, with colorful gems on the front and comes in a black package marked \"Marvel Avengers\" with Marvel Avengers artwork. The medals are part of the Avengers virtual challenge series. To receive the medal, customers must have completed the Infinity Gauntlet virtual challenge on the Conqueror App.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/The-Conqueror-Recalls-Avengers-Medals-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Magnets",
+  "Title": "The Conqueror Recalls Avengers Medals Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Magnets",
+  "ConsumerContact": "The Conqueror toll-free at 833-799-0368 from 9 a.m. to 5 p.m. ET Monday through Friday, by email at support@theconqueror.events, or online at www.theconqueror.events/recall-inf or www.theconqueror.events and click \"Recall\" at the bottom of the page for more information.",
+  "LastPublishDate": "2026-10-08T00:00:00",
+  "Products": [
+   {
+    "Name": "Avengers Infinity Gauntlet Medals",
+    "Description": "",
+    "Model": "",
+    "Type": "Other Toys",
+    "CategoryID": "1441",
+    "NumberOfUnits": "About 476"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Conqueror1.png",
+    "Caption": "Recalled Avengers Infinity Gauntlet Medal showing faulty magnet"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Conqueror2.png",
+    "Caption": "Recalled Avengers Infinity Gauntlet Medal packaging"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received three reports of the magnets detaching."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nwww.theconqueror.events and through The Conqueror App from March 2026 through May 2026 for about $50.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Actionary Limited, dba The Conqueror, of New Zealand",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled medals violate the mandatory safety standard for magnets because the high-powered magnets may detach, posing a deadly ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the Avengers Infinity Gauntlet Medal immediately and contact The Conqueror for instructions on receiving a full refund or a replacement medal. Consumers will be asked to cut the ribbon from the medal and write \"RECALLED\" in permanent marker on the medal and ribbon, throw the product away and email a photo of the disposed medal and ribbon to support@theconqueror.events."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   },
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}
