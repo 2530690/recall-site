@@ -75,11 +75,42 @@ def numbers_in(text):
     return {n.strip(".,").replace(",", "") for n in re.findall(r"\d[\d,.]*", text)} - {""}
 
 
+GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
+_state = {"model": None, "dead": False}  # dead = stop calling AI for the rest of this run
+
+
+def pick_models(key):
+    """Ask Google which models exist, and return 'flash' text models, best first."""
+    data = http_json(f"{GEMINI_BASE}/models?pageSize=200", headers={"x-goog-api-key": key})
+    found = []
+    for m in data.get("models", []):
+        name = m.get("name", "").replace("models/", "")
+        if "generateContent" not in m.get("supportedGenerationMethods", []):
+            continue
+        low = name.lower()
+        if "flash" not in low or any(x in low for x in ("image", "tts", "live", "audio", "embed", "robotics", "computer")):
+            continue
+        ver = re.search(r"(\d+(?:\.\d+)?)", low)
+        unstable = any(x in low for x in ("preview", "exp", "latest"))
+        found.append((unstable, "lite" in low, -(float(ver.group(1)) if ver else 0), name))
+    found.sort()
+    return [f[3] for f in found]
+
+
+def call_gemini(model, key, prompt):
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
+    }).encode("utf-8")
+    resp = http_json(f"{GEMINI_BASE}/models/{model}:generateContent", data=body,
+                     headers={"Content-Type": "application/json", "x-goog-api-key": key})
+    return json.loads(resp["candidates"][0]["content"]["parts"][0]["text"])
+
+
 def ask_gemini(facts):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
-    if not key:
+    if not key or _state["dead"]:
         return None
-    model = CONFIG.get("gemini_model", "gemini-2.5-flash")
     prompt = (
         "You write short, clear consumer-safety explainers. Using ONLY the official recall facts below, "
         "return JSON with two string fields:\n"
@@ -89,15 +120,32 @@ def ask_gemini(facts):
         "Do not add medical or legal advice. Do not mention things not in the facts. Do not copy sentences word for word; paraphrase.\n\n"
         "OFFICIAL FACTS:\n" + facts
     )
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"responseMimeType": "application/json", "temperature": 0.2},
-    }).encode("utf-8")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     try:
-        resp = http_json(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
-        text = resp["candidates"][0]["content"]["parts"][0]["text"]
-        out = json.loads(text)
+        out = None
+        if _state["model"]:
+            out = call_gemini(_state["model"], key, prompt)
+        else:
+            wanted = CONFIG.get("gemini_model", "")
+            candidates = ([wanted] if wanted and wanted != "auto" else [])
+            tried_discovery = False
+            while out is None:
+                if not candidates:
+                    if tried_discovery:
+                        raise RuntimeError("no working Gemini model found")
+                    candidates = pick_models(key)[:4]
+                    tried_discovery = True
+                    print(f"  Gemini models to try: {candidates}")
+                    continue
+                model = candidates.pop(0)
+                try:
+                    out = call_gemini(model, key, prompt)
+                    _state["model"] = model
+                    print(f"  Using Gemini model: {model}")
+                except urllib.error.HTTPError as he:
+                    if he.code in (404, 400):  # unknown/unsupported model: try the next one
+                        print(f"  Model {model} not usable (HTTP {he.code}).")
+                        continue
+                    raise
         summary, steps = str(out.get("summary", "")).strip(), str(out.get("next_steps", "")).strip()
         if not summary or not steps or len(summary) > 900 or len(steps) > 700:
             return None
@@ -105,7 +153,12 @@ def ask_gemini(facts):
         if not numbers_in(summary + " " + steps) <= numbers_in(facts):
             print("  AI text contained a number not in the source; discarded.")
             return None
-        return {"summary": summary, "next_steps": steps, "model": model}
+        return {"summary": summary, "next_steps": steps, "model": _state["model"]}
+    except urllib.error.HTTPError as e:
+        if e.code in (401, 403, 429):  # bad key / no access / out of free quota: stop for this run
+            _state["dead"] = True
+        print(f"  Gemini failed (HTTP {e.code}); publishing facts only.")
+        return None
     except Exception as e:
         print(f"  Gemini failed ({type(e).__name__}: {e}); publishing facts only.")
         return None
@@ -126,7 +179,25 @@ def main():
         ai = ask_gemini(fact_sheet(r))
         (DATA / f"{rid}.json").write_text(
             json.dumps({"record": r, "ai": ai}, ensure_ascii=False, indent=1), encoding="utf-8")
-        time.sleep(7)  # stay inside free-tier rate limits
+        if ai:
+            time.sleep(7)  # stay inside free-tier rate limits
+
+    # Retry the AI summary for older posts that do not have one yet.
+    if os.environ.get("GEMINI_API_KEY", "").strip():
+        budget = int(CONFIG["max_new_posts_per_run"])
+        for f in sorted(DATA.glob("*.json"), reverse=True):
+            if budget <= 0 or _state["dead"]:
+                break
+            d = json.loads(f.read_text(encoding="utf-8"))
+            if d.get("ai"):
+                continue
+            budget -= 1
+            print(f"- retry AI for {f.stem}")
+            ai = ask_gemini(fact_sheet(d["record"]))
+            if ai:
+                d["ai"] = ai
+                f.write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+                time.sleep(7)
 
 
 if __name__ == "__main__":
