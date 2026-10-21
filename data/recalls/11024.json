@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Papablic has recalled about 248 convertible bedside sleepers with play yard extensions, model PAPA03001AI, because they fail to meet mandatory safety standards. The mattress pad can shift out of place, creating a gap where an infant can become trapped and suffocate. Additionally, the locking system can give way and collapse, creating serious fall and entrapment dangers.",
+  "next_steps": "Immediately stop using the sleeper and contact Papablic to claim a full refund. You must take the product apart, cut both the mattress and fabric sections in half, and email photos showing the destroyed parts to support@papablic.com. Once Papablic receives this proof of destruction, they will issue your refund, and you should throw the sleeper away.",
+  "model": "gemini-3.8-flash"
+ }
 }

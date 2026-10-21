@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "usOpal has recalled approximately 200 Xalirium adult portable bed rails because they violate mandatory safety standards. Users can get trapped inside the frame or between the rail and the mattress, creating a serious risk of suffocation and death. The product also fails to meet stability and strap rules, creating a fall hazard, and lacks required safety warnings.",
+  "next_steps": "Owners should stop using the bed rails right away and contact usOpal to request a full refund. To receive the refund, cut the black fabric bag, the straps, and the foam padding, write \"RECALLED\" on both the upper and lower rails, and email a photograph of the destroyed product to xaliriumofficial@outlook.com. Afterwards, safely throw the bed rails away.",
+  "model": "gemini-3.8-flash"
+ }
 }

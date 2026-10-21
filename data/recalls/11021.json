@@ -85,5 +85,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Giant Bicycle has recalled the black-and-white LED-light keys included with certain SureLock bike lock sets made after March 2023. These keys violate safety standards because young children can easily access the button cell batteries inside, and the product lacks required warning labels. Swallowing these small batteries can lead to severe internal chemical burns, critical injuries, or death.",
+  "next_steps": "Immediately stop using the recalled LED-light key and contact Giant Bicycle to receive a $5 refund. Take the key to an authorized Giant dealer along with the bike lock or a photo of its serial number to confirm it qualifies for the recall. You may safely continue using the lock itself and any non-LED keys that came with it.",
+  "model": "gemini-3.8-flash"
+ }
 }
