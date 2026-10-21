@@ -1,7 +1,7 @@
 {
   "site_name": "Recall Alert Desk",
   "tagline": "Plain-English product recall alerts, straight from official US government notices.",
-  "contact_email": "",
+  "contact_email": "recalldesk1@yahoo.com",
   "lookback_days": 30,
   "max_new_posts_per_run": 15,
   "homepage_post_count": 40,
