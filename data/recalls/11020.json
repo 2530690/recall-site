@@ -90,5 +90,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Decathlon America has recalled about 1,150 Van Rysel GRVL AF multi-terrain bicycles. The front lock nut on these bikes can loosen during use, which can lead to the front wheel detaching or becoming loose over time. This defect poses a crash hazard that could cause severe injury or death.",
+  "next_steps": "Owners should stop riding the recalled bicycles immediately. You can bring your bike to any REI Co-op location to receive a free front fork assembly inspection and repair, or contact Decathlon Customer Service directly if you cannot visit a store.",
+  "model": "gemini-3.8-flash"
+ }
 }

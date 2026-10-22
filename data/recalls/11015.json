@@ -69,5 +69,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Pacearth Direct has recalled PACEARTH U-type swing seats because the seats, straps, or metal attachment hardware can snap during use. This failure creates a serious fall hazard that has already led to falls and injuries including broken bones and head trauma.",
+  "next_steps": "Consumers should stop using the recalled swings immediately and contact Pacearth Direct for a full refund. To get the refund, write \"RECALLED\" in permanent marker on the seat, snap a photo clearly showing the writing along with the PACEARTH logo, and send the picture to recall@pacearth.com.",
+  "model": "gemini-3.8-flash"
+ }
 }
