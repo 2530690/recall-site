@@ -74,5 +74,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Romorgniz has recalled about 12,078 of its six-drawer dressers because they are unstable when not anchored to a wall. This instability creates tip-over and entrapment dangers that can severely injure or kill children. The dressers also fail to comply with mandatory federal safety standards for clothing storage units.",
+  "next_steps": "Immediately stop using unanchored dressers and place them in an area away from children. To receive a full refund, use a permanent marker to write \"RECALLED\" on the top, front, and sides, take out all the drawers, and email photos of the disassembled product to Romorgnizrecall@outlook.com before throwing it away.",
+  "model": "gemini-3.8-flash"
+ }
 }

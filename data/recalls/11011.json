@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "LLK Trading has recalled around 480 Mochi Malrang Mystery Dumpling Toys because the water beads inside them can expand beyond legal safety limits. If swallowed by a child, these beads pose life-threatening risks of choking and internal blockages.",
+  "next_steps": "Consumers should immediately take these toys away from children and reach out to LLK Trading to get a full refund. To complete the process, mark \"RECALLED\" in permanent marker on both the dumpling and its tan plastic container, throw them in the trash, and email a photo of the discarded items to llktradinginc@gmail.com.",
+  "model": "gemini-3.8-flash"
+ }
 }

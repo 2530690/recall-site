@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Dollar Tree has recalled about 360,500 electric balloon pumps, model number 406198, featuring a pink plastic body, blue handle, and two nozzles. These high-pressure devices can overheat, which creates a burn hazard for users. Dollar Tree has received reports of the pumps overheating, including incidents where a unit caught fire inside or exploded.",
+  "next_steps": "Consumers should stop using the recalled balloon pumps immediately. You can return the product to any Dollar Tree retail location for a full refund, or reach out to the company to get a prepaid shipping label if you ordered it online.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -81,5 +81,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Kobayashi has recalled approximately 77,000 HotHands rechargeable hand warmers with model number H163650. The device's lithium-ion battery and electrical parts can overheat and ignite, creating a danger of burns and serious fire hazards.",
+  "next_steps": "Stop using the hand warmers right away and visit https://hothands.com/recall-notice-rechargeable to get a claim number for a full refund. Follow the site instructions to write \"Recalled\" and your claim number on the unit in permanent marker, and upload a photo showing the writing, model number, and batch number. Afterward, dispose of the device through a local hazardous waste program rather than putting it in regular trash or recycling bins.",
+  "model": "gemini-3.8-flash"
+ }
 }
