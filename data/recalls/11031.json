@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11031,
+  "RecallNumber": "27042",
+  "RecallDate": "2026-10-22T00:00:00",
+  "Description": "This recall involves Bamamon LED Projecting Finger Light toys which contain three button cells batteries. The finger lights come in 32 pieces in a box in red, orange, blue, black, purple, clear, green and yellow. The finger lights project eight space themed patterns such as astronauts, rockets, UFO, galaxy and solar systems printed on labels located on the front of the package.  ",
+  "URL": "https://www.cpsc.gov/Recalls/2027/BAMAMON-Recalls-LED-Projecting-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "BAMAMON Recalls LED Projecting Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "Bamamon by email at bamamonproductrecall@outlook.com.",
+  "LastPublishDate": "2026-10-22T00:00:00",
+  "Products": [
+   {
+    "Name": "Bamamon LED Projecting Finger Light Toys",
+    "Description": "",
+    "Model": "",
+    "Type": "Toys",
+    "CategoryID": "1386",
+    "NumberOfUnits": "About 6,533"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BAMAMON1.png?VersionId=W3oVbO0sGrOeCbuSHnCWvchTSX6zjsb3",
+    "Caption": "Recalled Bamamon LED Projecting Finger Lights Package"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BAMAMON2.jpg?VersionId=qo2WhaCUA_gN_J9HaKR42MPIUgPts7vJ",
+    "Caption": "Recalled Bamamon LED Projecting Finger Lights"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BAMAMON3.jpg?VersionId=KmRZSqRwtxQmgdwZdu4Z4Hl0G4lNxm31",
+    "Caption": "Recalled Bamamon LED Projecting Finger Lights"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nAmazon.com from March 2025 through August 2026 for about $13 to $14.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Shenzhen Maiduoduo Trading Technology Co., Ltd., dba Bamamon, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "None reported.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the toys immediately and contact Bamamon. Consumers will be asked to email a photograph showing the product being properly disposed of in the trash to bamamonproductrecall@outlook.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

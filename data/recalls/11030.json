@@ -1,0 +1,84 @@
+{
+ "record": {
+  "RecallID": 11030,
+  "RecallNumber": "27040",
+  "RecallDate": "2026-10-22T00:00:00",
+  "Description": "This recall involves Costway high chairs designed to convert into a table and chair set. They were available in several color combinations, including purple and white, red and white, blue and white, and brown and white. There is no tracking information located on the products. ",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Costway-Recalls-Convertible-High-Chairs-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Fall-Hazards-Violate-Mandatory-Standard-for-High-Chairs",
+  "Title": "Costway Recalls Convertible High Chairs Due to Risk of Serious Injury or Death from Entrapment and Fall Hazards; Violate Mandatory Standard for High Chairs",
+  "ConsumerContact": "Costway toll-free at 844-242-1885 from 9 a.m. to 5 p.m. PT Monday through Friday, email at recall@costway.com, or online at or www.costway.com and click on “Recall” at the bottom of the page for more information. ",
+  "LastPublishDate": "2026-10-22T00:00:00",
+  "Products": [
+   {
+    "Name": "Costway Convertible High Chairs",
+    "Description": "",
+    "Model": "",
+    "Type": "High Chairs",
+    "CategoryID": "1996",
+    "NumberOfUnits": "About 3,332"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Costway1.jpg?VersionId=6QI6ZOwq2at_xt2Htney.ggAup7z6tUT",
+    "Caption": "Recalled Costway High Chair (brown and white)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Costway2.jpg?VersionId=3APshu7UhlAq4_8Dy4dgcUf__Ce3RGiW",
+    "Caption": "Recalled Costway High Chair (purple and white)\n"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Costway3.jpg?VersionId=eYk.xl1BovFdcAwh7hYedwRghovFpebG",
+    "Caption": "Recalled Costway High Chair (blue and white)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Costway4.jpg?VersionId=UlgGcn2JL5ZgH.1wHHP6X.RsPPVibheV",
+    "Caption": "Recalled Costway High Chair (red and white)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nWalmart and Target stores nationwide and online at Costway.com from May 2023 through July 2026 for between $84 and $100.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Goplus Corporation, dba Costway, of Fontana, California",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The convertible high chairs violate the mandatory safety standard for high chairs because they do not contain a passive restraint system and a child can slip through the opening between the feeding tray and seat and become entrapped or fall, posing a risk of serious injury or death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should immediately stop using the recalled high chairs and contact Costway for a free replacement high chair. Consumers will be asked to provide a receipt or a photo of the product and will receive a prepaid label to return the recalled product to Costway. Upon receipt of the recalled product, Costway will ship a replacement high chair free of charge."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}

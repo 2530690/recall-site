@@ -1,0 +1,92 @@
+{
+ "record": {
+  "RecallID": 11029,
+  "RecallNumber": "27041",
+  "RecallDate": "2026-10-22T00:00:00",
+  "Description": "This recall involves Luminaires with certain adjustable tilt mounting arms manufactured between August 2019 to July 2020 and August 2024 to April 2026: AASP, AARP, AAWB, and AAWSC. The adjustable tilt arm mounts the RSX luminaire to a square pole, round pole, wall bracket or wall bracket with surface mount conduit. The arm mount allows the luminaire to be tilted from 0 degrees to 90 degrees above horizontal. Consumers should contact Lithonia Lighting to confirm their Luminaire with adjustable tilt mounting arms are included in the recall.",
+  "URL": "https://cpsc.gov/Recalls/2027/Lithonia-Lighting-Recalls-RSX-Luminaires-with-Adjustable-Tilt-Arm-Mountings-Due-to-Risk-of-Serious-Injury-from-Impact-Hazard",
+  "Title": "Lithonia Lighting Recalls RSX Luminaires with Adjustable Tilt Arm Mountings Due to Risk of Serious Injury from Impact Hazard",
+  "ConsumerContact": "Lithonia Lighting toll-free at 855-307-2454 between 8 a.m. and 5 p.m. ET Monday through Friday, online at  https://lithonia.acuitybrands.com/ and click on “Recalls” at the bottom of the page for more information.",
+  "LastPublishDate": "2026-10-22T00:00:00",
+  "Products": [
+   {
+    "Name": "Lithonia Lighting RSX Luminaires with AASP, AARP, AAWB, and AAWSC Adjustable Tilt Arm Mountings used for commercial outdoor lighting.",
+    "Description": "",
+    "Model": "",
+    "Type": "Electric Lighting Equipment, Not Specified",
+    "CategoryID": "273",
+    "NumberOfUnits": "About 11,532"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Lithonia1.jpg?VersionId=zDyzUJUbECG__LmdKyhfhlJNDKraVYJx",
+    "Caption": "Recalled RSX Luminaire with an Adjustable Tilt Arm"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Lithonia2.png?VersionId=7FpJm4Q68Gx3YVDPrWYP.gtF.N8WaBJd",
+    "Caption": "Recalled AASP Adjustable Arm Mounting (Square pole mount)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Lithonia3.png?VersionId=Tr1MP.Q.63t_9MxYcJSuNLgxh4kE5v1b",
+    "Caption": "Recalled AARP Adjustable Arm Mounting (Round pole mount)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Lithonia4.png?VersionId=5N4DsyHIW0HA4xEx8lmGn93Sxo2VbFf5",
+    "Caption": "Recalled AAWB Adjustable Arm Mounting (Wall bracket)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Lithonia5.png?VersionId=EatrutDw1nQSMwM2yfJcIKTgvvwB5Ej6",
+    "Caption": "Recalled AAWSC Adjustable Arm Mounting (Wall bracket + conduit box)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 13 reports of adjustable tilt arm mountings breaking. There have been four reports of the fixtures falling. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Lithonia Lighting, of Atlanta, Georgia",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nCommercial distributors nationwide including Turtle & Hughes Inc. and Consolidated Electrical Distributors for commercial outdoor lighting applications from August 2019 to August 2026 for between $400 and $2200.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   },
+   {
+    "Country": "Mexico"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The knuckle of the recalled adjustable tilt arm mountings can fail, allowing the luminaire to fall from the mounting arm, posing a risk of serious injury due to impact hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should keep clear of the area directly beneath the Luminaire and contact Lithonia Lighting to schedule a free repair. Lithonia Lighting will arrange for a qualified professional to replace the recalled adjustable tilt arm mount with a new complete adjustable arm assembly."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

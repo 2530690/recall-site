@@ -1,0 +1,76 @@
+{
+ "record": {
+  "RecallID": 11032,
+  "RecallNumber": "27038",
+  "RecallDate": "2026-10-22T00:00:00",
+  "Description": "This recall involves CIYTI Light-Up Princess Costumes. The costumes include a blue dress with a crown and wand that light up, and a remote control. The crowns, scepters, and remote controls contain button batteries. There are no markings on the product. The package has “CIYTI’ on the front.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/FoShanShiNanHaiQuNuoAiTongZhuangShangHang-Recalls-CIYTI-Light-Up-Princess-Costumes-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "FoShanShiNanHaiQuNuoAiTongZhuangShangHang Recalls CIYTI Light-Up Princess Costumes Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "Email at Norakid2026@outlook.com",
+  "LastPublishDate": "2026-10-22T00:00:00",
+  "Products": [
+   {
+    "Name": "CIYTI Light-Up Princess Costumes",
+    "Description": "",
+    "Model": "",
+    "Type": "Costume/Children`s Jewelry",
+    "CategoryID": "1900",
+    "NumberOfUnits": "About 94"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/RecalledLightUpPrincessCostumeAccessories.png?VersionId=qVUy0DYD0R2MLHMLF4_TwMf9W1sNVnZB",
+    "Caption": "Recalled Light Up Princess Costume and Accessories"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/RecalledPrincessCostumeDress.png?VersionId=BX_vpm9DZFkR8tImQnkxzhiu9k_Z60u.",
+    "Caption": "Recalled Princess Costume Dress"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon from February 2025 through June 2025 for between $21 and $35.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "FoShanShiNanHaiQuNuoAiTongZhuangShangHang, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The costumes violate the mandatory safety standard for toys because the button cell batteries can be accessed easily by children, posing a deadly ingestion hazard. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should take the princess costumes away from children immediately, stop using them and contact FoShanShiNanHaiQuNuoAiTongZhuangShangHang for a full refund. Consumers will be asked to write “RECALLED” with permanent marker on the dress, crown, wand, and remote, then throw away the toys and submit a photo of the disposed toys to Norakid2026@outlook.com.  \n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

@@ -1,0 +1,72 @@
+{
+ "record": {
+  "RecallID": 11028,
+  "RecallNumber": "27039",
+  "RecallDate": "2026-10-22T00:00:00",
+  "Description": "This recall involves VQQQ-branded natural gas patio heaters, models VQQQ-A1 and VQQQ-001. They have a bronze pole with a round base and a silver mushroom-shaped top with an adjustable height of 55 inches to 78 inches. A 24-foot-long gray gas hose is attached to the heater’s base. The brand and model numbers are printed on the product’s purchase receipt.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/VQQQ-Gas-Patio-Heaters-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+  "Title": "VQQQ Gas Patio Heaters Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+  "ConsumerContact": "VQQQ by email at vqqqrecall@163.com ",
+  "LastPublishDate": "2026-10-22T00:00:00",
+  "Products": [
+   {
+    "Name": "VQQQ Natural Gas Patio Heaters",
+    "Description": "",
+    "Model": "",
+    "Type": "Gas or Lp Heaters, Not Specified",
+    "CategoryID": "1035",
+    "NumberOfUnits": "About 100"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/RecalledVQQQNaturalGasPatioHeater.png?VersionId=iVeyo1oowGdfTMY6i.RxENez.t..2CN_",
+    "Caption": "Recalled VQQQ Natural Gas Patio Heater"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from July 2024 through August 2026 for about $346.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Shanxi Yuhe Sheng Maoyi Youxian Gongsi, dba VQQQ, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "Components on the recalled patio heaters can malfunction causing gas to be released, posing a risk of serious injury or death from fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled patio heaters immediately, shut the valve at the portable gas source, disconnect the gas hose and contact VQQQ for a full refund. Consumers will be asked to write in permanent marker \"Recalled\" on the heater’s base and send a photo of the marked heater to vqqqrecall@163.com. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}
