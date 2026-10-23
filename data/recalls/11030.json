@@ -80,5 +80,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Costway has recalled roughly 3,332 convertible high chairs that can transform into table and chair sets. The products do not meet mandatory safety rules because they lack a passive restraint system. Without this safeguard, a child can slide through the gap between the seat and tray, creating serious fall and entrapment risks that can cause severe injury or death.",
+  "next_steps": "Consumers should stop using the recalled high chairs immediately and reach out to Costway for a free replacement. After providing a purchase receipt or a picture of the item, customers will receive a prepaid shipping label to send the product back. Costway will mail a replacement high chair at no charge once they receive the returned item.",
+  "model": "gemini-3.8-flash"
+ }
 }

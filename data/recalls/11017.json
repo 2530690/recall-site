@@ -83,5 +83,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Snow Peak has recalled about 100 Takibi Fireplace Propane Inserts and Lava Rocks. When heated inside the insert, the lava rocks can catch fire and explode, posing dangerous fire and burn hazards that could result in serious injury or death.",
+  "next_steps": "Stop using the propane insert and lava rocks right away and contact Snow Peak for a refund or replacement rocks. If you choose a refund, you will be sent a prepaid shipping label to return both items. If you choose replacement rocks, dispose of the recalled rocks according to local and state laws, and do not use the insert until the new rocks arrive.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -68,5 +68,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "About 100 VQQQ natural gas patio heaters, covering models VQQQ-A1 and VQQQ-001, have been recalled. Parts inside the heaters can fail and leak gas, creating a fire and burn hazard that can lead to severe injury or death.",
+  "next_steps": "Stop using the heater right away, turn off the portable gas supply valve, and detach the hose. To receive a full refund, write \"Recalled\" on the base with a permanent marker, email a photograph of the marked unit to vqqqrecall@163.com, and then safely throw the heater away.",
+  "model": "gemini-3.8-flash"
+ }
 }

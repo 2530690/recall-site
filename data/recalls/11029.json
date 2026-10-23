@@ -88,5 +88,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Lithonia Lighting has recalled RSX Luminaires fitted with specific adjustable tilt arm mountings, including models AASP, AARP, AAWB, and AAWSC. The knuckle on the mounting arm can break, which can cause the outdoor lighting fixture to detach and fall. This creates a dangerous impact hazard that could seriously injure anyone below.",
+  "next_steps": "Stay out of the area directly beneath the light fixtures immediately. Contact Lithonia Lighting to schedule a free repair, where a qualified professional will install a new complete adjustable arm assembly.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -85,5 +85,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "ABC Trading has recalled approximately 37,000 Squishy Dumpling toys (model 3655) and Crazy Squib Ball toys (model 3984) filled with glitter and water beads. The toys violate mandatory safety standards because the internal beads expand beyond allowed limits if swallowed. This expansion can cause choking, intestinal blockages, severe sickness, and potentially fatal injuries in children.",
+  "next_steps": "Stop using the recalled toys right away. Write \"RECALLED\" on the toys in permanent marker, throw them in the trash, and email a photograph of the discarded items to recallabc@gmail.com to receive a full refund.",
+  "model": "gemini-3.8-flash"
+ }
 }
