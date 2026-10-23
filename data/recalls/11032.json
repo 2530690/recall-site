@@ -72,5 +72,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "CIYTI Light-Up Princess Costumes have been recalled because children can easily access the button cell batteries inside the accessories and remote control. Swallowing these batteries can cause severe internal chemical burns or even death, which violates mandatory safety standards for toys.",
+  "next_steps": "Immediately take the costume away from children and stop using it. To receive a full refund, write “RECALLED” in permanent marker on the dress, crown, wand, and remote, discard the toys, and email a photo of the disposed items to Norakid2026@outlook.com. Follow local hazardous waste procedures when recycling or disposing of the button cell batteries.",
+  "model": "gemini-3.8-flash"
+ }
 }

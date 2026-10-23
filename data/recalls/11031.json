@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Bamamon is recalling approximately 6,533 LED Projecting Finger Light toys because they fail to meet mandatory toy safety standards. The toys contain button cell batteries that pose a serious risk of severe injury or death if ingested.",
+  "next_steps": "Stop using the lights right away and contact Bamamon to obtain a refund. To qualify for the refund, take a picture demonstrating that the product has been properly thrown away in the trash and email the image to bamamonproductrecall@outlook.com.",
+  "model": "gemini-3.8-flash"
+ }
 }
