@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "ONTHEWEI has recalled approximately 2,140 infant bath seats because they fail to meet mandatory safety standards. The seats can become unstable and tip over during use, putting babies at risk of drowning or serious harm.",
+  "next_steps": "Immediately stop using the bath seat and reach out to ONTHEWEI to get a full refund. You will need to write \"RECALLED\" in permanent marker on the front, remove the backrest and arm restraints, cut the three underside suction cups, and email a photo of the destroyed product to onthewei@outlook.com before throwing it away.",
+  "model": "gemini-3.8-flash"
+ }
 }
