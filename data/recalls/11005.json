@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Designs Direct has recalled about 4,200 Cupcakes and Cashmere brand three-light floor lamps due to potential electrical hazards. When the lamps are plugged in or switched on, the cord or internal wiring can overheat, melt, spark, smoke, or catch fire, creating a risk of fire and burn injuries.",
+  "next_steps": "Owners should immediately switch off, unplug, and stop using the recalled floor lamps. To receive a full refund within 15 days, cut the cord and upload a photo showing the destroyed lamp according to the instructions at https://www.designsdirectllc.com/recalls/.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -85,5 +85,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Walmart has recalled more than 4.4 million Expert Grill metal wire bristle brushes because the wires can break loose and cling to the grill or food. If someone accidentally swallows these bristles, they can suffer severe internal harm that may require surgery.",
+  "next_steps": "Stop using the recalled grill brushes immediately and get in touch with Walmart for a full refund or store credit. Customers will be directed to either safely throw the brushes away or return them to Walmart.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "YunHeng has recalled approximately 730 LandTale adult portable bed rails because they do not meet mandatory safety standards. Users can become trapped within the rail or between the rail and the mattress, posing a severe risk of suffocation and death. The bed rails are also missing required hazard warning labels.",
+  "next_steps": "Immediately stop using the bed rail and contact YunHeng at LandtaleBedRailsRecall@outlook.com for a full refund. To receive the refund, destroy the rail by cutting off the handle's foam grip, taking the unit apart, writing \"RECALLED\" in permanent marker on the upper and lower rails, and emailing a photo of the marked parts with your name written on paper. Once the photo is sent, safely throw the destroyed product away.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "GBYMIUY has recalled about 10,750 magnetic stick figure toy sets because the strong magnets can detach and be swallowed by children. If ingested, these magnets can pinch together inside the digestive tract, creating severe risks of intestinal blockage, tearing, blood poisoning, or death.",
+  "next_steps": "Immediately take the toy figures away from children and stop using them. To receive a full refund, throw the items away and email a photo showing they were discarded to zhangfa0426@outlook.com.",
+  "model": "gemini-3.8-flash"
+ }
 }
