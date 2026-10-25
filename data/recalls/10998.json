@@ -86,5 +86,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Yuyitop has recalled about 25,073 Aitjunz eight-drawer dressers because they can tip over if they are not secured to a wall. This instability creates serious tip-over and entrapment hazards that can severely hurt or kill children. The dressers also fail to meet mandatory safety standards for clothing storage furniture.",
+  "next_steps": "Immediately stop using the dresser if it is not anchored to the wall, and keep it in a room that children cannot enter. Owners should email yuyitop at recall.aitjunz@outlook.com to receive a free repair kit with counterweight blocks and instructions.",
+  "model": "gemini-3.8-flash"
+ }
 }

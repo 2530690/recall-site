@@ -78,5 +78,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Hyperfuels has recalled approximately 124 methanol and ethanol fuel containers because they violate federal safety standards. The containers lack required safety devices to prevent dangerous flame jetting, and the methanol containers lack child-resistant packaging, posing a deadly poisoning risk to young children. They also fail to include mandatory federal hazard labeling.",
+  "next_steps": "Immediately stop using the containers and contact Hyperfuels to receive a full refund or a replacement product. You must mark \"RECALLED\" on the container in permanent marker, email a photograph of the marked item to sales@hyperfuels.com, and dispose of the container and fuel following state and local regulations.",
+  "model": "gemini-3.8-flash"
+ }
 }

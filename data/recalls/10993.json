@@ -72,5 +72,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Style Homeware has recalled approximately 263 queen-size Emerspring mattresses because they fail to meet mandatory flammability safety rules. This issue creates a dangerous fire hazard that could result in severe burns or death.",
+  "next_steps": "Consumers should immediately stop using the recalled mattresses. To repair the issue, contact Style Homeware at EmerspringMattressRecall@outlook.com to request a free fitted cover that brings the mattress into compliance with safety standards.",
+  "model": "gemini-3.8-flash"
+ }
 }
