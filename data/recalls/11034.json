@@ -1,0 +1,84 @@
+{
+ "record": {
+  "RecallID": 11034,
+  "RecallNumber": "27049",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves SOOWERY 8-Drawer Fabric Dresser. The recalled dressers come in gray and black. The dressers have eight fabric drawers and the frames are made of metal. They measure 47.2 inches wide, 11.8 inches long, 35.4 inches tall and weigh 47.5 pounds. The SKU “SOO-8DD-G01” is printed on the products packaging.",
+  "URL": "https://cpsc.gov/Recalls/2027/SOOWERY-Recalls-8-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+  "Title": "SOOWERY Recalls 8-Drawer Fabric Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+  "ConsumerContact": "Email at SOOWERYrecall@outlook.com",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "SOOWERY 8-Drawer Fabric Dresser",
+    "Description": "",
+    "Model": "",
+    "Type": "Desks, Dressers, Chests, Bureaus, or Buffets",
+    "CategoryID": "237",
+    "NumberOfUnits": "About 138"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/SOOWERY1.jpg?VersionId=2NqD.vw_ksG1kYxeFGkYCAByk5vyBPff",
+    "Caption": "Recalled SOOWERY 8-Drawer Fabric Dresser (front)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/SOOWERY2.jpg?VersionId=bJ1QvzGwYdIpfKpPuzlmM6eL2iM3oBpO",
+    "Caption": "Recalled SOOWERY 8-Drawer Fabric Dresser (side)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/SOOWERY3.jpg?VersionId=SxDxdxiEFqb4PHk.WdQ8Qgqql0zwwrdw",
+    "Caption": "Recalled SOOWERY 8-Drawer Fabric Dresser (back)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/SOOWERY4.jpg?VersionId=hfBQvYEjAPw.DZAD9uuRpW7Cz5.3OTnJ",
+    "Caption": "Recalled SOOWERY 8-Drawer Fabric Dresser packaging showing SKU SOO-8DD-G01"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from December 2025 through August 2026 for about $106.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Shenzhen Zhongyuantong Technology Co., Ltd., dba SOOWERY of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact SOOWERY for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the top, front and sides of the dresser, remove all drawers and send photos of the marked and disassembled dresser to SOOWERYrecall@outlook.com. Consumers should then dispose of the product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

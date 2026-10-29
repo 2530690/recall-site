@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11033,
+  "RecallNumber": "27060",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves Harkla’s children’s sensory swings. The compression swings have a blue fabric seat and come with a four-hole hook and ceiling mounting hardware for suspension, with a drop length of 18 to 24 inches. Only swings with a four-hole hook are included in this recall. SKU number LS-COMP-1BLU or LS-COMP-1BLU-SW is printed on the side of the product packaging. ",
+  "URL": "https://cpsc.gov/Recalls/2027/Harkla-Recalls-Childrens-Sensory-Swings-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+  "Title": "Harkla Recalls Children’s Sensory Swings Due to Risk of Serious Injury from Fall Hazard",
+  "ConsumerContact": "Harkla toll-free at 844-442-7552 from 9 a.m. to 5 p.m. PT Monday through Friday, by email at recall@harkla.co or online at https://harkla.co/pages/ceiling-hook-recall-2026 or https://harkla.co and click “Recall” at the top of the page.  ",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "Harkla Sensory Swings",
+    "Description": "",
+    "Model": "",
+    "Type": "Swings",
+    "CategoryID": "1356",
+    "NumberOfUnits": "About 25,541 (In addition, about 5,534 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/harkla-children-s-compression-sensory-swings-recalled-due-fall-hazard"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Harkla1.png?VersionId=ohT8qGMpIe0qv8KqvQL5NIs1Vi5ZzirW",
+    "Caption": "Recalled Harkla Children’s Compression Sensory Swing"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Harkla2.png?VersionId=pa9aIf4Wln_RekNFPIvsbcMD2QEozHSV",
+    "Caption": "Four-hole ceiling hook mounting plate that came with the recalled Harkla sensory swing."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Harkla has received 29 reports of the swing’s ceiling hook separating, including 14 injuries that resulted in two concussions, a broken arm, bumps and bruises."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nSensory Tool House, Hammer & Jacks, Loaded Sensory and Renew (Faire), and online at Amazon.com and Harkla.co from March 2020 through December 2025 for between $100 and $130.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Base Products LLC, dba Harkla, of Boise, Idaho",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled swings’ ceiling hook can separate from its plate, posing a risk of serious injury from a fall hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

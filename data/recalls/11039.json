@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11039,
+  "RecallNumber": "27045",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves QZH.DUAO pajama sets. The pajama sets consist of short-sleeve tops and matching pants. They were sold in Pink Bow, Pink, Black, Light Blue, Purple, Mint Green, Hot Pink, Pink Bowknot, Blue Bowknot, Pink Strawberry and Pink Bow Flower and in sizes 4-5T through 13-14 years. ",
+  "URL": "https://cpsc.gov/Recalls/2027/Fashion-Brand-Apparel-Recalls-QZH-DUAO-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
+  "Title": "Fashion Brand Apparel Recalls QZH.DUAO Pajama Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standards for Children’s Sleepwear",
+  "ConsumerContact": "Fashion Brand Apparel at qzh.duaoproductrecall@outlook.com.",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "QZH.DUAO Children’s Pajama Sets",
+    "Description": "",
+    "Model": "",
+    "Type": "Nightwear",
+    "CategoryID": "123",
+    "NumberOfUnits": "About 300"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/QZHDUAO1.png?VersionId=cppPPnSgj5.BX_N8pR5cBR_w2GWvOyMh",
+    "Caption": "Recalled QZH.DUAO Children’s Pajama Sets - Pink Bow"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/QZHDUAO2.png?VersionId=gtRxFeS7GT.WCl3IJxTh1G0iDUSrZB3B",
+    "Caption": "Recalled QZH.DUAO Children’s Pajama Sets – Mint Green"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/QZHDUAO3.png?VersionId=X22hqj28UWITUVOIrwYIiu0t7R2qq84j",
+    "Caption": "Recalled QZH.DUAO Children’s Pajama Sets - Blue Bowknot"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from February 2026 through July 2026 for about $23.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Xingtai Yunchuang Commerce and Trade Ltd., dba Fashion Brand Apparel Co., of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled children’s pajama sets violate the mandatory safety standards for children’s sleepwear, posing a risk of serious burn injuries.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled pajama sets immediately and contact Fashion Brand Apparel for a full refund. Consumers will be asked to cut the pajamas in half and email a photo of the destroyed pajama set to qzh.duaoproductrecall@outlook.com to receive the refund. Consumers should then dispose of the destroyed product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

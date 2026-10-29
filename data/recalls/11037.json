@@ -1,0 +1,76 @@
+{
+ "record": {
+  "RecallID": 11037,
+  "RecallNumber": "27047",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves PILLANI-branded nursing pillows. The U-shaped nursing pillows were sold in the following colors and prints: cloud and stars, wild animal, white with leaf and feather, stars, pink with leaf, light blue, pink, light yellow, gray, light gray, beige and light green. The pillows have a smaller pillow attached atop and an adjustable waist strap. The brand name, model number NP4351 and batch numbers 202604, 202605 or 202606 are printed on an attached label.",
+  "URL": "https://cpsc.gov/Recalls/2027/PILLANI-Recalls-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows",
+  "Title": "PILLANI Recalls Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows",
+  "ConsumerContact": "PILLANI by email at pillanirecall@gmail.com, or online at https://pill-ani.com/pages/recall or https://pill-ani.com and click “Recall” at the top of the page for more information.\n\n",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "PILLANI Nursing Pillows",
+    "Description": "",
+    "Model": "",
+    "Type": "Infant Bedding- Blankets, Pads, Pillows, Sheets, Etc",
+    "CategoryID": "1479",
+    "NumberOfUnits": "About 25,762"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/PILLANI1.png?VersionId=ARzx0dtGqRumrmddEQr.U92WCUSYiYOt",
+    "Caption": "Recalled PILLANI Nursing Pillow – sold in varying prints and colors."
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/PILLANI2.png?VersionId=qklo03N.mxLdRvqNJiHjY1GlcaYTL8VA",
+    "Caption": "Pillani, model number NP4351 and batch numbers 202604, 202605 or 202606 are printed on a label attached to the recalled nursing pillow."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from April 2026 through September 2026 for between $30 and $40.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "G.M.H.L. LLP, dba PILLANI, of Houston, Texas",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled nursing pillows violate the mandatory safety standards for nursing pillows because they can obstruct an infant’s breathing, posing a serious risk of injury or death from suffocation.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the nursing pillows immediately and contact PILLANI for a full refund. Consumers will be asked to send a photo of the product and be provided with disposal instructions. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

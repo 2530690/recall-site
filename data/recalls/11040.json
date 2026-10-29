@@ -1,0 +1,86 @@
+{
+ "record": {
+  "RecallID": 11040,
+  "RecallNumber": "27051",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves NTI brand residential gas boilers in the FTVN and TFTN model series, and HTP brand residential gas boilers in the EFTU model series. The NTI FTVN and TFTN series boilers are gray, while the HTP EFTU (Elite Fire Tube Ultra) boilers are black. The boilers are metal, rectangular units and have either NTI or HTP printed on the front. The model serial number can be found on the rating plate, located on the left-hand side of the boiler. The following models and serial number ranges are included in this recall:  ",
+  "URL": "https://cpsc.gov/Recalls/2027/NTI-and-HTP-Brand-Gas-Boilers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Carbon-Monoxide-CO-Poisoning-and-Impact-Hazards-Manufactured-by-Ariston-formerly-NTI-Boilers",
+  "Title": "NTI and HTP Brand Gas Boilers Recalled Due to Risk of Serious Injury or Death from Fire, Carbon Monoxide (CO) Poisoning and Impact Hazards; Manufactured by Ariston, formerly NTI Boilers",
+  "ConsumerContact": "Ariston at 800-688-2575 from 7 a.m. to 8 p.m. ET Monday through Friday, email at VCexchanger@ariston.com or online at https://ntiboilers.com/safety-recalls or www.ntiboilers.com and click on “RECALLS” at the top of the page or https://htproducts.com/safety-notice.html or www.htproducts.com and click on “URGENT RECALL” at the top of the page for more information.",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "NTI and HTP residential gas boilers",
+    "Description": "",
+    "Model": "",
+    "Type": "Boilers",
+    "CategoryID": "350",
+    "NumberOfUnits": "4,726 (In addition, 2,261 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/residential-gas-boilers-recalled-due-impact-carbon-monoxide-poisoning-and-fire-hazards"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/NTI1.png?VersionId=N3k9gO6LgrijFgRQ2UjLspXdT82SHF5k",
+    "Caption": "Recalled NTI and HTP Brand Gas Boilers"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/NTI2.png?VersionId=AeRLVVhuzBHDR4N.S.QFADOWvyF6trjw",
+    "Caption": "Location of Serial Number"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 34 reported incidents of the condensate dish breaking, including three reports of the front cover detaching from the boiler. In one reported incident the technician servicing the boiler sustained a broken jaw."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Ariston Canada Inc. (Formerly NTI Boilers Inc.), of Canada",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nIndependent heating and plumbing contractors and wholesale distributors nationwide from May 2021 through July 2026 for between $3,200 and $7,700.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Ariston Thermo USA LLC, of Providence, Rhode Island",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Canada"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The condensate dish inside the boiler can crack during a delayed ignition, allowing unburned gas to build up inside the sealed cabinet. If the gas ignites, the front cover can suddenly detach, posing a risk of serious injury or death from fire, carbon monoxide (CO) poisoning, and impact hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled boilers immediately and contact Ariston to schedule a free repair by a certified technician. Consumers who must continue using the boiler while awaiting repair should have working smoke and carbon monoxide alarms in their homes."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

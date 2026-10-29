@@ -1,0 +1,76 @@
+{
+ "record": {
+  "RecallID": 11036,
+  "RecallNumber": "27061",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves Pamag Pieeoo Mattresses. The mattresses are 8 inches thick and were sold in a twin-XL size. They have a white top and white sides with a gray curve pattern. They were sold compressed in a box. The date of manufacture and “Model: BFC8HMBYTX-US” and care instructions are printed on a sewn-in white label located on one side of the mattress. ",
+  "URL": "https://cpsc.gov/Recalls/2027/Longjili-Trading-Recalls-Pamag-Pieeoo-Mattresses-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability",
+  "Title": "Longjili Trading Recalls Pamag Pieeoo Mattresses Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability\n",
+  "ConsumerContact": "Longjili Trading by email at Pamagpieeoo@outlook.com. ",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "Pamag Pieeoo Mattresses",
+    "Description": "",
+    "Model": "",
+    "Type": "Mattresses, Not Otherwise Specified",
+    "CategoryID": "1182",
+    "NumberOfUnits": "About 50"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Longjili1.png?VersionId=jv_L03vq72hNidO2.9bJEhARMptBzY16",
+    "Caption": "Recalled PAMAG PIEEOO Mattress"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Longjili2.png?VersionId=BD0CMVz0VCExXw7hDie5fKjH0fENnm0r",
+    "Caption": "Recalled PAMAG PIEEOO Mattress Labels"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com in March 2026 for between $80 and $95.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Longjili Trading (Shenzhen) Co., Ltd. of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled mattresses immediately and contact Longjili Trading for a full refund. Consumers will be asked to destroy the mattress by writing in permanent marker “RECALLED,” on the top surface of the mattress and send a photo of the marked mattress to Pamagpieeoo@outlook.com. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

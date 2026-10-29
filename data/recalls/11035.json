@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11035,
+  "RecallNumber": "27058",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves three RootStim Minoxidil Hair Regrowth Treatment bottles: \n\nRootStim 5% Minoxidil Foam Hair Regrowth Treatment with Rosemary and Biotin, 6 fl. oz. The Foam comes in a blue and white package, with an orange accent band or orange lettering. The package contains three 2 fl. oz. pump-foam bottles. UPC code 810169130594 is printed on a label on the bottom of the box. \n\n\nRootStim Minoxidil Hair Regrowth Treatment 5% Minoxidil Rosemary & Biotin, 2 fl. oz. The spray comes in a magenta box with a 2 fl. oz spray-pump bottle. UPC code 810169301005 is on a label on the bottom of box. \n\nRootStim Minoxidil Hair Regrowth Treatment 5% Minoxidil with Rosemary, 4 fl. oz. The serum comes in a blue and white package with an orange accent band containing two 2 fl. oz. amber glass bottles with black spray-pump caps. UPC code 810169301012 is on a label on the bottom of the box.  ",
+  "URL": "https://cpsc.gov/Recalls/2027/RootStim-Recalls-Minoxidil-Hair-Regrowth-Treatment-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging",
+  "Title": "RootStim Recalls Minoxidil Hair Regrowth Treatment Bottles Due to Risk of Serious Injury or Death from Child Poisoning; Violate Mandatory Standard for Child-Resistant Packaging",
+  "ConsumerContact": "RootStim at 202-743-1714 from 9 a.m. to 5 p.m. ET Monday through Friday, email at finergraceing@gmail.com or online at https://rootstim.com and click “Recall” at the top of the page for more information.",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "RootStim 5% Minoxidil Foam Hair Regrowth Treatment with Rosemary and Biotin, RootStim Minoxidil Hair Regrowth Treatment 5% Minoxidil Rosemary & Biotin and RootStim Minoxidil Hair Regrowth Treatment 5% Minoxidil with Rosemary",
+    "Description": "",
+    "Model": "",
+    "Type": "Containers,plastic,incl.bottles,bowls, Etc.",
+    "CategoryID": "1320",
+    "NumberOfUnits": "About 11,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/RootStim1.png?VersionId=EkkIpZjEBH6A.zHT.196jXj_Wpvy1j4k",
+    "Caption": "Recalled RootStim 5% Minoxidil Foam Hair Regrowth Treatment with Rosemary and Biotin"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/RootStim2.png?VersionId=Lum2cV_XhnYYei_jIonah_uvfae10WV2",
+    "Caption": "Recalled RootStim Minoxidil Hair Regrowth Treatment 5% Minoxidil Rosemary & Biotin"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/RootStim3.png?VersionId=Ff0EqrEUXZTbM380MAwjUECxYGktHjjB",
+    "Caption": "Recalled RootStim Minoxidil Hair Regrowth Treatment 5% Minoxidil with Rosemary"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from August 2025 through February 2026 for between $20 and $40.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "RootStim LLC, of New York, New York",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled hair regrowth products contain minoxidil, which must be in child-resistant packaging, as required by the Poison Prevention Packaging Act. The bottle is not child-resistant, posing a risk of serious injury or death from poisoning if the contents are ingested by young children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should secure the recalled products out of sight and reach of children immediately and contact RootStim for instructions on receiving a replacement product. Consumers will be asked to write “RECALLED” on the bottle, discard the bottle and send a photo of the discarded bottle to finergraceing@gmail.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}

@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11038,
+  "RecallNumber": "27054",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves DREO space heaters, model number DR-HSH015. The ceramic, electric heaters are black and measure about 11.5 inches wide and 13 inches tall and include a remote control. Only units manufactured from April 2025 through January 2026 are included in this recall. The manufacture date, in YYYY/MM format, and the model number are printed on a label on the heater’s underside and “DREO” on the front of the unit. ",
+  "URL": "https://cpsc.gov/Recalls/2027/DREO-Recalls-DR-HSH015-Space-Heaters-Due-to-Fire-and-Burn-Hazards",
+  "Title": "DREO Recalls DR-HSH015 Space Heaters Due to Fire and Burn Hazards",
+  "ConsumerContact": "DREO toll-free at 833-820-0887 from 8:30 a.m. to 6 p.m. ET Monday through Friday, by email at spaceheater@realtimeresults.net, or online at www.dreo.com and click on “PRODUCT RECALLS” on the top of the page, or www.recallrtr.com/spaceheater for more information.",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "DREO Space Heaters, model DR-HSH015",
+    "Description": "",
+    "Model": "",
+    "Type": "Electric Space Heaters,not Otherwise Specified",
+    "CategoryID": "987",
+    "NumberOfUnits": "About 338,800 (In addition, about 36,300 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/DREO1.png?VersionId=37rR7xQxj_D2T3WYYPVS6bf6pWt6LZqC",
+    "Caption": "Recalled DREO Space Heater - model DR-HSH015"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/DREO2.jpg?VersionId=XQ9PGzTKG443Y4cwtuigpQ93h0DOrv6B",
+    "Caption": "The manufacture date, in YYYY/MM format, and model “DR-HSH015” are printed on a label on the underside of the recalled DREO space heaters."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "DREO has received 17 reports of space heaters igniting, three resulting in property damage and one in a burn injury to the hand."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nCostco stores nationwide and online at Dreo.com, BestBuy.com, Kohls.com, Lowes.com, QVC.com, HomeDepot.com, B2BRenew.com and Costco.com from September 2025 through October 2026 for between $70 and $110.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Hesung Innovation Corp, dba DREO, of Clifton, New Jerse",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Vietnam"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled space heaters can overheat and ignite, posing fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled space heaters immediately and contact DREO for a free replacement space heater. Consumers will be asked to unplug the space heater, destroy it by cutting the electrical cord and follow instructions to send a photo of the destroyed heater."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}
