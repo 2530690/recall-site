@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Xinan Home has recalled about 792 twin-size WinxMatrs mattresses because they fail to meet mandatory flammability standards. These 10-inch black mattresses were sold compressed in boxes and feature the brand name on their sewn-in labels. Due to the safety violation, the mattresses pose a dangerous fire hazard that could result in severe injury or death.",
+  "next_steps": "Stop using the mattress right away and reach out to Xinan Home to claim a full refund. To qualify, write \"RECALLED\" in permanent marker on the mattress's top surface and on the label, then email photos of both marked areas to WinxMatrsMattressRecall@outlook.com.",
+  "model": "gemini-3.8-flash"
+ }
 }
