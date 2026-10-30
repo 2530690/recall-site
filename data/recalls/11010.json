@@ -69,5 +69,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Golden Resale has recalled approximately 400 portable camping showers equipped with a bucket and an immersion heater. The heater can rapidly catch fire if it is operated while partially or fully outside of water. This defect creates a dangerous fire hazard that could cause severe injury or death.",
+  "next_steps": "Immediately stop using the recalled camping showers and call Golden Resale toll-free at 855-927-2440 to start a full refund through Amazon or Walmart. Customers who proceed with the refund will be provided a free pre-paid package to mail the shower back. Once Golden Resale processes the return, the refund will be credited back to your original payment method.",
+  "model": "gemini-3.8-flash"
+ }
 }

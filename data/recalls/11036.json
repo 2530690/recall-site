@@ -72,5 +72,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Longjili Trading has recalled about 50 Pamag Pieeoo twin-XL mattresses because they fail to meet mandatory flammability standards. This defect creates a dangerous fire hazard that could result in severe injuries or death.",
+  "next_steps": "Stop sleeping on the mattress immediately and reach out to Longjili Trading for a full refund. You need to write \"RECALLED\" in permanent marker on the top of the mattress, send a photo of the marked product to Pamagpieeoo@outlook.com, and then discard it.",
+  "model": "gemini-3.8-flash"
+ }
 }

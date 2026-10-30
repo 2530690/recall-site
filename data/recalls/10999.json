@@ -81,5 +81,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "ABC Trading has recalled various children's light-up toys, such as headbands, glasses, and ties, because the battery compartments can be opened too easily by children. This design flaw breaks toy safety rules and exposes kids to button cell batteries. Swallowing these batteries can lead to chemical burns, critical injuries, or death.",
+  "next_steps": "Stop using the recalled toys immediately and reach out to ABC Trading to get a refund. You will need to email a picture of the product in the trash to recallabc@gmail.com, and make sure to follow local hazardous waste guidelines when throwing away or recycling the button cell batteries.",
+  "model": "gemini-3.8-flash"
+ }
 }
