@@ -82,5 +82,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Ariston has recalled certain NTI and HTP residential gas boilers because an internal condensate dish can crack and allow unburned gas to collect inside the cabinet. If this accumulated gas ignites, the front panel can forcefully blow off. This failure poses severe hazards of fire, carbon monoxide poisoning, and impact injuries.",
+  "next_steps": "Consumers should stop using the recalled boilers right away and contact Ariston to arrange a free repair performed by a certified technician. Anyone who must continue running the unit while waiting for the service should make sure their home has functioning smoke and carbon monoxide alarms.",
+  "model": "gemini-3.8-flash"
+ }
 }
