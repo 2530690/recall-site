@@ -1,0 +1,87 @@
+{
+ "record": {
+  "RecallID": 11042,
+  "RecallNumber": "27059",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves Jocoevol 6-Drawer Dressers. The recalled dressers come in black, pink, brown and white colorways. The dressers have six drawers and are made from engineered wood. They are 47.2 inches wide, 15.3 inches long, 32.3 inches tall, and weigh 97 pounds. The dressers have the model number “C-0633” printed on a label inside the top left drawer.",
+  "URL": "https://cpsc.gov/Recalls/2027/Yinklev-Recalls-Jocoevol-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+  "Title": "Yinklev Recalls Jocoevol 6-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+  "ConsumerContact": "Yinklev by email at Jocoevoldresserrecall@outlook.com.",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "Jocoevol 6-Drawer Dressers",
+    "Description": "",
+    "Model": "",
+    "Type": "Desks, Dressers, Chests, Bureaus, or Buffets",
+    "CategoryID": "237",
+    "NumberOfUnits": "About 32,791"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Yinklev1.png?VersionId=8UuJ5uCPnrHmoD85rW5ANv7X9lDWdUpZ",
+    "Caption": "Recalled Jocoevol 6-Drawer Dressers (front)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Yinklev2.png?VersionId=GMTTCg8a979WA3x1KXMwd4mrsLn6hlj1",
+    "Caption": "Recalled Jocoevol 6-Drawer Dressers (side)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Yinklev3.png?VersionId=vw8yp31clAUe4EedKvO4llE.n6712AYj",
+    "Caption": "Recalled Jocoevol 6-Drawer Dressers (back)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Yinklev4.png?VersionId=4jXKPLcS48mFOv1l.lpG0mTiVEKoOF_J",
+    "Caption": "Recalled Jocoevol 6-Drawer Dressers label showing the model number “C-0633”"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Amazon.com from December 2024 through July 2026 for about $160."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from December 2024 through July 2026 for about $160.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Shenzhen City Yiping Technology Co., Ltd., dba Yinklev, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   },
+   {
+    "Country": "Vietnam"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Yinklev for a full refund. \nConsumers will be asked to write in permanent marker “RECALLED” on the dresser and send a photo of the marked dresser to Jocoevoldresserrecall@outlook.com. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

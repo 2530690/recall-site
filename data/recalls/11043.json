@@ -1,0 +1,72 @@
+{
+ "record": {
+  "RecallID": 11043,
+  "RecallNumber": "27050",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves Whatever Works microwave grillers. The rectangular grills have a white plastic exterior with black locking clips on the side, hinge tabs at the rear, and two non-stick black metal plates. Model K4001 can be found on the product’s purchase receipt.",
+  "URL": "https://cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
+  "Title": "Whatever Works Recalls Microwave Grills Due to Risk of Serious Injury or Death from Fire Hazard",
+  "ConsumerContact": "Whatever Works toll-free at 877-756-5053 from 8 a.m. to 5 p.m. ET Monday through Friday, email at help@whateverworks.com, or online at Whateverworks.com/recall or Whateverworks.com/ and click on “Customer Service/Product Recall” for more information.",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "Whatever Works Microwave Grillers",
+    "Description": "",
+    "Model": "",
+    "Type": "Grills, Not Specified",
+    "CategoryID": "902",
+    "NumberOfUnits": "About 8,709"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/WhateverWorks1.gif?VersionId=dSi8zt3UsAJQER8D48XRh58NIvKu4OH2",
+    "Caption": "Recalled Whatever Works Microwave Grill"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received three reports of grills igniting, all resulting in fires. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nWhateverworks.com from January 2025 through June 2026 for about $22.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Potpourri Group, Inc., dba Whatever Works, of Billerica, Massachusetts",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Taiwan"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled grills can overheat and ignite, posing a risk of serious injury or death from fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled grills immediately and contact Whatever Works for a full refund. Consumers will be asked to write in permanent marker “Recalled” on the grill and send a photo of the marked grill to recall@whateverworks.com. Consumers will be provided with a prepaid label to return the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

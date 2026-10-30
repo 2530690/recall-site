@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11044,
+  "RecallNumber": "27056",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves HAIARA power banks, model W5 PRO, sold on Amazon.com by Mitrytech. The power banks are black and have “20W” printed on the front and “Model: W5 PRO” printed on the side. The seller name, Mitrytech, and brand name, HAIARA, are located on the purchase receipt. This warning applies to power banks with no date code (formatted “YYYYMMDD”) printed on the side.",
+  "URL": "https://cpsc.gov/Recalls/2027/HAIARA-Power-Banks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards-Sold-on-Amazon-com-by-Mitrytech",
+  "Title": "HAIARA Power Banks Recalled Due to Risk of Serious Injury or Death from Fire and Burn Hazards; Sold on Amazon.com by Mitrytech",
+  "ConsumerContact": "Email at HAIARArecall@outlook.com or online at www.haiara.net/recalls.html or www.haiara.net and click on “Recalls” for more information.  \n\n",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "HAIARA power banks",
+    "Description": "",
+    "Model": "",
+    "Type": "Battery Chargers",
+    "CategoryID": "1200",
+    "NumberOfUnits": "About 11,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/HAIARA1.jpg?VersionId=myWygu.qNAqSjgZDm8rx5DlFPHoyO9tW",
+    "Caption": "HAIARA power bank, model W5 PRO (front)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/HAIARA2.jpg?VersionId=VPakZxtfrYqbRwovKj196Qnyb454KdWE",
+    "Caption": "HAIARA power bank, model W5 PRO (front)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/HAIARA3.jpg?VersionId=INamsxmLp_pmj6BrY8V7xIKnMXTMiqHl",
+    "Caption": "HAIARA power bank, model W5 PRO (side)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Mitrytech has been made aware of 600 reports of fire and other thermal incidents, including three reports of burn injuries and nine reports of property damage."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nAmazon.com from May 2025 through September 2026 for between $18 to $22.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Huizhou Yancheng Trading Co., Ltd. d/b/a Mitrytech, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The power bank’s lithium battery can explode and ignite, posing fire and burn hazards to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled power banks immediately. Consumers who purchased their power banks on Amazon.com from Mitrytech should contact Mitrytech for instructions on how to receive a full refund. To receive a refund, consumers will be required to submit a photo of their recalled power bank with the word “recalled” written on it in permanent marker and confirm disposal of the power bank in accordance with applicable laws and regulations."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

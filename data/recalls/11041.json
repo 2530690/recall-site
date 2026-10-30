@@ -1,0 +1,88 @@
+{
+ "record": {
+  "RecallID": 11041,
+  "RecallNumber": "27055",
+  "RecallDate": "2026-10-29T00:00:00",
+  "Description": "This recall involves Bodum 8-cup and 12-cup Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya model French Press coffee makers with replaceable glass carafes. The Bodum name appears on the frame and inner lid of most models, and is engraved, along with product warnings, on the glass carafes. Additional photos and model-identifying information are available on the recall website.\n\n",
+  "URL": "https://cpsc.gov/Recalls/2027/Bodum-USA-Recalls-5-9-Million-French-Press-Coffee-Makers-with-Replaceable-Glass-Carafes-Due-to-Risk-of-Serious-Burn-Injury",
+  "Title": "Bodum USA Recalls 5.9 Million French Press Coffee Makers with Replaceable Glass Carafes Due to Risk of Serious Burn Injury",
+  "ConsumerContact": "Bodum USA toll-free at 888-879-8213 from 8 a.m. to 5 p.m. ET Monday through Friday, email at Bodum3302@sedgwick.com, or online at www.bodumfrenchpressrecall.expertinquiry.com or www.bodum.com  and click on “Recall Information” for more information.",
+  "LastPublishDate": "2026-10-29T00:00:00",
+  "Products": [
+   {
+    "Name": "Bodum French Press coffee makers with 8-cup and 12-cup replaceable glass carafes (Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya models)",
+    "Description": "",
+    "Model": "",
+    "Type": "Unpowered Coffee Makers or Teapots",
+    "CategoryID": "585",
+    "NumberOfUnits": "5.9 million"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Bodum1.jpg?VersionId=AfcWy.i2qS2KT6Ka0o9Agw7pYARrPXMR",
+    "Caption": "Recalled Bodum Brazil French Press"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Bodum2.jpg?VersionId=naT8B3sd6Vh34MpmcVamYxpXV0slHhRw",
+    "Caption": "Recalled Bodum Chambord French Press"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Bodum3.jpg?VersionId=MJvHPqI4mtMjIC6HBvzBfFHcPYSVO0bF",
+    "Caption": "Recalled Bodum Kenya French Press"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Bodum4.png?VersionId=iIk2zalckUe2uHAtRPx4D0K.RKi9hfDK",
+    "Caption": "Identifying text on Bodum French Press Carafe\n"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Bodum USA has identified 70 reports of carafes breaking during use, including 48 reports of burns to consumers"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nTarget, Walmart, and coffee and home goods stores nationwide and online at Bodum.com, Amazon.com, Target.com, Walmart.com and other online retailers from 1974 through October 2026 for about $15 to $65.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Bodum USA, Inc., of New York, New York",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Portugal"
+   },
+   {
+    "Country": "Thailand"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The carafe can unexpectedly break during use if the glass carafe is damaged or cracked, including by use of a metal spoon to stir the coffee, posing a risk of serious burn injuries.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using metal spoons or utensils to stir coffee in the glass carafe immediately and contact Bodum to receive a plastic Bodum stirring spoon and warning label. The label reminds consumers not to use cracked or damaged carafes and not to use metal spoons to stir contents in the glass carafe in order to avoid damaging the glass, which can lead to breakage during use."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}
