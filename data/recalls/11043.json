@@ -68,5 +68,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Whatever Works has recalled about 8,709 microwave grillers, which can be identified by model number K4001 on purchase receipts. These units can overheat and catch fire, creating a risk of severe injury or death.",
+  "next_steps": "Immediately stop using the grill and contact Whatever Works to receive a full refund. Owners will be asked to write \"Recalled\" on the grill with a permanent marker, email a photograph of the marked unit to recall@whateverworks.com, and return it using a provided prepaid shipping label.",
+  "model": "gemini-3.8-flash"
+ }
 }
