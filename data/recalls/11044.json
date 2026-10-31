@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "About 11,000 black HAIARA model W5 PRO power banks sold on Amazon.com by Mitrytech have been recalled. The devices contain lithium batteries that can explode and catch fire, creating severe burn and fire risks. These power banks have already been linked to hundreds of thermal incidents, including burns and property damage.",
+  "next_steps": "Stop using the power banks right away and contact Mitrytech to receive instructions for a full refund. To qualify, you must send a picture of the power bank with \"recalled\" written across it in permanent marker and confirm that you disposed of the unit according to applicable laws and regulations.",
+  "model": "gemini-3.8-flash"
+ }
 }
