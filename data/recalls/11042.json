@@ -83,5 +83,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Yinklev has recalled about 32,791 Jocoevol six-drawer dressers because they can become unstable and fall over if not anchored to a wall. This tip-over and entrapment hazard violates mandatory safety standards and can cause serious injuries or death to children.",
+  "next_steps": "If the dresser is not securely attached to the wall, immediately stop using it and move it away from children. To receive a full refund, write \"RECALLED\" in permanent marker on the unit, email a photo of the marked dresser to Jocoevoldresserrecall@outlook.com, and dispose of it.",
+  "model": "gemini-3.8-flash"
+ }
 }
