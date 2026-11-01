@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Fashion Brand Apparel has recalled about 300 QZH.DUAO children's pajama sets consisting of short-sleeve tops and matching pants. The sleepwear fails to comply with mandatory federal safety standards for children's sleepwear. This violation creates a dangerous burn hazard that can lead to severe injuries.",
+  "next_steps": "Immediately stop using the pajamas and reach out to Fashion Brand Apparel for a full refund. To qualify for the refund, cut the pajama set in half, email a photograph of the destroyed item to qzh.duaoproductrecall@outlook.com, and then discard the remnants.",
+  "model": "gemini-3.8-flash"
+ }
 }

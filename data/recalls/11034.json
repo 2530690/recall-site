@@ -80,5 +80,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "SOOWERY has recalled about 138 of its 8-Drawer Fabric Dressers because they fail to meet mandatory safety requirements under the STURDY Act. If the dressers are not secured to a wall, they are unstable and can tip over, posing serious entrapment, injury, or death risks to children.",
+  "next_steps": "If the dresser is not anchored to the wall, immediately stop using it and move it away from children. To get a full refund, write \"RECALLED\" in permanent marker on the top, front, and sides, remove the drawers, email photos of the marked, taken-apart dresser to SOOWERYrecall@outlook.com, and then throw the item away.",
+  "model": "gemini-3.8-flash"
+ }
 }
