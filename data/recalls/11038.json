@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "DREO has recalled certain model DR-HSH015 ceramic space heaters manufactured between April 2025 and January 2026. These devices can overheat and catch fire, creating a risk of fire and burn hazards.",
+  "next_steps": "Immediately stop using the heater and reach out to DREO to receive a free replacement unit. You will be asked to unplug the unit, destroy it by cutting its power cord, and submit a photograph verifying the destroyed heater.",
+  "model": "gemini-3.8-flash"
+ }
 }
