@@ -1,0 +1,73 @@
+{
+ "record": {
+  "RecallID": 11056,
+  "RecallNumber": "27073",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves Vevor-branded 20-inch and 24-inch BMX bicycles, models SS24001 and SS24002. The model numbers are printed on the product packaging.  The bicycles were sold in black. The Vevor logo is printed across the downtube of the frame on the bikes.",
+  "URL": "https://cpsc.gov/Recalls/2027/Sanven-Technology-Recalls-Vevor-BMX-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Federal-Requirements-for-Bicycles",
+  "Title": "Sanven Technology Recalls Vevor BMX Bicycles Due to Risk of Serious Injury or Death from Crash Hazard; Violate Federal Requirements for Bicycles",
+  "ConsumerContact": "Sanven Technology by email at recalling@vevor.com, or online at https://www.vevor.com/pages/Vevor-BMX-Bicycles-Recall or www.vevor.com and click “Recall” at the top of the page for more information.",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "Vevor BMX Bicycles",
+    "Description": "",
+    "Model": "",
+    "Type": "Minibikes or Trail Bikes",
+    "CategoryID": "1741",
+    "NumberOfUnits": "About 1,950"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Sanven1.jpg?VersionId=L9dLVkQuHGuqJTzZ2R6juqT9Ro5A9Dfs",
+    "Caption": "Recalled VEVOR BMX Bike, 24-Inch Wheel Freestyle Bike"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Sanven2.jpg?VersionId=kMmfYIwvJihCrPpmMwud.C3LteMPEOr2",
+    "Caption": "Recalled VEVOR BMX Bike, 20-Inch Wheel Freestyle Bike"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Vevorstores nationwide and online at www.vevor.com from October 2024 through April 2026 for between $152 and $188.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Sanven Technology Ltd., Rancho Cucamonga, California.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The bicycles violate the mandatory safety regulation for bicycles, because they are not equipped with a chain guard. Loose clothing can get entrapped in the chain drive, posing a risk of serious injury or deadly crash hazard. In addition, the bicycles do not comply with the labeling requirements.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the BMX bicycles immediately and contact Sanven Technology for a free repair kit. Consumers will be shipped free chain guards, with detailed installation tutorials and provided with after-sales support (such as customer service email) to help solve any issues arising during self-installation."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

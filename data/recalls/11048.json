@@ -1,0 +1,89 @@
+{
+ "record": {
+  "RecallID": 11048,
+  "RecallNumber": "27065",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves lithium-ion rechargeable battery packs intended for use with Bose S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems. The serial number of the battery packs included in this recall begins with any one of the following six digits: 083723, 078352, 084105, 078591, 078592, 084106, or 086409.  The 17-digit serial number for the battery pack is printed on a label placed at the bottom of the battery pack. The affected battery packs were sold with S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems and sold separately as accessories or replacement parts.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Bose-Recalls-Lithium-Ion-Battery-Packs-for-S1-Pro-and-S1-Pro-Bluetooth-Speaker-Systems-Due-to-Risk-of-Injury-from-Fire-and-Overheating-Hazards-0",
+  "Title": "Bose Recalls Lithium-Ion Battery Packs for S1 Pro and S1 Pro+ Bluetooth Speaker Systems Due to Risk of Injury from Fire and Overheating Hazards",
+  "ConsumerContact": "Bose toll-free at 800-278-1083 from 9 a.m. to 9 p.m. ET Monday through Friday and 9 a.m. to 7 p.m. ET on Saturday or online at www.support.bose.com/s1-battery-recall or at www.bose.com and click on “Product Recalls” at the bottom of the page for more information. ",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "Bose S1 Pro System Battery Pack and S1 Pro+ System Battery Packs for use with Bose S1 Pro and Bose S1 Pro+ Speaker Systems.",
+    "Description": "",
+    "Model": "",
+    "Type": "Speakers",
+    "CategoryID": "2141",
+    "NumberOfUnits": "About 634,759 (In addition, about 35,400 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/bose-s1-pro-and-s1-pro-system-battery-packs-recalled-due-fire-and-burn-hazards"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BoseS1ProandS1ProPortableBluetoothSpeakerSystemsbackandfront%20%20.png?VersionId=xfJxKiKNxBlhXFvsz7oFEWA.b7tcmMcj",
+    "Caption": "Bose S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems (back and front)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BoseS1ProPortableBluetoothSpeakerSystemsBatteryPack.png?VersionId=j1Vu8NExxqi5wwIZ_L7wiSBulgy_A1yi",
+    "Caption": "Recalled Bose S1 Pro Portble Bluetooth Speaker System Battery Pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BoseS1ProPlusPortableBluetoothSpeakerSystemsBatteryPack.png?VersionId=eSCQ4A7aLy_xWTYmcyPce9APGJ5c2zCY",
+    "Caption": "Recalled Bose S1 Pro+ Portable Bluetooth Speaker System Battery Pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/SerialNumberBoseS1Pro_S1ProPlusPortableBluetoothSpeakerSystemsBatteryPack.png?VersionId=73PQXsPQMWG0LaQ9bFT0B8kQ3MxayKI1",
+    "Caption": "Location of Serial Number on Bose S1 Pro and S1 Pro+ System Battery Pack"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received seven reports of the battery packs melting, producing smoke or catching fire, including six reports of property damage. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nBose, Best Buy and other retail stores and distributors nationwide and online at Amazon.com, Bose.com, BestBuy.com, Walmart.com and other websites from December 2017 through July 2026 for between $100 and $160 for the individual battery packs. The speaker systems were sold with the battery packs for $700.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Bose Corporation, of Framingham, Massachusetts",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled lithium-ion battery packs can overheat and ignite, posing a risk of injury from fire and overheating hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should remove the recalled battery packs installed in any S1 Pro and S1 Pro+ Portable Bluetooth Speaker Systems and stop using the battery packs immediately. Once the battery pack is removed, consumers may continue to use their S1 Pro and S1 Pro+ Portable Bluetooth Speakers while connected to AC power. Consumers will be asked to register and provide the affected battery pack’s serial number at www.support.bose.com/s1-battery-recall to receive a free replacement battery pack. For battery packs that are not installed in the speaker systems, consumers can simply view the serial number and provide that number to the website listed above. Consumers should dispose of the affected battery pack in accordance with local and state regulations. \n\nNote: Do not throw this recalled lithium-ion battery pack in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery pack for disposal. Before taking your battery pack to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}

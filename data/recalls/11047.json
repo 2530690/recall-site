@@ -1,0 +1,72 @@
+{
+ "record": {
+  "RecallID": 11047,
+  "RecallNumber": "27071",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves X-VESOLJE Nursing Pillows, model number NP001. The nursing pillows are C-shaped and sold in white with leaves pattern, dark brown with multicolored feather pattern and multicolored puzzle piece pattern. There are no markings or labels on the product.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Kikea-Store-Recalls-X-VESOLJE-Nursing-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Suffocation-Violate-Mandatory-Standards-for-Nursing-Pillows",
+  "Title": "Kikea Store Recalls X-VESOLJE Nursing Pillows Due to Risk of Serious Injury or Death from Suffocation; Violate Mandatory Standards for Nursing Pillows",
+  "ConsumerContact": "Kikea Store by email at zsally929@gmail.com.",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "X-VESOLJE Nursing Pillows",
+    "Description": "",
+    "Model": "",
+    "Type": "Infant Bedding- Blankets, Pads, Pillows, Sheets, Etc",
+    "CategoryID": "1479",
+    "NumberOfUnits": "About 19,596"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Kikea1.png?VersionId=fn.ALOuj6jGY0PDI69W9G92X7BBbt49Q",
+    "Caption": "Recalled X-VESOLJE Nursing Pillow – in white with leaves pattern, dark brown with multicolored feather pattern and multicolored puzzle piece pattern."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from April 2025 through June 2026 for between $24 and $34.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Shenzhen Yiyi Jiajia Trading Co., Ltd., doing business asKikea Store, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled nursing pillows violate the mandatory safety standards for nursing pillows because they can obstruct an infant’s breathing, posing a serious risk of injury or death from suffocation.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled nursing pillows immediately and contact Kikea Store for a full refund. Consumers will be asked to cut the pillow in half after confirming the recalled pillow with the firm and send a photo of the destroyed pillow to zsally929@gmail.com. Consumers should then dispose of the product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

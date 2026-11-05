@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11046,
+  "RecallNumber": "27069",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves Gourmia 9-SliceDigitalAir Fryer Ovens with model number GTF7530, and UPC Code 810002862779. The recalled ovens are stainless steel and have two spring-loaded glass front French doors with metal handles. The Ovens can be identified with model and UPC codes on packaging. The Model number GTF7530 and codes 3021 to 0126 can also be found on a label on back of the unit.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Gourmia-Recalls-9-Slice-Digital-Air-Fryer-Ovens-Due-to-Burn-Hazard",
+  "Title": "Gourmia Recalls 9-Slice Digital Air Fryer Ovens Due to Burn Hazard",
+  "ConsumerContact": "Gourmia toll free at 888-834-0092 Monday through Friday 9 a.m. to 5p.m. or online at www.gourmia.com/recall.asp or Gourmia.com and click on the “Recall Information” link at the top of the page for more information. ",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "Gourmia Stainless Steel Digital 9 Slice Digital Air Fryer Ovens",
+    "Description": "",
+    "Model": "",
+    "Type": "Electric Counter-top Ovens, Broilers or Toaster Ovens",
+    "CategoryID": "549",
+    "NumberOfUnits": "About 175,951"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Gourmia1.png?VersionId=IguLKgTa11Mieq_uPAPk24jM46V2EAy_",
+    "Caption": "Recalled Gourmia Air Fryer Oven"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Gourmia2.png?VersionId=MV8Z3SdeegAnt4szk.tDs1lF1vXmEPMf",
+    "Caption": "Label on Back of Oven"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Gourmia has received 57 reports of the oven doors closing unexpectedly when retrieving food, resulting in 40 incidents of burns to consumer hands or wrists."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nTarget stores nationwide and online at Target.com from October 2021 through June 2026 for about $150.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "The Steelstone Group LLC, dba Gourmia, of Brooklyn, New York.",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The oven’s doors can unexpectedly close when bumped, posing a burn hazard to consumers retrieving hot food.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled Ovens immediately and contact Gourmia for a free repair kit by mail. The repair kit will include an added doorstop and instructions on how to install."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

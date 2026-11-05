@@ -1,0 +1,76 @@
+{
+ "record": {
+  "RecallID": 11052,
+  "RecallNumber": "27068",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves HAUOM-branded Eight-drawer dressers. The wooden black dressers measure about 27.6 inches wide, 15.8 inches long, 59.1 inches tall, and weigh about 112.4 pounds. \"SKU: AJ_DJ504298_1\" is printed on the product packaging.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Jiastfeng-Recalls-HAUOMS-Eight-drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+  "Title": "Jiastfeng Recalls HAUOMS Eight-drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+  "ConsumerContact": "Jiastfeng by email at recall@hauoms.com.",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "HAUOMS Eight-drawer Dressers",
+    "Description": "",
+    "Model": "",
+    "Type": "Desks, Dressers, Chests, Bureaus, or Buffets",
+    "CategoryID": "237",
+    "NumberOfUnits": "About 1,392"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Jiastfeng1.jpg?VersionId=hqhJCY0D7j62x9lZkgsGDWqlQx6eXzzY",
+    "Caption": "Recalled HAUOMS Eight-drawer Dressers"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Jiastfeng2.jpg?VersionId=y6fIXzgJ.gwdZ4S8Fs7DY25f_HFPJNNF",
+    "Caption": "“SKU: AJ_DJ504298_1” is printed on the packaging of the recalled HAUOMS eight-drawer dressers.\n"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from May 2025 through September 2026 for about $150.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Zhengzhoushi Rupiao Electronic Commerce Co., Ltd., dba Jiastfeng, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Jiastfeng for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the top, front and sides of the dresser, remove all drawers and send photos of the marked and disassembled dresser to recall@hauoms.com. Consumers should then dispose of the product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

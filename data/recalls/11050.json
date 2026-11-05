@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11050,
+  "RecallNumber": "27064",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves all Model Year 2024-2026 Brawley GTS Electric ROVs. Each vehicle has a unique VIN number located under the dashboard on the driver’s side of the vehicle. The VIN Numbers for the recalled vehicles range from XXXXXXXXXXX005927-XXXXXXXXXXX005990 (2024 models), XXXXXXXXXXX005992- XXXXXXXXXXX006074 (2025 models) and XXXXXXXXXXX006077- XXXXXXXXXXX006152 (2026 models) and can be found under the dashboard on the driver’s side of the vehicle. The Vanderhall logo is located on the bottom of the door on each side of the vehicle. The recalled vehicles were sold in Ivory White, Obsidian Black, Royal Blue, Ida Rose, Bosco Blue, Atomic Green, Rossa, Jean Gray and Emerald Green Metallic colors.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Vanderhall-North-America-Recalls-All-Model-Year-2024-2026-Brawley-Electric-Recreational-Off-road-Vehicles-Due-to-Injury-and-Crash-Hazards",
+  "Title": "Vanderhall North America Recalls All Model Year 2024-2026 Brawley Electric Recreational Off-road Vehicles Due to Injury and Crash Hazards",
+  "ConsumerContact": "Vanderhall North America, LLC by email at inquiry@vanderhallusa.com or online at https://dealer.vanderhallusa.com/contact, https://portal.vanderhallusa.com/safety_notices, under the name of “Vanderhall North America, LLC Recalls Brawley GTS Seat Belt Retractor” for more information.",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "Model Year 2024-2026 Brawley GTS Electric Recreational Off-road Vehicles (ROVs)",
+    "Description": "",
+    "Model": "",
+    "Type": "Recreational Vehicles (Unlicensed)",
+    "CategoryID": "88",
+    "NumberOfUnits": "About 190"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/RecalledBrawleyElectricROVSideView.png?VersionId=32o36C7ZbZc0ACPq0zUyvNDSHIh79zY2",
+    "Caption": "Recalled Brawley Electric ROV – Side View"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/RecalledBrawleyElectricROVFrontView.png?VersionId=rM0TWxkpPeddUFi2ZP.dSs9Q6D2We_Yy",
+    "Caption": "Recalled Brawley Electric ROV – Front View"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/RecalledBrawleyElectricROVBackView.png?VersionId=Hzd90Ls54CHg_5YE6aYKfNadDd018HyI",
+    "Caption": "Recalled Brawley Electric ROV – Back View"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Vanderhall has received 11 reports of the seat belt locking up.  No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Vanderhall North America LLC, of Provo, Utah",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nVanderhall dealers in Utah, Ohio, Michigan, Texas, Montana, North Carolina, Oklahoma and Arizona from April 2024 to June 2026 for about $50,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United States"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The seat belts in Brawley ROVs can permanently lockup in the fully retracted position. If this occurs, consumers would be unable to reset the seat belt and put it on when the vehicle is operating, posing injury and crash hazards to consumers.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled vehicles immediately and contact an authorized Vanderhall dealer to schedule a free repair. A technician will install an insert into the seat belt guide slot on each seat that will reduce the speed the seat belt retracts, preventing the lockup from occurring."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

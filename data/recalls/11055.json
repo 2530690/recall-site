@@ -1,0 +1,109 @@
+{
+ "record": {
+  "RecallID": 11055,
+  "RecallNumber": "27074",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves X-Pro Eagle youth ATVs. The gas-powered, 110cc vehicles were sold in black, blue, red, pink, spider black, spider blue, spider red, leaf pink and tree camo. “X-PRO” is printed on the ATV’s side panel and “This ATV is subject to Titan Imports Inc.’s Action Plan approved by the U.S. Consumer Product Safety Commission” on a plate on the left front side of the frame.",
+  "URL": "https://cpsc.gov/Recalls/2027/U-S-Titan-Recalls-X-Pro-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Mandatory-Standard-for-ATVs",
+  "Title": "U.S. Titan Recalls X-Pro Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violate Mandatory Standard for ATVs",
+  "ConsumerContact": "X-Pro at (888) 842-6607 from 9 a.m. to 6 p.m. CT Monday through Friday, email at recall@moshinllc.com, or online at www.moshinllc.com/eagle110atv_recall.html or www.moshinllc.com and click on “Recall” at the top of the page for more information.",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "X-PRO’s Eagle Youth All-Terrain Vehicles (ATVs)",
+    "Description": "",
+    "Model": "",
+    "Type": "All Terrain Vehicles (ATVs)",
+    "CategoryID": "1817",
+    "NumberOfUnits": "About 117"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan1.png?VersionId=mhHUV9W2r11PcuCEmTbSbfLZ6Yvv5Var",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – spider black"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan2.png?VersionId=aI4AVnEZz0abqNeMjCmQaX9ENZrwfx8i",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – spider blue"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan3.png?VersionId=1ObkC7sOqOhbW4bMhTB6q42XKQdXMFYX",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – spider red"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan4.png?VersionId=2tzhOYAYZIS2FgYWpfELuii92KmJXJGm",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – tree camo"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan5.png?VersionId=hJMf3Yj.HjVDnhBUMOWFzNOwoFUklIOx",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – black"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan6.png?VersionId=_Ahmxdl9weYZSqIAPT0Q8XPpe769L_78",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – blue"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan7.png?VersionId=ypgP6TPa_lFK05_VO7gX85YZqmLpyurl",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – pink"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan8.png?VersionId=msguTnTXC4nu2wiiOWrVghzy1ujGAwzN",
+    "Caption": "Recalled X-PRO Eagle Youth ATV – red"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/USTitan9.png?VersionId=FTDSnYZZab41ScPfWucDm7k7xfTL83k6",
+    "Caption": "“X-PRO” is printed on the side panel of the recalled Eagle ATV."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nWalmart.com, Powersportsmax.com, Xprousa.com, Amazon.com and eBay.comfrom July 2025 through September 2025for between $680 and $980.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Moshin, LLC., dba. X-PRO, of Carrollton, Texas",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Titan Imports, Inc., dba U.S. Titan, of Ontario, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled ATVs violate the mandatory ATV safety standard because the speed-adjusting module included with the vehicle allows for the ATV’s speed to be adjusted in excess of the maximum speed for vehicles intended for children 6 years old and older, posing a risk of serious injury or death from a crash.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should  stop using the speed-adjusting module included with the vehicle immediately and contact X-PRO for a $100 refund. Consumers can continue using the vehicle without the module. Consumers will be asked to return the module using a prepaid shipping label."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

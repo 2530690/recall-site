@@ -1,0 +1,85 @@
+{
+ "record": {
+  "RecallID": 11053,
+  "RecallNumber": "27070",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall includes X-Dream, X-Dream Total Dry, X-All Mountain Hammer and X-All Mountain Adze. These products are designed for vertical ice climbing. The batch number is located on the side of the shaft.  “CAMP” is written in white lettering on the ice axes shaft. The recalled nut and bolt kit were also sold as an accessory item as model number 3641.\n\nRecalled Models and Batches\n\n• X-Dream (model: 3570): Batches 10/24, 07/25, 10/25, 12/25\n\n• X-Dream Total Dry (model: 3609): Batches 10/24, 07/25, 11/25\n\n• X-All Mountain Hammer (model: 3630): Batches 10/24, 09/25\n\n• X-All Mountain Adze (model: 3631): Batches 10/24, 09/25\n\n• Accessory Kit (nut and bolt) (model: 3641) ",
+  "URL": "https://www.cpsc.gov/Recalls/2027/CAMP-Recalls-Mountain-Ice-Axes-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+  "Title": "C.A.M.P. Recalls Mountain Ice Axes Due to Risk of Serious Injury or Death from Fall Hazard",
+  "ConsumerContact": "C.A.M.P. toll-free at 877-421-2267 from 8 a.m. to 5 p.m. MT Monday through Friday, email warranties@camp-usa.com or online at https://www.camp-usa.com/x-bolt-recall-102026 or go to www.camp-usa.com and click on “Safety Recalls” at the bottom of the page for more information.",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "X-Dream, X-Dream Total Dry, X-All Mountain Hammer and X-All Mountain Adze",
+    "Description": "",
+    "Model": "",
+    "Type": "Hatchets or Axes",
+    "CategoryID": "878",
+    "NumberOfUnits": "About 2,230"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/CAMP1.png?VersionId=YWDJAvzaUYPN_baaieJb6Y8wnwFKYbpv",
+    "Caption": "Recalled X-Dream, X-Dream Total Dry, X-All Mountain Hammer and X-All Mountain Adze"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/CAMP2.png?VersionId=HM1PYAyOEDNRP2ZPUuwzfGE93tVQIsqe",
+    "Caption": "The batch number is found on one side of the shaft"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/CAMP3.png?VersionId=AYxXMhe4C7nD7p1b.vbRw9n_6_aWxhO8",
+    "Caption": "Recalled screw and nut (no batch number present)"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/CAMP4.png?VersionId=FnSy.r17php14RaUVZZsJSqVTlee9FoZ",
+    "Caption": "The new screw (identified by the batch number marking) and the new nut comes in black color (the accessory kit)."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nREI stores nationwide and online at Camp-usa.com, Backcountry.com, Amazon.com and REI.com from November 2025 through September 2026 for between $30 and $330.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "C.A.M.P. USA Inc., of Golden, Colorado",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Italy"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "A screw on the recalled mountain ice axes can loosen during use, causing the handle or pick to detach, posing a risk of serious injury or death from fall hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled mountain ice axes immediately and register at https://www.camp-usa.com/x-bolt-recall-102026 to receive a free repair kit. Consumers should have the model and batch number available, which can be found on the side of the axes’ shaft. Consumers can either contact C.A.M.P. for a free repair kit with instructions to repair the axes themselves or have the firm repair the ice axes.  The firm will send the consumer a prepaid shipping label and packaging to return the recalled axes to the firm."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

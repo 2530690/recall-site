@@ -1,0 +1,85 @@
+{
+ "record": {
+  "RecallID": 11049,
+  "RecallNumber": "27076",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves Magnetopia-branded Magnetic Building Cubes and Blocks, which are magnetic cubes sold in sets of 60, 100, 150 and 200. The cubes contain small, powerful magnets that allow the cubes to stick together and create 3D designs. The sets are available in a variety of themed building/landscape designs and colors. The following styles and models are included in the recall:\n\nStyle Name\tModel Number\nDarkhouse\tMAT-030\nArean\tMAT-031\nDarkgrass\tMAT-032\nFarmday\tMAT-033\nBluehous\tMAT-034\nPinkfarm\tMAT-035\nDarkForest\tMAT-036\nPinkHouse\tMAT-037\nSeafight\tMAT-038\nFirefarm\tMAT-039\nDarkfarm\tMAT-040\nDarkhouse\tT009\nBrownFarm\tT025\nFarm\tT076\nDarkhero\tT078\nThe model numbers of the recalled cubes are located on the back of the product packaging.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Magnetopia-Recalls-Magnetic-Building-Cubes-and-Blocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard",
+  "Title": "Magnetopia Recalls Magnetic Building Cubes and Blocks Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard",
+  "ConsumerContact": "Magnetopia by email at toyrecall78945@outlook.com or online at recall.magnetopia.com for more information. ",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "Magnetopia Magnetic Building Cubes and Blocks",
+    "Description": "",
+    "Model": "",
+    "Type": "Blocks, Stacking Toys or Pull Toys",
+    "CategoryID": "823",
+    "NumberOfUnits": "About 7,600"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Magnetopia1.png?VersionId=Wd0WzRueGdbG_56wVSwpkRNHus5Ynkgz",
+    "Caption": "Recalled Magnetopia Building Cubes – Darkgrass, Model MAT-032"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Magnetopia2.png?VersionId=pQLGRBf.BGIVLLnsBwucS54.fOMbrbcM",
+    "Caption": "Recalled Magnetopia Building Cubes – DarkForest, Model MAT-036"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Magnetopia3.png?VersionId=RuykHx5YwXfPrfG5neja0ppOnHu47GJM",
+    "Caption": "Recalled Magnetopia Building Cubes – Arean, Model MAT-031"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Magnetopia4.png?VersionId=CUSeq0IgVsyp3HLtxEDjZ7hricwPJGgX",
+    "Caption": "Location of model number on the back of the product packaging"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nMagnetopia.comfrom April 2025 through October 2026 for between $20 and $40.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "HBT LTD, dba Magnetopia, of Hong Kong",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled magnetic building cubes contain magnets that can become loose if the cubes break or open, posing a magnet ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or other metal objects, and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled magnetic building cubes immediately and contact Magnetopia for a full refund. Consumers will be provided with a pre-paid label to return the recalled magnetic cubes to receive a refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

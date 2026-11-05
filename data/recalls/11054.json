@@ -1,0 +1,85 @@
+{
+ "record": {
+  "RecallID": 11054,
+  "RecallNumber": "27072",
+  "RecallDate": "2026-11-05T00:00:00",
+  "Description": "This recall involves the SuperFast Sterilizer Dryer, a countertop appliance that uses a push-button control to sterilize and dry baby bottles, breast pump parts and accessories in ten minutes. The recalled units have model numbers BRZ0083, BRZ0154 and BRZ0156. The model number is printed on the product label located on the bottom of the unit. ",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Baby-Brezza-Enterprises-Recalls-SuperFast-Sterilizer-Dryers-Due-to-Overheating-and-Burn-Hazards",
+  "Title": "Baby Brezza Enterprises Recalls SuperFast Sterilizer Dryers Due to Overheating and Burn Hazards",
+  "ConsumerContact": "Baby Brezza Enterprises toll-free at 888-527-9824 from 9 a.m. to 5 p.m. ET Monday through Friday, email at recall@babybrezza.com or online at https://babybrezza.com/pages/about?view=v3-recalls and www.babybrezza.com and click \"Product Safety Recall\" at the bottom of the page for more information.",
+  "LastPublishDate": "2026-11-05T00:00:00",
+  "Products": [
+   {
+    "Name": "SuperFast Sterilizer Dryers",
+    "Description": "",
+    "Model": "",
+    "Type": "Dryers",
+    "CategoryID": "1918",
+    "NumberOfUnits": "About 29,000 (In addition, about 4,500 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/baby-brezza-superfast-sterilizer-dryer-recalled-due-fire-and-burn-hazards"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BabyBrezza1.png?VersionId=UIOZN2OT0VM54RvtyzVONZTL2ZjVC4vw",
+    "Caption": "Recalled Baby Brezza SuperFast Sterilizer Dryer model numbers BRZ0083 and BRZ0156"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BabyBrezza2.png?VersionId=FPe71iYVUR9TjiJqqQnx1lWBU7FiBsP1",
+    "Caption": "Recalled Baby Brezza SuperFast Sterilizer Dryer model number BRZ0154"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/BabyBrezza3.png?VersionId=w44HzWtsIoItBeWB_acoWBAETWAavXNB",
+    "Caption": "Baby Brezza SuperFast Sterilizer Dryer Label with model number"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 32 reports of the sterilizer dryers overheating or the plastic housing melting. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nTJ Maxx and Marshall’s storesnationwide and online at babybrezza.com, target.com and babylist.com from January 2024 through October 2026 for between $160 and $180.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Baby Brezza Enterprises LLC, of Newark, New Jersey",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled sterilizer dryers can overheat when plugged in and operating, posing a risk of injury from a burn hazard if the surface is handled.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled sterilizer dryers immediately and contact Baby Brezza Enterprises for a free replacement sterilizer dryer, including shipping at no cost to the consumer. Consumers will be asked to register at https://babybrezza.com/pages/about?view=v3-recalls, complete the recall form, unplug the product, cut the power cord to destroy the sterilizer dryer and upload photos. Send photos of the model number on the label of the dryer the destroyed appliance and the return authorization number to recall@babybrezza.com. After uploading the photos, consumers should dispose of the recalled sterilizer dryers in accordance with local and state ordinances."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}
