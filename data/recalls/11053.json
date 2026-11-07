@@ -81,5 +81,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "C.A.M.P. has recalled several mountain ice axes, including X-Dream, X-Dream Total Dry, X-All Mountain Hammer, and X-All Mountain Adze models, along with an accessory nut and bolt kit. A screw on the equipment can loosen while climbing, which may cause the pick or handle to separate. This failure creates a serious fall hazard that can result in severe injury or death.",
+  "next_steps": "Owners should stop using the recalled ice axes immediately and register online at https://www.camp-usa.com/x-bolt-recall-102026 with the model and batch number from the side of the shaft. You can choose to receive a free repair kit with instructions to fix the tool yourself, or send the axe to C.A.M.P. for repair using provided packaging and a prepaid shipping label.",
+  "model": "gemini-3.8-flash"
+ }
 }
