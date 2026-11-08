@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "RootStim has recalled approximately 11,000 bottles of its minoxidil hair regrowth treatments because the containers lack required child-resistant packaging. If young children access and swallow the liquid, it poses a severe poisoning hazard that can cause serious injury or death.",
+  "next_steps": "Immediately store the recalled bottles in a secure spot out of the sight and reach of children. Contact RootStim for instructions to obtain a replacement product, which requires writing \"RECALLED\" on the bottle, throwing it away, and emailing a photo of the discarded bottle to finergraceing@gmail.com.",
+  "model": "gemini-3.8-flash"
+ }
 }
