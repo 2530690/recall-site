@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11057,
+  "RecallNumber": "27085",
+  "RecallDate": "2026-11-12T00:00:00",
+  "Description": "This recall involves the Kakgold 4WD stunt vehicles with a remote-control containing button cell and lithium-ion batteries. The toy car has a lime green and blue body, a black chassis and four black wheels with lime green trim and diagonal rollers. The vehicle body features checkered patterns, an “X” design and the words “PRO” and “RACING.” A white hang tag attached to the vehicle body displays “Do Not Twist the Shaft” in red lettering and illustrations marked with red crosses. ",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Kakgold-Recalls-4WD-Remote-Controlled-Car-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "Kakgold Recalls 4WD Remote-Controlled Car Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "Kakgold by email at kakrecall@outlook.com.",
+  "LastPublishDate": "2026-11-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Kakgold 4WD Stunt Vehicle Toys",
+    "Description": "",
+    "Model": "",
+    "Type": "Toy Vehicles, Not Specified",
+    "CategoryID": "1797",
+    "NumberOfUnits": "About 294"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Kakgold1.jpg?VersionId=9Wrjcyt_8XIgcQGX8kAtEkfaG7q0J0TL",
+    "Caption": "Recalled Kakgold 4WD Stunt Vehicle Toy – packaging front"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Kakgold2.jpg?VersionId=Ti6vjRBvOu21tRi_cYpf7SlJJaj8w_l5",
+    "Caption": "Remote-control containing button cell and lithium-ion batteries"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Kakgold3.jpg?VersionId=YGoGLN_GKWjWPXKl5IYRDFctOAIpk1mE",
+    "Caption": "Recalled Kakgold 4WD Stunt Vehicle Toy – top view with hang tag"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from July 2026 throughSeptember 2026 for between $34 and $50.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Shenzhenshi Juteng Lechuang Technology Co., Ltd., dba Kakgold, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled remote-controlled cars violate the mandatory standard for toys because they contain button cell and lithium-ion batteries in the remote control that can be easily accessed by children, posing a deadly ingestion hazard to children. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns and death",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the remote-controlled car toys immediately and contact Kakgold for information on how to receive a full refund. Consumers will be asked to write “RECALLED” on the product and email a photograph showing the product being properly disposed of in the trash to kakrecall@outlook.com.\n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

@@ -1,0 +1,77 @@
+{
+ "record": {
+  "RecallID": 11059,
+  "RecallNumber": "27087",
+  "RecallDate": "2026-11-12T00:00:00",
+  "Description": "This recall involves the Cummins Onan P5000iDF EFI Dual Fuel Portable Generators sold in a dark gray color. The generators can operate on gasoline or propane, and produce between 4,500 and 5,000 watts, depending on fuel. “Cummins” is printed in white on the front of the unit and the handle above the control panel. The Cummins \"C\" logo and \"Onan P5000iDF EFI\" are printed on the side. The model and part number can be found on the label attached to the side of the generator.",
+  "URL": "https://cpsc.gov/Recalls/2027/Cummins-Recalls-Portable-Generators-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+  "Title": "Cummins Recalls Portable Generators Due to Risk of Serious Injury from Fire and Burn Hazards",
+  "ConsumerContact": "Cummins at 800-286-6467 Monday through Friday anytime or online at www.cummins.com/en-na/na/generators/portable-generators/safety-recalls/campaigns/7308 or go to www.cummins.com/en-na/na/generators/portable-generators and click on “Safety Recalls” at the top of the page for more information.",
+  "LastPublishDate": "2026-11-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Cummins Onan P5000iDF EFI Dual Fuel Portable Generators",
+    "Description": "",
+    "Model": "",
+    "Type": "Generators",
+    "CategoryID": "1974",
+    "NumberOfUnits": "About 2,960"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Cummins1.png?VersionId=tZUE.QfqyptxwTEYJiAcJhpYOQ6NBdsp",
+    "Caption": "Recalled Cummins Onan P5000iDF EFI Dual Fuel Portable Generator"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Cummins2.png?VersionId=O2.p747wekB2EAQETB4mbwZlNcuEW97h",
+    "Caption": "Label on the side of the generator with the model and part number"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received eleven reports of fuel discharging from the unit and the fuel cap ejecting unexpectedly, including one consumer reporting being splashed in the face with fuel. No medical attention was needed."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nCamping World, Factory Pure, Northern Tool, AP Electric stores and online atCummins.com from May 2025 through August 2026 for between $1,640 and $1,930.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Cummins Inc., of Columbus, Indiana",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "Vietnam"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The valves in the recalled generators were installed incorrectly, preventing fuel vapors from venting properly from the gasoline tank, causing excessive pressure to build up. This pressure can cause fuel to discharge or the fuel cap to eject, posing a risk of serious injury from fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled portable generators immediately and go to https://www.cummins.com/en-na/na/generators/portable-generators/safety-recalls/campaigns/7308 to check if the model and part number is included in the recall.  If your unit is affected, contact an authorized Cummins service location and arrange for a free repair at the service location. To find a service location near you, please use the Service Locator link at https://quickserve.cummins.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

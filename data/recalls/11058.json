@@ -1,0 +1,73 @@
+{
+ "record": {
+  "RecallID": 11058,
+  "RecallNumber": "27086",
+  "RecallDate": "2026-11-12T00:00:00",
+  "Description": "This recall involves Buzz Bicycles Cerana T2 E-Trike, model E4004. The tricycle is a pedal assist tricycle. The tricycle is gray with \"BUZZ\" logos on the left and right side. The tricycle has a 500-Watt motor and a 48-Volt battery. The tricycle has three 24-inch wheels. The model number is printed on a label near the pedals on the bottom side of the frame’s downtube. ",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Huffy-Recalls-Buzz-Bicycles-Cerana-T2-E-Trikes-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+  "Title": "Huffy Recalls Buzz Bicycles Cerana T2 E-Trikes Due to Risk of Serious Injury from Fall Hazard",
+  "ConsumerContact": "Huffy Corporation toll-free at 855-430-6240 from 8 a.m. to 5 p.m. ET Monday through Friday, email at service@huffy.com or online at https://www.buzzbicycles.com/recalls or at www.buzzbicycles.com and click on “Recalls” at the top of the page for more information.",
+  "LastPublishDate": "2026-11-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Buzz Bicycles Cerana T2 E-Trike",
+    "Description": "",
+    "Model": "",
+    "Type": "Bicycles & Accessories",
+    "CategoryID": "1850",
+    "NumberOfUnits": "About 286"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Huffy1.jpg?VersionId=QLL20sS7WlVoNJa5y3bJY3doTHAPJyhs",
+    "Caption": "Recalled Buzz Bicycles Cerana T2 E-Trike, model E4004"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received 12 reports of the rear wheel becoming loose or separating, resulting in three injuries of shoulder and wrists sprains, leg bruising and abrasions."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nIndependent bike shops nationwide and online atwww.buzzbicycles.com from November 2024 through July 2026 for between $1,400 and $2,500.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Huffy Corporation, of Miamisburg, Ohio",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled tricycles’ rear wheels can become loose or separate from the rear frame, posing a risk of serious injury from a fall hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled tricycles immediately and contact Huffy for free replacement rear axle assemblies. The rear wheel axle assemblies will be sent directly to consumers or to a third-party who will repair the tricycle. Huffy Corporation will reimburse consumers up to $100 for charges incurred by the third-party repair."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

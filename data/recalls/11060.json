@@ -1,0 +1,85 @@
+{
+ "record": {
+  "RecallID": 11060,
+  "RecallNumber": "27082",
+  "RecallDate": "2026-11-12T00:00:00",
+  "Description": "This recall involves outdoor Sharper Image-Branded Tabletop Fire Pits and Sharper Image-Branded Tabletop Infinity Fire Pits. The units have a “77” logo on the front, a Lot Code sticker in the center of the base, a round black sticker marked “CHINA” with a 5-digit code, the letters KS-CY or KS-FC, and a date code in YYYY-MM-DD format. The Sharper Image-Branded Tabletop Fire Pits feature a small cylindrical concrete body with a removable snuffing lid and an open burn chamber at the top. The Sharper Image-Branded Tabletop Infinity Fire Pits feature a steel base and tempered‑glass side panels.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/Allstar-Recalls-Sharper-Image-Tabletop-and-Infinity-Fire-Pits-Due-to-Risk-of-Serious-Injury-from-Burn-and-Fire-Hazards",
+  "Title": "Allstar Recalls Sharper Image Tabletop and Infinity Fire Pits Due to Risk of Serious Injury from Burn and Fire Hazards",
+  "ConsumerContact": "Allstar toll-free at 855-215-5032 from 9 a.m. to 5 p.m. ET Monday through Friday, email at allstarmarketing6861@sedgwick.com  or online at www.firepitrecall.expertinquiry.com or www.allstarmg.com and click on “Fire Pit Safety Recall” at the bottom of the page for more information.",
+  "LastPublishDate": "2026-11-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Sharper Image Tabletop Fire Pits and Sharper Image Tabletop Infinity Fire Pits",
+    "Description": "",
+    "Model": "",
+    "Type": "Outdoor Patio Heaters or Firepits (Manufactured)",
+    "CategoryID": "895",
+    "NumberOfUnits": "About 265,000"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Allstar1.jpg?VersionId=rgoQs1gXR9jbVFz_GtXmn4R9kkKTA.pj",
+    "Caption": "Sharper Image Tabletop Fire Pits"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Allstar2.jpg?VersionId=wNJN91E2R_7IJ21F_pDdZ3_.88UqosZ7",
+    "Caption": "Lot Code Sticker Location"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Allstar3.jpg?VersionId=anxYG.IIx7qzJea9ZJr_EsNvheJK6IpS",
+    "Caption": "Sharper Image Tabletop Infinity Fire Pits"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Allstar4.jpg?VersionId=giEXTZpT5qFk_s7rUufvy4Wgm4jpH1qi",
+    "Caption": "Lot Code Sticker Location"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received four reports of ignited fuel escaping from the unit during use, resulting in four injuries including third and fourth degree burns to multiple body parts."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nAce Hardware, Burlington, Home Depot, Lowe’s, Kohl’s, Marshalls, Nordstrom, Rite Aid, Target, TJ Maxx, Walgreens, Walmart and other retailers nationwide, and online, including Amazon.com and Hsn.com from January 2023 through June 2026 for between $30 and $50.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Allstar Marketing Group, LLC, of Winston-Salem, North Carolina",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "Ignited flammable liquid can escape from the recalled fire pits or trigger flame jetting from the fuel containers, posing a risk of serious injury from burn and fire hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled fire pits immediately and contact Allstar for a full refund. Consumers will be asked to register at www.firepitrecall.expertinquiry.com, write “RECALLED – DO NOT USE” in permanent marker, and submit three photographs following the instructions on Allstar’s recall page. After registration is confirmed, consumers should dispose of any remaining fuel in accordance with local hazardous-waste requirements and discard the recalled fire pits safely."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

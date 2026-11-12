@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11061,
+  "RecallNumber": "27083",
+  "RecallDate": "2026-11-12T00:00:00",
+  "Description": "This recall involves Baby Rattle and Teether Toy Sets. The sets include seven toys in a variety of pastel colors and shapes. SKU “sk25070936134444119” is located on the upper right corner of a label on the product packaging.",
+  "URL": "https://www.cpsc.gov/Recalls/2027/SHEIN-Distribution-Corporation-Recalls-Baby-Rattle-and-Teether-Toy-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Small-Parts-Ban",
+  "Title": "SHEIN Distribution Corporation Recalls Baby Rattle and Teether Toy Sets Due to Risk of Serious Injury or Death from Choking; Violate Mandatory Small Parts Ban",
+  "ConsumerContact": "SHEIN toll-free at 833-853-8668 from 9 a.m. to 6 p.m. PT Monday through Friday, by email at uscsteam@shein.com or online at https://us.shein.com/product-recalls/list or https://us.shein.com and click on “Product Recalls” at the bottom of the page for more information. ",
+  "LastPublishDate": "2026-11-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Baby Rattle and Teether Toy Sets",
+    "Description": "",
+    "Model": "",
+    "Type": "Other Toys",
+    "CategoryID": "1441",
+    "NumberOfUnits": "About 2,657"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/SHEIN1.png?VersionId=nc4muf0nvKslmOn7pNfTB913BBvAarBo",
+    "Caption": "Recalled Baby Rattle and Teether Toy Set"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/SHEIN2_0.png?VersionId=clpjXnDwM07oT4CCPCGl_k6xcZ7Q7F88",
+    "Caption": "Recalled Baby Rattle and Teether Toy Set in Packaging"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/SHEIN3_0.png?VersionId=0dUkCDm6_hsURaIsmHVcL4KTyToQgwre",
+    "Caption": "Recalled Baby Rattle and Teether Toy Set Packaging with label"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nUS.Shein.com from November 2025 through July 2026 for about $10",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "SHEIN Distribution Corporation, of Los Angeles, California",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled toy sets violate the small parts ban because they are intended for children under three years old and the purple and orange knobs can detach from the product, posing a deadly choking hazard to young children.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled toy sets immediately, take them away from children, and contact SHEIN for a refund. Consumers will be asked to affirm they disposed of the toy sets to receive a refund."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

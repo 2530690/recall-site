@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11063,
+  "RecallNumber": "27088",
+  "RecallDate": "2026-11-12T00:00:00",
+  "Description": "This recall involves Boshengya-branded rugs. The pink or orange shag area rugs measure about 5 or 6 feet wide and 8 feet long. ‘INCREDIBLY SOFT’ is printed on a label on the product packaging.",
+  "URL": "https://cpsc.gov/Recalls/2027/Boshengya-Recalls-Rugs-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Carpets-and-Rugs",
+  "Title": "Boshengya Recalls Rugs Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Carpets and Rugs",
+  "ConsumerContact": "Boshengya by email at boshengya666@outlook.com.",
+  "LastPublishDate": "2026-11-12T00:00:00",
+  "Products": [
+   {
+    "Name": "Boshengya Shag Area Rugs",
+    "Description": "",
+    "Model": "",
+    "Type": "Carpets/Rugs",
+    "CategoryID": "1875",
+    "NumberOfUnits": "83"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Boshengya1.png?VersionId=SMMQh1_t0sJeavc9lm.YfEWE5trdmBJ9",
+    "Caption": "Recalled Boshengya Shag Area Rug - Pink"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Boshengya2.png?VersionId=14CtcpMpxsitqQEW45dL8ncYcI0uRNIv",
+    "Caption": "Recalled Boshengya Shag Area Rug - Orange"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/Boshengya3.png?VersionId=uvDFTmDfeo8KU9XM80bcIAt_M9mb8OdK",
+    "Caption": "‘INCREDIBLY SOFT’ is printed on a label on the product packaging of the recalled Boshengya shag area rugs."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from September 2026 through October 2026 for between $30 and $65.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Boshengya Dianzi Shangwu (Tianjin) Youxian Gongsi (Boshengya E-Commerce Tianjin Co., Ltd.), dba Boshengya, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled rugs violate the mandatory standard for the flammability of carpets and rugs, posing a risk of serious injury or death from fire hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the rugs immediately and contact Boshengya for a full refund. Consumers will be asked to destroy the rug by cutting it in half and send a photo of the destroyed rug to boshengya666@outlook.com. Consumers will then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

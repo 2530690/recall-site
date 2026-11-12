@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11062,
+  "RecallNumber": "27084",
+  "RecallDate": "2026-11-12T00:00:00",
+  "Description": "This recall involves QIOMALA-branded pressure washers with model number “HWT12P”. The 1.2 GPM electric pressure washers were sold in green with black and in blue with black and measure about 14 inches deep, 11 inches wide and 15 inches high. The pressure washers came with a 500 ml soap tank, four quick disconnect nozzles and a 20-foot hose. Model number “HWT12P” is printed on a label on back of the unit, near the power cord entry point.",
+  "URL": "https://cpsc.gov/Recalls/2027/QIOMALA-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards",
+  "Title": "QIOMALA Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards",
+  "ConsumerContact": "QIOMALA by email at QIOMALA@163.com.",
+  "LastPublishDate": "2026-11-12T00:00:00",
+  "Products": [
+   {
+    "Name": "QIOMALA Pressure Washers",
+    "Description": "",
+    "Model": "",
+    "Type": "Pressure Washers",
+    "CategoryID": "2080",
+    "NumberOfUnits": "80"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/QIOMALA1.jpg?VersionId=2eOSADecNaKPryrkec3fOM60wU397ZFW",
+    "Caption": "Recalled QIOMALA electric pressure washer-model HWT12P (green)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/QIOMALA2.jpg",
+    "Caption": "Recalled QIOMALA electric pressure washer-model HWT12P (blue)"
+   },
+   {
+    "URL": "https://cpsc.gov/s3fs-public/QIOMALA3.png",
+    "Caption": "Model number “HWT12P” shown on a label located on back of the recalled product"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.comfrom April 2026through June 2026 for about $130.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Ningbo Miyao E-Commerce Co., dba QIOMALA, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled pressure washers lack an adequate-length power cord, which can encourage use of an extension cord, posing a serious risk of injury or death from shock and electrocution hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled pressure washers immediately and contact QIOMALA for a full refund. Consumers will be asked to unplug the pressure washer, cut the power cord in half and send a photo of the destroyed power washer, showing the model number, to QIOMALA@163.com. Consumers should then dispose of the destroyed recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}
