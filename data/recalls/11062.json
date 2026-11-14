@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "QIOMALA has recalled its model HWT12P electric pressure washers because the power cord is too short. This issue may lead people to use extension cords, creating severe shock and electrocution risks that can cause critical injury or death.",
+  "next_steps": "Stop using the pressure washer right away and contact QIOMALA to obtain a full refund. You should unplug the device, cut the power cord in half, take a picture of the cut unit displaying the model number, email the photo to QIOMALA@163.com, and throw the destroyed machine away.",
+  "model": "gemini-3.8-flash"
+ }
 }

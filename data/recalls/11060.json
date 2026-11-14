@@ -81,5 +81,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Allstar has recalled about 265,000 Sharper Image tabletop and infinity fire pits due to serious fire and burn risks. Burning liquid fuel can spill from the units or cause sudden flame jetting from fuel containers, which has already caused multiple severe burn injuries.",
+  "next_steps": "Immediately stop using the fire pits and visit www.firepitrecall.expertinquiry.com to register for a full refund. You will need to write \"RECALLED – DO NOT USE\" on the item with permanent marker, submit three photos per the online instructions, safely discard the unit, and dispose of any leftover fuel following local hazardous-waste rules.",
+  "model": "gemini-3.8-flash"
+ }
 }

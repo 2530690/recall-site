@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Boshengya has recalled certain pink and orange shag area rugs measuring roughly five or six feet wide by eight feet long. These rugs fail to meet mandatory carpet flammability safety standards, creating a fire hazard that can lead to severe injury or death.",
+  "next_steps": "Stop using the recalled rug immediately and reach out to Boshengya to request a complete refund. You must cut the rug in half, email a photograph proving it was destroyed to boshengya666@outlook.com, and then throw the pieces away.",
+  "model": "gemini-3.8-flash"
+ }
 }

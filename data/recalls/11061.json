@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "SHEIN has recalled about 2,657 Baby Rattle and Teether Toy Sets because they violate mandatory safety rules regarding small parts. The purple and orange knobs on the toys can break off, creating a severe and potentially fatal choking hazard for babies and toddlers.",
+  "next_steps": "Immediately take these toy sets away from young children and stop using them. Contact SHEIN to receive a refund after confirming that you have safely discarded the product.",
+  "model": "gemini-3.8-flash"
+ }
 }
