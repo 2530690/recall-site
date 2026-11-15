@@ -69,5 +69,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Sanven Technology has recalled approximately 1,950 black Vevor 20-inch and 24-inch BMX bicycles, specifically models SS24001 and SS24002. The bikes fail to meet federal safety and labeling standards because they lack chain guards. Without this protection, loose clothing can get caught in the chain drive, potentially causing a severe or fatal crash.",
+  "next_steps": "Riders should stop using the recalled bicycles immediately and contact Sanven Technology to receive a free repair kit. The company will send a free chain guard along with full installation instructions and customer service support to assist with the setup.",
+  "model": "gemini-3.8-flash"
+ }
 }
