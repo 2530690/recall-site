@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Kakgold has recalled its 4WD stunt vehicle toys because children can easily access the button cell and lithium-ion batteries inside the remote control. Swallowing button cell batteries can lead to severe internal chemical burns or even death. Because of this hazard, the toys fail to meet mandatory safety standards.",
+  "next_steps": "Consumers should immediately stop using the toy vehicles and contact Kakgold by emailing kakrecall@outlook.com to receive a full refund. To get the refund, mark the toy with the word “RECALLED” and email a photo showing the item properly discarded in the trash. Button cell batteries must be recycled or disposed of according to your local hazardous waste procedures.",
+  "model": "gemini-3.8-flash"
+ }
 }

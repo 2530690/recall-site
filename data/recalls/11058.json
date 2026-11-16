@@ -69,5 +69,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Huffy has recalled about 286 Buzz Bicycles Cerana T2 E-Trikes, model number E4004. The rear wheels on these electric tricycles can loosen or detach from the frame while in use. This problem poses a fall hazard that can lead to serious injuries.",
+  "next_steps": "Stop using the recalled e-trikes right away and contact Huffy to request a free replacement rear axle assembly. The new assembly can be shipped directly to you or to a repair shop, and Huffy will reimburse up to $100 for third-party repair fees.",
+  "model": "gemini-3.8-flash"
+ }
 }
