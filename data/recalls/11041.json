@@ -84,5 +84,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Bodum USA has recalled about 5.9 million 8-cup and 12-cup French press coffee makers with replaceable glass carafes, including Bistro, Brazil, Caffettiera, Chambord, Crema, Java, Jesper, and Kenya models. The glass carafes can break unexpectedly during use if they become cracked or damaged, which can happen when stirred with metal utensils. This sudden breakage creates a serious risk of burn injuries from hot coffee.",
+  "next_steps": "Stop using metal spoons or utensils to stir coffee in the glass carafe immediately. Reach out to Bodum to receive a repair that includes a plastic stirring spoon and a warning label.",
+  "model": "gemini-3.8-flash"
+ }
 }

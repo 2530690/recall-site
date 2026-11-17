@@ -81,5 +81,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Baby Brezza has recalled about 29,000 SuperFast Sterilizer Dryers because the appliances can overheat during operation. This issue creates a burn risk for anyone handling the hot surface and can also cause the plastic exterior to melt.",
+  "next_steps": "Immediately stop using the product and contact Baby Brezza Enterprises to obtain a free replacement with no shipping charges. To complete the process, register at https://babybrezza.com/pages/about?view=v3-recalls, unplug the dryer, cut the power cord, email photos of the label, destroyed unit, and return authorization number to recall@babybrezza.com, and safely dispose of the machine according to local laws.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -132,5 +132,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "About 3,662,000 Little Giant ladders featuring Rapid Locks have been recalled if they do not have an orange rectangular \"QC\" sticker. If the locks are not fully set into the rungs, the ladder can unexpectedly slide down or retract, creating a severe fall hazard that has led to numerous injuries.",
+  "next_steps": "Stop using the ladder immediately until you review safety details at www.littlegiantladders.com/pages/recalls or through the ladder's QR code, and reach out to Little Giant for a repair kit with updated labels and instructions. If a lock continues to malfunction after you apply lubrication according to the directions, contact the company for an evaluation to obtain a replacement ladder or a refund.",
+  "model": "gemini-3.8-flash"
+ }
 }

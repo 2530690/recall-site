@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Cummins has recalled about 2,960 Onan P5000iDF EFI dual fuel portable generators because of fire and burn hazards. Incorrectly installed valves can block fuel vapors from venting properly, causing pressure to build inside the gas tank. This excess pressure can blow off the fuel cap or cause gasoline to spray out.",
+  "next_steps": "Stop using the portable generator immediately and check if your unit's model and part number are included by visiting https://www.cummins.com/en-na/na/generators/portable-generators/safety-recalls/campaigns/7308. If your generator is affected, find a nearby authorized Cummins service location through https://quickserve.cummins.com to schedule a free repair.",
+  "model": "gemini-3.8-flash"
+ }
 }

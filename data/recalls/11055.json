@@ -105,5 +105,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "U.S. Titan has recalled X-Pro Eagle youth all-terrain vehicles because they violate mandatory safety standards. The speed-adjusting module provided with the ATV allows the vehicle to go faster than the legal speed limit set for riders ages 6 and older, creating a crash risk that could result in severe injury or death.",
+  "next_steps": "Immediately stop using the speed-adjusting module and reach out to X-PRO to obtain a $100 refund. Owners will be asked to mail the module back using a prepaid shipping label, but they may continue riding the vehicle without the module installed.",
+  "model": "gemini-3.8-flash"
+ }
 }

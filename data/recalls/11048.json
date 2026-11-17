@@ -85,5 +85,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Bose has recalled certain lithium-ion battery packs used with S1 Pro and S1 Pro+ portable Bluetooth speaker systems. These batteries can overheat and catch fire, creating a risk of fire damage and burn injuries.",
+  "next_steps": "Immediately stop using and remove the recalled battery packs from your speakers, which can still be used plugged into AC power. Register and submit your battery pack's serial number at www.support.bose.com/s1-battery-recall to receive a free replacement. Dispose of the old battery according to state and local rules, taking care not to place it in regular trash or standard recycling bins.",
+  "model": "gemini-3.8-flash"
+ }
 }

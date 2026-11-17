@@ -72,5 +72,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "PILLANI has recalled about 25,762 of its nursing pillows because they do not meet mandatory safety regulations. These pillows can block an infant's breathing, presenting a serious suffocation hazard that could lead to severe injury or death.",
+  "next_steps": "Stop using the pillows immediately and contact PILLANI to request a full refund. You will need to submit a photo of the product, after which you should follow the company's instructions to discard it.",
+  "model": "gemini-3.8-flash"
+ }
 }

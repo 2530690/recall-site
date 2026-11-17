@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Harkla has recalled approximately 25,541 children’s sensory swings with blue fabric seats and four-hole ceiling hooks. The ceiling hook can disconnect from its plate, posing a fall hazard that can cause severe injuries. The company has received 29 reports of the hook separating, which led to 14 injuries including two concussions and a broken arm.",
+  "next_steps": "Owners should obtain the repair remedy provided for the recalled swings. Consumers can contact Harkla toll-free at 844-442-7552, email recall@harkla.co, or visit https://harkla.co/pages/ceiling-hook-recall-2026 to arrange the repair.",
+  "model": "gemini-3.8-flash"
+ }
 }

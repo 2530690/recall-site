@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Gourmia has recalled roughly 175,951 stainless steel 9-slice digital air fryer ovens with model number GTF7530. The unit's glass doors can snap shut unexpectedly if bumped while removing items. This defect poses a burn risk to people reaching inside for hot food.",
+  "next_steps": "Consumers should stop using the recalled ovens right away. Contact Gourmia to receive a free mailed repair kit, which provides an additional doorstop along with directions for installation.",
+  "model": "gemini-3.8-flash"
+ }
 }

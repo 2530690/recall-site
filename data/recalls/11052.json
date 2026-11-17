@@ -72,5 +72,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Jiastfeng has recalled about 1,392 HAUOMS eight-drawer dressers because they are unstable when not anchored to a wall. This poses dangerous tip-over and entrapment hazards that could lead to severe injury or death for children, in violation of mandatory federal safety standards.",
+  "next_steps": "Stop using any unanchored dresser right away and place it in a location children cannot reach. To get a full refund, take out all the drawers, use a permanent marker to write \"RECALLED\" on the top, front, and sides of the dresser, email photos of the marked, taken-apart unit to recall@hauoms.com, and then throw the product away.",
+  "model": "gemini-3.8-flash"
+ }
 }

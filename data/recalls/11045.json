@@ -73,5 +73,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Arlopu has recalled approximately 10,318 slide playsets, covering models KT-CS17 and LY-31. Openings on the playsets allow a child's torso to pass through while catching their head, creating dangerous neck entrapment hazards that can lead to severe injury or death. Additionally, the basketball nets on model KT-CS17 can come unfastened and create a loop that poses entanglement and strangulation risks.",
+  "next_steps": "Immediately stop using the playsets, place them out of reach of children, and email a photo showing your model number to arlopu_support@163.com to receive a free repair kit. The company will ship new panels, basketball hoops, and setup directions to you. Once the replacement is complete, mark the old pieces as \"RECALLED\" using permanent marker and throw them away.",
+  "model": "gemini-3.8-flash"
+ }
 }

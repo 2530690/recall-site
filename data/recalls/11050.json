@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Vanderhall North America has recalled all model year 2024 through 2026 Brawley GTS electric recreational off-road vehicles. The seat belts can permanently lock while fully retracted, preventing riders from buckling up during operation. This failure leaves occupants unrestrained, creating crash and injury hazards.",
+  "next_steps": "Owners should stop driving the recalled vehicles immediately and contact an authorized Vanderhall dealer to schedule a free repair. A technician will install a special insert into each seat's belt guide slot to slow retraction and stop the belts from locking.",
+  "model": "gemini-3.8-flash"
+ }
 }

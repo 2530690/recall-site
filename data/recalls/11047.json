@@ -68,5 +68,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Kikea Store has recalled around 19,596 X-VESOLJE nursing pillows, model number NP001. The pillows violate mandatory safety standards because they can block an infant's airway. This poses a severe hazard of suffocation that could result in critical injury or death.",
+  "next_steps": "Immediately stop using the pillow and reach out to Kikea Store for a complete refund. After verifying the item with the company, cut the pillow in half, send a photo of the destroyed product to zsally929@gmail.com, and dispose of it.",
+  "model": "gemini-3.8-flash"
+ }
 }

@@ -82,5 +82,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Agrish has expanded its recall of adult portable bed rails, which includes models 12014, AG-12011, and 12016. These rails fail mandatory safety standards because users can become trapped within the rail or wedged against the mattress, creating serious suffocation and death risks. The units also pose fall and cut hazards due to improper stability and incorrectly sized push pins.",
+  "next_steps": "Stop using the recalled bed rails immediately and contact Agrish Direct to claim a full refund. Owners should visit http://www.agrish.online/recall to register for the recall and receive directions on how to dispose of the product.",
+  "model": "gemini-3.8-flash"
+ }
 }
