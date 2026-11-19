@@ -1,0 +1,72 @@
+{
+ "record": {
+  "RecallID": 11067,
+  "RecallNumber": "27092",
+  "RecallDate": "2026-11-19T00:00:00",
+  "Description": "This recall involves Kidsview infant bouncers manufactured in August, September, or October 2022. The recalled bouncers have date codes beginning with 2022/08, 2022/09 or 2022/10 located on a label sewn on the back of the fabric seat. The bouncers were sold in khaki and include an accessory bar with animal toys hanging from the bar.",
+  "URL": "https://cpsc.gov/Recalls/2027/Kidsview-Recalls-Infant-Bouncers-Due-to-Risk-of-Collapse-and-Impact-Injury-to-Infants",
+  "Title": "Kidsview Recalls Infant Bouncers Due to Risk of Collapse and Impact Injury to Infants",
+  "ConsumerContact": "Kidsview by email at haimaoziying@163.com.",
+  "LastPublishDate": "2026-11-19T00:00:00",
+  "Products": [
+   {
+    "Name": "Kidsview Infant Bouncer",
+    "Description": "",
+    "Model": "",
+    "Type": "Inflatable Bouncers",
+    "CategoryID": "2011",
+    "NumberOfUnits": "About 412"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Kidsview1.png?VersionId=2.sYwE6mTs0D0yy2P0AL7xVSE.h4fvhQ",
+    "Caption": "Recalled Kidsview Infant Bouncer"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Kidsview has received seven reports of the bouncer collapsing while in use, including two incidents in which the infant’s head struck the underlying surface. One consumer reported seeking medical attention for their infant."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from August 2022 through November 2023 for between $60 and $170.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Zhongshan Haimao Cross-border Information Technology Co., Ltd., dba Kidsview, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The bouncers can collapse while in use, posing a risk of impact injury to infants in the bouncer.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled infant bouncers immediately and contact Kidsview for an Amazon gift card. Consumers will be asked to check if their infant bouncer is recalled by viewing the date code located on a label on the back of the bouncer’s seat. Consumers with recalled bouncers will be instructed to write “RECALLED” on the product’s fabric seat with permanent marker, take a photo of it, including the label with the date code in the photo and email to haimaoziying@163.com."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

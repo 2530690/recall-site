@@ -1,0 +1,76 @@
+{
+ "record": {
+  "RecallID": 11068,
+  "RecallNumber": "27096",
+  "RecallDate": "2026-11-19T00:00:00",
+  "Description": "This recall involves CHE-US magnetic stick figure toys. The robot-shaped toys were sold in sets of five or 10 purple, blue, yellow, red and green stick figures. Each stick figure has four small magnets, one in each hand and foot. “X004N3MGCB” is printed on the back of the product packaging.",
+  "URL": "https://cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys",
+  "Title": "CHE-US Recalls Magnetic Robot Toys Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys",
+  "ConsumerContact": "CHE-US by email at CHE-USMagneticRobotToysRecall@outlook.com.",
+  "LastPublishDate": "2026-11-19T00:00:00",
+  "Products": [
+   {
+    "Name": "CHE-US Magnetic Robot Toys",
+    "Description": "",
+    "Model": "",
+    "Type": "Toy Figures",
+    "CategoryID": "2192",
+    "NumberOfUnits": "About 101,282"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/CHE-US1_0.png?VersionId=hd_X3virMdw1i3M3SIhCpNLt1znSh53a",
+    "Caption": "Recalled CHE-US Magnetic Robot Stick Figures"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/CHE-US2_0.png?VersionId=OE4B0sUpYZJ9gTzBrvKDobARsfiaoeqo",
+    "Caption": "“X004N3MGCB” is printed on the back of the CHE-US magnetic robot stick figures’ product packaging."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from April 2025 through August 2026 for between t $9 and $18.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Guangzhou Shian Trading Co., Ltd., dba CHE-US/CHESLICR, of China.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled magnetic stick figures violate the mandatory standard for toys because when pulled apart, the figures’ arms and legs liberate high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or other metal objects, and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the stick figures immediately, take them away from children and contact CHE-US for a full refund. Consumers will be asked to send a photo of the toys in the trash to CHE-USMagneticRobotToysRecall@outlook.com. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

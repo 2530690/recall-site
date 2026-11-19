@@ -1,0 +1,73 @@
+{
+ "record": {
+  "RecallID": 11070,
+  "RecallNumber": "27091",
+  "RecallDate": "2026-11-19T00:00:00",
+  "Description": "This recall involves all Vanderhall model years 2024, 2025, and 2026 Brawley GTS electric recreational off highway vehicles. The ROVs come in Emerald Green, Ida Rose, Ivory White, Jean Grey, Obsidian Black, and Royal Blue. The VIN Numbers for the affected vehicles range from XXXXXXXXXXXXX5927 - XXXXXXXXXXXXX 6152 and can be found under the dashboard on the driver’s side of the vehicle.",
+  "URL": "https://cpsc.gov/Recalls/2027/Vanderhall-Recalls-Brawley-GTS-Electric-Recreational-Off-Highway-Vehicles-ROVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+  "Title": "Vanderhall Recalls Brawley GTS Electric Recreational Off Highway Vehicles (ROVs) Due to Risk of Serious Injury or Death from Crash Hazard",
+  "ConsumerContact": "Vanderhall North America, LLC by email at inquiry@vanderhallusa.com or online at https://dealer.vanderhallusa.com/contact, https://portal.vanderhallusa.com/safety_notices, under the name of “Vanderhall North America, LLC Recalls Motor Software Update” for more information.",
+  "LastPublishDate": "2026-11-19T00:00:00",
+  "Products": [
+   {
+    "Name": "Model Year 2024-2026 Vanderhall Brawley GTS electric recreational off highway vehicles",
+    "Description": "",
+    "Model": "",
+    "Type": "Motorized Vehicles, Nec (3 or More Wheels)",
+    "CategoryID": "743",
+    "NumberOfUnits": "220"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Vanderhall1.png?VersionId=_vrV9fNeVietQueXbiyi6Lme8WIUibK1",
+    "Caption": "Recalled Brawley GTS Electric Recreational Off Highway Vehicle (Ida Rose)"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "The firm has received six reports of the vehicles’ braking system unexpectedly locking while airborne. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Vanderhall North America, LLC, of Provo, Utah",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nVanderhall North America dealers in Utah, Ohio, Michigan, Texas, Montana, North Carolina, Oklahoma, Minnesota, Illinois, and Arizona from April 2024 through August 2026 for about $50,000.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "United State"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The braking system can unexpectedly engage when the vehicle is airborne causing the operator to experience a sudden brake lockup upon landing, posing a risk of serious injury or death from a crash hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using their vehicles immediately and contact Vanderhall North America for instructions on how to receive updated firmware version 8.1.2 through the Vanderhall customer mobile app. The updated firmware was released on September 18, 2026, and can be identified by the Vanderhall logo. Owners requiring assistance updating their firmware should contact their dealer or Vanderhall directly for assistance."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Repair"
+   }
+  ]
+ },
+ "ai": null
+}

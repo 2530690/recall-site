@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11071,
+  "RecallNumber": "27093",
+  "RecallDate": "2026-11-19T00:00:00",
+  "Description": "This recall involves Fidlock Hermetic dry bags. The medium-sized, watertight plastic bags are clear and measure about 8 inches tall by 4.6 inches wide. They have a blue closure strip with magnets at the top and a black lanyard. “Fidlock” is printed in white on the front of the strip and lot number 2409140930201 is on the back. “Hermetic” is printed on the product packaging.",
+  "URL": "https://cpsc.gov/Recalls/2027/Fidlock-GmbH-Recalls-Hermetic-Dry-Bags-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Hazard",
+  "Title": "Fidlock GmbH Recalls Hermetic Dry Bags Due to Risk of Serious Injury or Death from Magnet Ingestion Hazard",
+  "ConsumerContact": "Fidlock USA toll-free at 888-303-8332 from 8:30 a.m. to 5 p.m. ET, Monday through Friday, email at recall_2608@fidlock.com, or online at www.fidlock.us/pages/recall or www.fidlock.us and click on “More Recall Information” for more information.",
+  "LastPublishDate": "2026-11-19T00:00:00",
+  "Products": [
+   {
+    "Name": "Fidlock Hermetic Dry Bags",
+    "Description": "",
+    "Model": "",
+    "Type": "Bags, Not Specified",
+    "CategoryID": "1327",
+    "NumberOfUnits": "About 490"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Fidlock1.png?VersionId=DHwBdcPggfGWFl1sUrgsC22TT83bDY_W",
+    "Caption": "Recalled Fidlock Hermetic dry bag"
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [
+   {
+    "Name": "Fidlock GmbH, of Hannover, Germany",
+    "CompanyID": ""
+   }
+  ],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nSports, water sports and outdoor stores nationwide and online at Fidlock.us and Amazon.com from January 2025 through September 2026 for between $30 and $35.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Fidlock USA, of Tucker, Georgia",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled bags’ adhesive closure strips can detach, causing the magnets to fall out, posing a risk of serious injury or death from a magnet ingestion hazard.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the bags immediately and contact Fidlock USA to receive a replacement bag or a gift card for the Fidlock USA online shop. Customers who purchased the product from the FIDLOCK online store can receive a full refund in the form of a credit card refund or PayPal refund. Consumers will be asked to go to www.fidlock.us/pages/recall and send a photo of the product. Consumers should then dispose of the recalled product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   },
+   {
+    "Option": "Replace"
+   }
+  ]
+ },
+ "ai": null
+}

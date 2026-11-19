@@ -1,0 +1,80 @@
+{
+ "record": {
+  "RecallID": 11065,
+  "RecallNumber": "27094",
+  "RecallDate": "2026-11-19T00:00:00",
+  "Description": "This recall involves Qpancy-branded matching pajama sets. They include children’s pajamas that consist of a long-sleeve, button-front top with a front pocket and shorts, and matching pajamas for dolls. The sets were sold in multicolored cat, pink bow, pink and white striped bow, and pink and white stripes, and in sizes 120 (4–5T) through 150 (10–11Y). The brand is printed on a neck label and the size on a sewn-in side-seam label.",
+  "URL": "https://cpsc.gov/Recalls/2027/Qpancy-Recalls-Childrens-Pajama-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standards-for-Childrens-Sleepwear",
+  "Title": "Qpancy Recalls Children’s Pajama Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standards for Children’s Sleepwear",
+  "ConsumerContact": "Qpancy by email at qpancyrecall@outlook.com",
+  "LastPublishDate": "2026-11-19T00:00:00",
+  "Products": [
+   {
+    "Name": "Qpancy Children’s Pajama Sets",
+    "Description": "",
+    "Model": "",
+    "Type": "Nightwear",
+    "CategoryID": "123",
+    "NumberOfUnits": "About 1,309"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Qpancy1.png?VersionId=krHytMRChj8bP0rVxxlDQCa2dOFFds0e",
+    "Caption": "Recalled Qpancy Children’s Pajama Sets – Multicolored Cat and Pink Bows"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Qpancy2.png?VersionId=.ZL6aXSlb2mdwJ2LuTw9vpFouy_OwCv3",
+    "Caption": "Recalled Qpancy Children’s Pajama Sets – Pink Stripes with Bows and Pink and White Stripes"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Qpancy3.png?VersionId=4vDtD8k.I40MOoagPPybOsNN_svMYiAH",
+    "Caption": "The size on a sewn-in side-seam label of the recalled Qpancy children’s pajama sets."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported"
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nAmazon.com from March 2026 through August 2026 for about $20.",
+    "CompanyID": ""
+   },
+   {
+    "Name": "Shanghai Shengkailong Trading Co., Ltd., dba Qpancy, of China",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled children’s pajama sets violate the mandatory safety standards for children’s sleepwear posing a risk of serious burn injuries.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the recalled pajama sets immediately and contact Qpancy for a full refund. Consumers will be asked to cut the pajama in half and send a photo of the destroyed pajamas to qpancyrecall@outlook.com. Consumers should then dispose of the destroyed product."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

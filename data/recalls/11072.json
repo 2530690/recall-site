@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11072,
+  "RecallNumber": "27097",
+  "RecallDate": "2026-11-19T00:00:00",
+  "Description": "This recall involves ororo’s rechargeable lithium-ion battery packs, model PD10K-Pro. The black battery packs have a built-in USB-C cable and a digital display. “ororo” is written on the front of the battery pack. The model and a seven alphanumeric serial number starting with 67U, 685, 686 or 68A is printed on the back.",
+  "URL": "https://cpsc.gov/Recalls/2027/Ororo-Recalls-Rechargeable-Lithium-Ion-Battery-Packs-Due-to-Risk-of-Serious-Injury-from-Fire-and-Burn-Hazards",
+  "Title": "Ororo Recalls Rechargeable Lithium-Ion Battery Packs Due to Risk of Serious Injury from Fire and Burn Hazards",
+  "ConsumerContact": "Ororo at 702-751-7639 between 9 a.m. to 6 p.m. ET, Monday through Friday, email at recall@ororowear.com, or online at Ororowear.com/pd10k-pro-recall or Ororowear.com and click on “Recall” for more information.",
+  "LastPublishDate": "2026-11-19T00:00:00",
+  "Products": [
+   {
+    "Name": "Ororo PD10K-Pro Rechargeable Lithium-Ion Battery Packs",
+    "Description": "",
+    "Model": "",
+    "Type": "Battery Chargers",
+    "CategoryID": "1200",
+    "NumberOfUnits": "About 269 (In addition, about 24 were sold in Canada)"
+   }
+  ],
+  "Inconjunctions": [
+   {
+    "URL": "https://recalls-rappels.canada.ca/en/alert-recall/ororo-pd10k-pro-rechargeable-lithium-ion-battery-recalled-due-fire-hazard"
+   }
+  ],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Ororo1.gif?VersionId=8BOWWSJRrG7oR7n5exbg3vK8Lncyvnxc",
+    "Caption": "Recalled ororo PD10K-Pro Rechargeable Lithium-ion Battery Pack"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Ororo2.gif?VersionId=R0eK_xBXpX6JW6mBv_EQNffo3RN0WA.l",
+    "Caption": "“PD10K-Pro” and a seven alphanumeric serial number starting with 67U, 685, 686 or 68A is printed on the back of the recalled ororo battery packs."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "Ororo has received one report of the battery pack overheating. No injuries have been reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold Online At:\nOrorowear.com and Amazon.com from September 2026 through October 2026 for about $109.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [
+   {
+    "Name": "Langis LLC, dba ororo, of Las Vegas, Nevada",
+    "CompanyID": ""
+   }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled lithium-ion battery packs can overheat, posing a risk of serious injury from fire and burn hazards.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the battery packs immediately and contact ororo for a full refund. Consumers will be asked to go to Ororowear.com/pd10k-pro-recall to register and to receive disposal instructions. Once registered, consumers should dispose of the recalled battery packs in accordance with local and state regulations.  \n\nNote: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}

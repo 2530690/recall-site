@@ -1,0 +1,81 @@
+{
+ "record": {
+  "RecallID": 11064,
+  "RecallNumber": "27098",
+  "RecallDate": "2026-11-19T00:00:00",
+  "Description": "This recall involves Cipton-branded bicycle helmets. They were sold in white and in youth size small (S), fitting a head circumference of about 19.7 to 21.3 inches. The helmets have black padding, black straps, black buckle and a built-in, multi-colored LED light strip. Model “CPSK300CC” is printed on a label on the inside of the helmet.",
+  "URL": "https://cpsc.gov/Recalls/2027/Cipton-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+  "Title": "Cipton Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
+  "ConsumerContact": "Cipton at 888-588-1629 from 9 a.m. to 5 p.m. ET Monday through Friday, email at Reply@customersupport123.com, or online at Southerntelecom.com/recall-2026-11-19 or Southerntelecom.com and click “Recall” at the top of the page for more information.",
+  "LastPublishDate": "2026-11-19T00:00:00",
+  "Products": [
+   {
+    "Name": "Cipton Bike Helmets",
+    "Description": "",
+    "Model": "",
+    "Type": "Headgear or Helmets",
+    "CategoryID": "1342",
+    "NumberOfUnits": "16,730"
+   }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Cipton1.jpg?VersionId=dfWdhUzGnJmD6AN78a2Eodzd7FsoIuZS",
+    "Caption": "Recalled Cipton Helmet"
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Cipton2.jpg?VersionId=QYG6bxusUrs1RxLGYcGzBEPLaQjZFgnh",
+    "Caption": "The recalled Cipton helmet has a built-in multi-colored LED strip."
+   },
+   {
+    "URL": "https://www.cpsc.gov/s3fs-public/Cipton3.jpg?VersionId=j0GZ2u..5NLxfYTwAuEwynkYjoVtQidr",
+    "Caption": "Model “CPSK300CC” is printed on a label inside the recalled Cipton helmets."
+   }
+  ],
+  "Injuries": [
+   {
+    "Name": "None reported."
+   }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+   {
+    "Name": "Sold At:\nDicks Sporting Goods and JC Penny nationwide and online at Dickssportinggoods.com from April 2024 through May 2026 for about $35.",
+    "CompanyID": ""
+   }
+  ],
+  "Importers": [],
+  "Distributors": [
+   {
+    "Name": "Hardline Group, dba Cipton, of Brooklyn, New York",
+    "CompanyID": ""
+   }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+   {
+    "Country": "China"
+   }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+   {
+    "Name": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the impact attenuation, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
+    "HazardType": "",
+    "HazardTypeID": ""
+   }
+  ],
+  "Remedies": [
+   {
+    "Name": "Consumers should stop using the helmets immediately and contact Cipton for a full refund. Consumers will be asked to destroy the helmet by cutting the straps and writing in permanent marker “Recalled” on the helmet and send a photo of the destroyed helmet to Reply@customersupport123.com. Consumers should then dispose of the recalled product. \n\n\nNote: Do not throw this defective lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or in used battery recycling boxes found at various retail and home improvement stores. Defective lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this defective lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact it ahead of time and ask whether it accepts defective lithium-ion batteries. If it does not, contact your municipality for further guidance."
+   }
+  ],
+  "RemedyOptions": [
+   {
+    "Option": "Refund"
+   }
+  ]
+ },
+ "ai": null
+}
