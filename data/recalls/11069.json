@@ -82,5 +82,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Xentrawave has recalled approximately 2,114 adult portable bed rails, including all XT016 models and select XT026 models with batch number 20251212. These products fail mandatory safety standards because users can become trapped within the rail or between the rail and the mattress, presenting serious suffocation and entrapment hazards that have resulted in one reported death. In addition, the XT016 model lacks required stability and features incorrectly sized push pins that pose a laceration risk.",
+  "next_steps": "Consumers must stop using the recalled bed rails immediately and contact Xentrawave to receive a full refund. To get the refund, owners need to cut the foam padding on the handle grips, take a picture of the destroyed rail, and either email the photo to xentrawavedirect@163.com or upload it at https://xentrawahelp.com/xentrawave-bed-rail-safety-recall/.",
+  "model": "gemini-3.8-flash"
+ }
 }
