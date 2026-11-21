@@ -76,5 +76,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Qpancy has recalled about 1,309 children's pajama sets that include matching doll outfits because they fail to meet federal safety standards for children's sleepwear. Due to this violation, the garments present a burn hazard that could lead to severe injuries.",
+  "next_steps": "Immediately stop using the sleepwear and contact Qpancy to receive a full refund. To get the refund, cut the pajamas in half, email a photograph showing the destroyed clothing to qpancyrecall@outlook.com, and then discard the pieces.",
+  "model": "gemini-3.8-flash"
+ }
 }
