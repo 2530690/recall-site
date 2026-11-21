@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Ororo has recalled its model PD10K-Pro rechargeable lithium-ion battery packs. The units can overheat, creating fire and burn hazards that could result in serious injuries.",
+  "next_steps": "Immediately stop using the battery packs and contact Ororo to obtain a full refund. Consumers must register at Ororowear.com/pd10k-pro-recall for disposal directions and follow local and state regulations for proper disposal instead of placing the battery in household trash or standard recycling bins.",
+  "model": "gemini-3.8-flash"
+ }
 }
