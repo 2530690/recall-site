@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Fidlock GmbH has recalled approximately 490 Hermetic Dry Bags because the adhesive closure strips can detach and release loose magnets. If these magnets fall out and are swallowed, they pose a serious injury or death hazard.",
+  "next_steps": "Immediately stop using the product and go to www.fidlock.us/pages/recall to submit a photo of the bag, then throw it away. Contact Fidlock USA to claim a replacement bag, an online store gift card, or a full refund if you purchased it directly from the FIDLOCK online store.",
+  "model": "gemini-3.8-flash"
+ }
 }
