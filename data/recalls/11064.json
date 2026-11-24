@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Cipton has recalled about 16,730 youth bicycle helmets, model CPSK300CC, equipped with LED light strips. The helmets fail to comply with mandatory safety requirements for impact absorption and stability. Because they can fail to shield a rider during an accident, they present a serious risk of severe head injury or death.",
+  "next_steps": "Immediately stop wearing the helmet and reach out to Cipton to get a full refund. You will need to destroy the helmet by slicing off the straps, writing \"Recalled\" on the exterior with permanent marker, and emailing a photo of the ruined item to Reply@customersupport123.com. Afterward, dispose of the product according to local hazardous waste rules instead of placing the battery in standard trash or household recycling.",
+  "model": "gemini-3.8-flash"
+ }
 }

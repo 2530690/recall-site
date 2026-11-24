@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "INMO International has recalled its Air3 Smart Glasses because the left temple can overheat when worn for long periods. This flaw creates a burn hazard that could cause severe injury or death, with several customers already reporting burning sensations to their face and ear.",
+  "next_steps": "Consumers should stop using the recalled glasses immediately and reach out to INMO for a free repair. The company will guide users through updating the device software online to version V3.16.",
+  "model": "gemini-3.8-flash"
+ }
 }

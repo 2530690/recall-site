@@ -72,5 +72,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "CHE-US has recalled about 101,282 magnetic robot stick figure toys because they fail to meet mandatory toy safety standards. The figures can release powerful magnets from their arms and legs when pulled apart. If a child swallows these magnets, they can attract to one another inside the digestive system, causing severe internal blockages, perforations, blood poisoning, or death.",
+  "next_steps": "Immediately take the toys away from children and stop using them. To receive a full refund, take a picture of the figures placed in the trash, email the photo to CHE-USMagneticRobotToysRecall@outlook.com, and then throw the toys away.",
+  "model": "gemini-3.8-flash"
+ }
 }

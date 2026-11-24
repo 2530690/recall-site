@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Gazelle USA has recalled several models of Urban Arrow cargo electric bikes, including the Family, Shorty, Cargo L/XL, and Tender 1000/1500 lines with two silver bolts on the seat post. The front bolt securing the seat post clamp can break, which can loosen the seat and lead to rider falls.",
+  "next_steps": "Consumers should immediately stop using these bicycles and register for a free replacement saddle and seat post by contacting Gazelle USA or submitting the form at https://forms.gle/1Nir9NrR7aJcpwRk8. The new parts can be installed at home without special tools, or owners can visit a shop found at https://urbanarrow.com/dealers for a free professional repair.",
+  "model": "gemini-3.8-flash"
+ }
 }

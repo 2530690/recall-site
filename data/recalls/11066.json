@@ -101,5 +101,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Hultafors Group North America has recalled about 229,430 CLC Lighted Portfolios along with Johnson Level digital angle locators, calipers, and building calculators. These tools violate safety standards because young children can easily access the button cell batteries, and the packaging lacks required safety warnings. Swallowing these batteries can cause severe internal chemical burns, serious injury, or death.",
+  "next_steps": "Immediately stop using the tools and place them where children cannot reach them. Consumers should visit www.HG2026.expertinquiry.com to upload a photo of the product and certify that it has been disposed of and will not be used again to get a refund through a virtual Visa gift card. Dispose of or recycle the button cell batteries by following your local hazardous waste rules.",
+  "model": "gemini-3.8-flash"
+ }
 }

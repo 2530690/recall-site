@@ -77,5 +77,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Gobi Heat has recalled its rechargeable hand warmers, model UT3053, because their built-in batteries and electrical components can overheat and catch fire. This issue creates serious fire and burn hazards for users.",
+  "next_steps": "Stop using the hand warmers immediately and visit https://gobiheat.com/pages/handwarmer-recall to request a claim number for a full refund or store credit. You must write \"Recalled\" on the device in permanent marker, email a photo showing the markings and model number to recall@gobiheat.com, and safely dispose of the device according to local hazardous waste rules rather than placing it in regular trash or recycling.",
+  "model": "gemini-3.8-flash"
+ }
 }

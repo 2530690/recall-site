@@ -72,5 +72,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "About 324 5Color children's bike helmet and pad sets featuring size small pink helmets have been recalled. The helmets fail to comply with mandatory federal safety standards for impact absorption, positional stability, and strap strength. Because of these failures, the helmets might not protect riders during an accident, posing a serious danger of severe head injury or death.",
+  "next_steps": "Stop using the helmets immediately and reach out to 5Color to receive a complete refund. Cut the helmet's straps to destroy it, email a picture of the damaged helmet to FiveColorCS@163.com, and dispose of it. You may keep the included knee and elbow pads.",
+  "model": "gemini-3.8-flash"
+ }
 }
