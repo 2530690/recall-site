@@ -69,5 +69,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Vanderhall is recalling its model year 2024 to 2026 Brawley GTS electric recreational off-highway vehicles. The brakes can unexpectedly turn on while the vehicle is airborne, causing the wheels to lock up upon landing. This malfunction creates a dangerous crash hazard that can lead to severe injury or death.",
+  "next_steps": "Owners should stop driving these vehicles immediately and contact Vanderhall North America for instructions on downloading firmware version 8.1.2 through the customer mobile app. If you need assistance completing this software repair, contact your dealer or Vanderhall directly.",
+  "model": "gemini-3.8-flash"
+ }
 }

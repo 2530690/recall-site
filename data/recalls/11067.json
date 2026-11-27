@@ -68,5 +68,9 @@
    }
   ]
  },
- "ai": null
+ "ai": {
+  "summary": "Kidsview has recalled around 412 khaki infant bouncers made between August and October 2022 because they can collapse unexpectedly during use. This defect poses an impact injury hazard to babies, and multiple collapses have already resulted in injuries.",
+  "next_steps": "Stop using the bouncer immediately and look at the tag on the back of the fabric seat to verify your date code. If your product is recalled, use a permanent marker to write \"RECALLED\" on the fabric seat, photograph the writing along with the date code label, and email the picture to haimaoziying@163.com to receive an Amazon gift card refund.",
+  "model": "gemini-3.8-flash"
+ }
 }
